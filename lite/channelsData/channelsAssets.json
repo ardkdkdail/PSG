@@ -227,9 +227,7 @@
     },
     "configshubplus": {
         "types": [
-            "vless",
-            "ss",
-            "vmess"
+            "vless"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -514,8 +512,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -929,8 +927,8 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "vmess",
+            "trojan",
             "ss",
             "vless"
         ],
@@ -1002,10 +1000,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
             "trojan",
+            "ss",
             "vless",
-            "ss"
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2423,9 +2421,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
             "ss",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2518,6 +2516,7 @@
     "v2raych": {
         "types": [
             "vless",
+            "ss",
             "trojan",
             "vmess"
         ],
@@ -3117,7 +3116,6 @@
     },
     "vpnv2raytop": {
         "types": [
-            "vmess",
             "vless"
         ],
         "title": "فروش عمده فیلترشکن",
