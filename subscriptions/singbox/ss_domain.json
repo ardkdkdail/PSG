@@ -101,11 +101,9 @@
                 "🇬🇧 GB | 🔒 SS | @fastkanfig [2]",
                 "🇬🇧 GB | 🔒 SS | @fastkanfig [3]",
                 "🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]",
-                "🇩🇪 DE | 🔒 SS | @freakconfig [15]",
+                "🇩🇪 DE | 🔒 SS | @freakconfig [14]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
-                "🇩🇪 DE | 🔒 SS | @ip_cf_config [1]",
-                "🇸🇪 SE | 🔒 SS | @ip_cf_config [8]",
-                "🇺🇸 US | 🔒 SS | @ip_cf_config [15]",
+                "🇺🇸 US | 🔒 SS | @ip_cf_config [5]",
                 "🇮🇷 IR | 🔒 SS | @jeyksatan [7]",
                 "🇬🇧 GB | 🔒 SS | @jeyksatan [8]",
                 "🇬🇧 GB | 🔒 SS | @kafing_2 [4]",
@@ -155,11 +153,9 @@
                 "🇬🇧 GB | 🔒 SS | @fastkanfig [2]",
                 "🇬🇧 GB | 🔒 SS | @fastkanfig [3]",
                 "🇬🇧 GB | 🔒 SS | @filtershekan_channel [5]",
-                "🇩🇪 DE | 🔒 SS | @freakconfig [15]",
+                "🇩🇪 DE | 🔒 SS | @freakconfig [14]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
-                "🇩🇪 DE | 🔒 SS | @ip_cf_config [1]",
-                "🇸🇪 SE | 🔒 SS | @ip_cf_config [8]",
-                "🇺🇸 US | 🔒 SS | @ip_cf_config [15]",
+                "🇺🇸 US | 🔒 SS | @ip_cf_config [5]",
                 "🇮🇷 IR | 🔒 SS | @jeyksatan [7]",
                 "🇬🇧 GB | 🔒 SS | @jeyksatan [8]",
                 "🇬🇧 GB | 🔒 SS | @kafing_2 [4]",
@@ -348,7 +344,7 @@
             "password": "69MUii7VDwMqh7Hz"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 SS | @freakconfig [15]",
+            "tag": "🇩🇪 DE | 🔒 SS | @freakconfig [14]",
             "type": "shadowsocks",
             "server": "h110vpnde2.outlinekeys.net",
             "server_port": 53122,
@@ -364,23 +360,7 @@
             "password": "3qbOlPe0SbNGznFQmGt6FA"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 SS | @ip_cf_config [1]",
-            "type": "shadowsocks",
-            "server": "fin.outlinebot1.ru",
-            "server_port": 5904,
-            "method": "chacha20-ietf-poly1305",
-            "password": "5TZnwPb23pQS39lIucspJw"
-        },
-        {
-            "tag": "🇸🇪 SE | 🔒 SS | @ip_cf_config [8]",
-            "type": "shadowsocks",
-            "server": "azure-sto.edgeservers.org",
-            "server_port": 48172,
-            "method": "chacha20-ietf-poly1305",
-            "password": "51yloQC8D9w1Wae7FHtI65"
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 SS | @ip_cf_config [15]",
+            "tag": "🇺🇸 US | 🔒 SS | @ip_cf_config [5]",
             "type": "shadowsocks",
             "server": "beesyar.org",
             "server_port": 8080,

@@ -26,9 +26,7 @@ proxies:
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @directvpn [15]","type":"trojan","server":"18.158.179.227","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @directvpn [16]","type":"trojan","server":"51.44.136.221","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @directvpn [17]","type":"trojan","server":"15.237.10.200","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
-  - {"name":"🇺🇸 US | 🔓 TROJAN | @hope_net [18]","type":"trojan","server":"92.53.190.87","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
-  - {"name":"🚩 CF | 🔓 TROJAN | @hope_net [19]","type":"trojan","server":"172.64.49.211","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
-  - {"name":"🇺🇸 US | 🔒 TROJAN | @ip_cf_config [12]","type":"trojan","server":"198.23.229.250","port":443,"password":"2ee85121-31de-4581-a492-eb00f606e392","skip-cert-verify":false}
+  - {"name":"🚩 CF | 🔓 TROJAN | @hope_net [20]","type":"trojan","server":"104.17.13.218","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
   - {"name":"🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]","type":"trojan","server":"146.190.87.238","port":443,"password":"oZAugtgF5T","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]","type":"trojan","server":"3.70.33.164","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @privatevpns [15]","type":"trojan","server":"18.158.179.227","port":22222,"password":"telegram-id-privatevpns","skip-cert-verify":false}
@@ -57,9 +55,7 @@ proxy-groups:
       - '🇩🇪 DE | 🔒 TROJAN | @directvpn [15]'
       - '🇫🇷 FR | 🔒 TROJAN | @directvpn [16]'
       - '🇫🇷 FR | 🔒 TROJAN | @directvpn [17]'
-      - '🇺🇸 US | 🔓 TROJAN | @hope_net [18]'
-      - '🚩 CF | 🔓 TROJAN | @hope_net [19]'
-      - '🇺🇸 US | 🔒 TROJAN | @ip_cf_config [12]'
+      - '🚩 CF | 🔓 TROJAN | @hope_net [20]'
       - '🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]'
       - '🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]'
       - '🇩🇪 DE | 🔒 TROJAN | @privatevpns [15]'
