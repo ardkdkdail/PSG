@@ -99,7 +99,6 @@
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
-                "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
@@ -145,7 +144,6 @@
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [36]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
@@ -157,9 +155,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @freevlessvpn [1]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [9]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇩🇪 DE | 🔒 VLESS | @ghalagyann [20]",
-                "🇳🇱 NL | 🔒 VLESS | @ghalagyann2 [7]",
-                "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [9]",
+                "🇩🇪 DE | 🔒 VLESS | @ghalagyann [21]",
+                "🇳🇱 NL | 🔒 VLESS | @ghalagyann2 [6]",
+                "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [8]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
@@ -228,7 +226,6 @@
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
-                "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
@@ -274,7 +271,6 @@
                 "❔ XX | 🔒 VLESS | @xsv2ray [7]",
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
-                "🇺🇸 US | 🔒 VLESS | @config_proxy [36]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
@@ -286,9 +282,9 @@
                 "🇬🇧 GB | 🔒 VLESS | @freevlessvpn [1]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [9]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇩🇪 DE | 🔒 VLESS | @ghalagyann [20]",
-                "🇳🇱 NL | 🔒 VLESS | @ghalagyann2 [7]",
-                "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [9]",
+                "🇩🇪 DE | 🔒 VLESS | @ghalagyann [21]",
+                "🇳🇱 NL | 🔒 VLESS | @ghalagyann2 [6]",
+                "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [8]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
@@ -591,29 +587,6 @@
                     "enabled": true,
                     "public_key": "y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
-            "type": "vless",
-            "server": "Loadbalance.systemgamingirani.ir",
-            "server_port": 443,
-            "uuid": "4e21e86a-46f1-4272-bdb3-bac8bc6839ab",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg",
-                    "short_id": "b7859e878ab2fb"
                 }
             }
         },
@@ -1713,29 +1686,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @config_proxy [36]",
-            "type": "vless",
-            "server": "18.119.110.184",
-            "server_port": 4433,
-            "uuid": "7fc993f5-7cd7-4485-9e6f-1f7c5160c910",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "stackoverflow.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "tZn5Tdrk045zSTbBEzGwSV_LOdCZqEwT8c85pJOK_C0",
-                    "short_id": "f785b38130e64177"
-                }
-            }
-        },
-        {
             "tag": "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
             "type": "vless",
             "server": "172.232.33.18",
@@ -2005,7 +1955,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @ghalagyann [20]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @ghalagyann [21]",
             "type": "vless",
             "server": "91.107.189.227",
             "server_port": 24070,
@@ -2032,7 +1982,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @ghalagyann2 [7]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @ghalagyann2 [6]",
             "type": "vless",
             "server": "165.22.205.134",
             "server_port": 443,
@@ -2059,7 +2009,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [9]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [8]",
             "type": "vless",
             "server": "91.107.189.227",
             "server_port": 24070,

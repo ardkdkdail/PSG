@@ -98,10 +98,12 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
+                "❔ XX | 🔒 TROJAN | @fastfreeconfig [54]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
-                "❔ XX | 🔓 TROJAN | @hope_net [15]",
+                "❔ XX | 🔓 TROJAN | @hope_net [13]",
                 "🇺🇸 US | 🔒 TROJAN | @hopev2ray [1]",
+                "❔ XX | 🔓 TROJAN | @ip_cf_config [11]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "❔ XX | 🔒 TROJAN | @jiedianf [3]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
@@ -126,7 +128,6 @@
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [38]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [39]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [40]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [42]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [1]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [2]",
@@ -147,10 +148,12 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
+                "❔ XX | 🔒 TROJAN | @fastfreeconfig [54]",
                 "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
-                "❔ XX | 🔓 TROJAN | @hope_net [15]",
+                "❔ XX | 🔓 TROJAN | @hope_net [13]",
                 "🇺🇸 US | 🔒 TROJAN | @hopev2ray [1]",
+                "❔ XX | 🔓 TROJAN | @ip_cf_config [11]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "❔ XX | 🔒 TROJAN | @jiedianf [3]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
@@ -175,7 +178,6 @@
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [38]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [39]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [40]",
-                "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [42]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [1]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [2]",
@@ -372,6 +374,22 @@
             }
         },
         {
+            "tag": "❔ XX | 🔒 TROJAN | @fastfreeconfig [54]",
+            "type": "trojan",
+            "server": "1.mg.us.cat77.cloud",
+            "server_port": 1434,
+            "password": "cd27884b-c5af-34ec-b75f-8248077818fe",
+            "tls": {
+                "enabled": true,
+                "server_name": "1.mg.us.cat77.cloud",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 TROJAN | @fati_ffx [2]",
             "type": "trojan",
             "server": "t3.teslacdn2.live",
@@ -404,7 +422,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 TROJAN | @hope_net [15]",
+            "tag": "❔ XX | 🔓 TROJAN | @hope_net [13]",
             "type": "trojan",
             "server": "yyyyyyyyymahdi1.v2ryng01.ru",
             "server_port": 8443,
@@ -419,6 +437,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "usa.test3.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔓 TROJAN | @ip_cf_config [11]",
+            "type": "trojan",
+            "server": "stirring-parakeet.shiner427.skin",
+            "server_port": 443,
+            "password": "74260628090146500",
+            "tls": {
+                "enabled": true,
+                "server_name": "stirring-parakeet.shiner427.skin",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -834,22 +868,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "mumbai-m2.4422331.xyz",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
-            "type": "trojan",
-            "server": "1.mg.us.cat77.cloud",
-            "server_port": 1434,
-            "password": "cd27884b-c5af-34ec-b75f-8248077818fe",
-            "tls": {
-                "enabled": true,
-                "server_name": "1.mg.us.cat77.cloud",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

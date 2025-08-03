@@ -97,7 +97,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [7]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [9]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [17]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [37]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [36]",
                 "🇫🇮 FI | 🔓 VLESS | @configfa [1]",
                 "🚩 CF | 🔓 VLESS | @configscenter [3]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
@@ -136,7 +136,7 @@
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [13]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [11]",
                 "❔ XX | 🔓 VLESS | @proxy_v2box [3]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [14]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -162,7 +162,6 @@
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [14]",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [15]",
                 "🇺🇸 US | 🔓 VLESS | @configms [2]",
-                "🇴🇲 OM | 🔓 VLESS | @configshubplus [5]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [3]",
@@ -209,6 +208,7 @@
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [4]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [2]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [14]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raych [14]",
                 "🇪🇸 ES | 🔒 VLESS | @v2rayexpress [8]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
@@ -231,7 +231,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]"
+                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]",
+                "🇴🇲 OM | 🔓 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -247,7 +248,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [7]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [9]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [17]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [37]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [36]",
                 "🇫🇮 FI | 🔓 VLESS | @configfa [1]",
                 "🚩 CF | 🔓 VLESS | @configscenter [3]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
@@ -286,7 +287,7 @@
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [13]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [11]",
                 "❔ XX | 🔓 VLESS | @proxy_v2box [3]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [14]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -312,7 +313,6 @@
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [14]",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [15]",
                 "🇺🇸 US | 🔓 VLESS | @configms [2]",
-                "🇴🇲 OM | 🔓 VLESS | @configshubplus [5]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [3]",
@@ -359,6 +359,7 @@
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [4]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [2]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [14]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raych [14]",
                 "🇪🇸 ES | 🔒 VLESS | @v2rayexpress [8]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
@@ -381,7 +382,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]"
+                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]",
+                "🇴🇲 OM | 🔓 VLESS | @vpnplusee_free [13]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -527,13 +529,22 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [37]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [36]",
             "type": "vless",
-            "server": "Speedtest.net",
-            "server_port": 80,
-            "uuid": "e02a83a6-16c9-4eaf-d40e-1387028d93a0",
+            "server": "server18477021984150715.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server18477021984150715.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇫🇮 FI | 🔓 VLESS | @configfa [1]",
@@ -979,7 +990,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [13]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [11]",
             "type": "vless",
             "server": "server79787566814164569.tas-bazi.com",
             "server_port": 443,
@@ -1321,24 +1332,6 @@
             "uuid": "526984f4-f84e-4933-acc7-efa38b92c552",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇴🇲 OM | 🔓 VLESS | @configshubplus [5]",
-            "type": "vless",
-            "server": "38.54.116.156",
-            "server_port": 443,
-            "uuid": "16e55e1a-6152-4d92-a422-31490e8ef563",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "38.54.116.156",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
@@ -2021,6 +2014,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raych [14]",
+            "type": "vless",
+            "server": "80.240.23.101",
+            "server_port": 443,
+            "uuid": "97d53a59-918e-45fc-bc5d-ba487f090cc1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hundleymechanical.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o",
+                    "short_id": "008c74"
+                }
+            }
+        },
+        {
             "tag": "🇪🇸 ES | 🔒 VLESS | @v2rayexpress [8]",
             "type": "vless",
             "server": "217.71.204.148",
@@ -2420,6 +2436,24 @@
                     "enabled": true,
                     "public_key": "J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg",
                     "short_id": "aa60a00122200b76"
+                }
+            }
+        },
+        {
+            "tag": "🇴🇲 OM | 🔓 VLESS | @vpnplusee_free [13]",
+            "type": "vless",
+            "server": "38.54.116.156",
+            "server_port": 443,
+            "uuid": "16e55e1a-6152-4d92-a422-31490e8ef563",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "38.54.116.156",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         }
