@@ -85,11 +85,12 @@
                 "🇸🇦 SA | 🔓 VLESS | @freakconfig [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
+                "🇩🇪 DE | 🔓 VLESS | @lranonline_new [12]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇴🇲 OM | 🔓 VLESS | @selinc [9]",
@@ -98,7 +99,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [10]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]"
             ],
             "tag": "proxy",
@@ -115,11 +116,12 @@
                 "🇸🇦 SA | 🔓 VLESS | @freakconfig [15]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
+                "🇩🇪 DE | 🔓 VLESS | @lranonline_new [12]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇴🇲 OM | 🔓 VLESS | @selinc [9]",
@@ -128,7 +130,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [10]",
+                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]"
             ],
             "tag": "auto",
@@ -302,6 +304,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @lranonline_new [12]",
+            "type": "vless",
+            "server": "91.99.239.156",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
             "type": "vless",
             "server": "49.13.199.174",
@@ -366,11 +377,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
             "type": "vless",
-            "server": "91.99.98.90",
+            "server": "91.99.85.185",
             "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "uuid": "e66beedb-dd44-47f0-baf8-7ba947d919d0",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -512,13 +523,27 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [10]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
             "type": "vless",
-            "server": "91.99.239.156",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "80.240.23.101",
+            "server_port": 443,
+            "uuid": "97d53a59-918e-45fc-bc5d-ba487f090cc1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hundleymechanical.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o",
+                    "short_id": "008c74"
+                }
+            }
         },
         {
             "tag": "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]",
