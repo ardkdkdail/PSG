@@ -82,10 +82,9 @@
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @ai_duet [8]",
                 "🇮🇷 IR | 🔒 SS | @configscenter [1]",
-                "🇩🇪 DE | 🔒 SS | @freakconfig [14]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
                 "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
-                "🇬🇧 GB | 🔒 SS | @lranonline_new [5]",
+                "🇳🇱 NL | 🔒 SS | @ip_cf_config [10]",
                 "🇨🇳 CN | 🔒 SS | @mftizi [18]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
@@ -95,7 +94,9 @@
                 "🇬🇧 GB | 🔒 SS | @prroxyng [2]",
                 "🇬🇧 GB | 🔒 SS | @serverv2ray00 [20]",
                 "🇬🇧 GB | 🔒 SS | @v2rayang201 [8]",
-                "🇯🇵 JP | 🔒 SS | @vpn451 [16]"
+                "🇬🇧 GB | 🔒 SS | @v2raybe [7]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [15]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [17]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -108,10 +109,9 @@
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @ai_duet [8]",
                 "🇮🇷 IR | 🔒 SS | @configscenter [1]",
-                "🇩🇪 DE | 🔒 SS | @freakconfig [14]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
                 "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
-                "🇬🇧 GB | 🔒 SS | @lranonline_new [5]",
+                "🇳🇱 NL | 🔒 SS | @ip_cf_config [10]",
                 "🇨🇳 CN | 🔒 SS | @mftizi [18]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
@@ -121,7 +121,9 @@
                 "🇬🇧 GB | 🔒 SS | @prroxyng [2]",
                 "🇬🇧 GB | 🔒 SS | @serverv2ray00 [20]",
                 "🇬🇧 GB | 🔒 SS | @v2rayang201 [8]",
-                "🇯🇵 JP | 🔒 SS | @vpn451 [16]"
+                "🇬🇧 GB | 🔒 SS | @v2raybe [7]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [15]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [17]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -228,14 +230,6 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 SS | @freakconfig [14]",
-            "type": "shadowsocks",
-            "server": "h110vpnde2.outlinekeys.net",
-            "server_port": 53122,
-            "method": "chacha20-ietf-poly1305",
-            "password": "rWKE1UyQidbLmYCLvFNawV"
-        },
-        {
             "tag": "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
             "type": "shadowsocks",
             "server": "hackney-latest-strike.freesocks.work",
@@ -252,12 +246,12 @@
             "password": "u17T3BvpYaaiuW2c"
         },
         {
-            "tag": "🇬🇧 GB | 🔒 SS | @lranonline_new [5]",
+            "tag": "🇳🇱 NL | 🔒 SS | @ip_cf_config [10]",
             "type": "shadowsocks",
-            "server": "series-a2-mec.samanehha.co",
-            "server_port": 443,
+            "server": "beesyar.org",
+            "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
+            "password": "4a2rfixophdjffa8KVA4Aa"
         },
         {
             "tag": "🇨🇳 CN | 🔒 SS | @mftizi [18]",
@@ -332,12 +326,28 @@
             "password": "W74XFALLLuw6m5IA"
         },
         {
-            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [16]",
+            "tag": "🇬🇧 GB | 🔒 SS | @v2raybe [7]",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [15]",
             "type": "shadowsocks",
             "server": "sakura.outlinekeys.net",
             "server_port": 1235,
             "method": "chacha20-ietf-poly1305",
             "password": "sINSpdNYGUfLMzsoLD3W5D"
+        },
+        {
+            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [17]",
+            "type": "shadowsocks",
+            "server": "sakura.outlinekeys.net",
+            "server_port": 1235,
+            "method": "chacha20-ietf-poly1305",
+            "password": "rhGz9UAp47At0PKbD4Lo5A"
         }
     ],
     "route": {

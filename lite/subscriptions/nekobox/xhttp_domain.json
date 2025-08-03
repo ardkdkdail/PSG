@@ -91,7 +91,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [20]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [60]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [4]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -128,7 +127,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [20]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [60]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [4]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -352,15 +350,6 @@
             "server": "speedtest.net",
             "server_port": 80,
             "uuid": "d6bfe23e-f7a8-4beb-971c-c68ddd8fdd8c",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [60]",
-            "type": "vless",
-            "server": "Evay_vpn.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
             "flow": "",
             "packet_encoding": "xudp"
         },
