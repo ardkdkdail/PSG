@@ -80,9 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @configfa [16]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [46]",
+                "🇩🇪 DE | 🔓 VLESS | @configfa [15]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
                 "🇸🇦 SA | 🔓 VLESS | @freakconfig [16]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
@@ -99,7 +99,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [14]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [10]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]"
             ],
             "tag": "proxy",
@@ -111,9 +111,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @configfa [16]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [46]",
+                "🇩🇪 DE | 🔓 VLESS | @configfa [15]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
                 "🇸🇦 SA | 🔓 VLESS | @freakconfig [16]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
@@ -130,7 +130,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [14]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [10]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [15]"
             ],
             "tag": "auto",
@@ -222,7 +222,25 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @configfa [16]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [46]",
+            "type": "vless",
+            "server": "45.77.99.100",
+            "server_port": 443,
+            "uuid": "4bf96dd2-f451-4938-8fa4-1a2251290920",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "45.77.99.100",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @configfa [15]",
             "type": "vless",
             "server": "91.99.218.14",
             "server_port": 8443,
@@ -252,15 +270,6 @@
                     "short_id": "7ab467"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [59]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "724383d8-33c6-4e8d-9db4-0184a89efa33",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇸🇦 SA | 🔓 VLESS | @freakconfig [16]",
@@ -523,7 +532,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [14]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [10]",
             "type": "vless",
             "server": "91.99.239.156",
             "server_port": 8443,
