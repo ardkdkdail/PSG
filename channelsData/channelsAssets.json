@@ -168,7 +168,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -182,10 +183,7 @@
     },
     "configfa": {
         "types": [
-            "vless",
-            "trojan",
-            "ss",
-            "vmess"
+            "vless"
         ],
         "title": "configfa",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configfa.jpg"
@@ -224,9 +222,7 @@
     "configshubplus": {
         "types": [
             "vless",
-            "ss",
-            "vmess",
-            "trojan"
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -503,7 +499,9 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless"
+            "vless",
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -557,8 +555,8 @@
     },
     "filter_breaker": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "Filter breaker - فیلترشکن",
@@ -596,7 +594,6 @@
     },
     "flyv2ray": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "FlyV2ray",
@@ -935,10 +932,10 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "vmess",
             "trojan",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -999,9 +996,9 @@
     },
     "ip_cf_config": {
         "types": [
-            "vless",
-            "trojan",
             "vmess",
+            "trojan",
+            "vless",
             "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
@@ -1563,8 +1560,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1997,7 +1994,6 @@
     },
     "proxygodratmand": {
         "types": [
-            "vmess",
             "vless"
         ],
         "title": "Vpn /فیلترشکن",
@@ -2421,8 +2417,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "trojan",
             "vless"
         ],
@@ -2493,8 +2489,9 @@
     },
     "v2raych": {
         "types": [
-            "trojan",
-            "vless"
+            "vless",
+            "vmess",
+            "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
