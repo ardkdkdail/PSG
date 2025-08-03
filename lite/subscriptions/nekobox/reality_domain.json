@@ -115,17 +115,18 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
-                "🇹🇷 TR | 🔒 VLESS | @prrofile_purple [123]",
+                "🇹🇷 TR | 🔒 VLESS | @prrofile_purple [130]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
+                "🇳🇱 NL | 🔒 VLESS | @v2raymelliii [12]",
                 "❔ XX | 🔒 VLESS | @v2rayng_my2 [2]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
-                "🇩🇪 DE | 🔒 VLESS | @vmesc [19]",
+                "🇩🇪 DE | 🔒 VLESS | @vmesc [18]",
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
                 "❔ XX | 🔒 VLESS | @vp22ray [10]",
                 "❔ XX | 🔒 VLESS | @vp22ray [11]",
@@ -177,17 +178,18 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
-                "🇹🇷 TR | 🔒 VLESS | @prrofile_purple [123]",
+                "🇹🇷 TR | 🔒 VLESS | @prrofile_purple [130]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [2]",
                 "❔ XX | 🔒 VLESS | @savagenet [1]",
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
+                "🇳🇱 NL | 🔒 VLESS | @v2raymelliii [12]",
                 "❔ XX | 🔒 VLESS | @v2rayng_my2 [2]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
-                "🇩🇪 DE | 🔒 VLESS | @vmesc [19]",
+                "🇩🇪 DE | 🔒 VLESS | @vmesc [18]",
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
                 "❔ XX | 🔒 VLESS | @vp22ray [10]",
                 "❔ XX | 🔒 VLESS | @vp22ray [11]",
@@ -1149,7 +1151,7 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @prrofile_purple [123]",
+            "tag": "🇹🇷 TR | 🔒 VLESS | @prrofile_purple [130]",
             "type": "vless",
             "server": "rep.tr.xpnvip.ir",
             "server_port": 2689,
@@ -1318,6 +1320,29 @@
             }
         },
         {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2raymelliii [12]",
+            "type": "vless",
+            "server": "nl01-vlr01.tcp-reset-club.net",
+            "server_port": 443,
+            "uuid": "4a640781-f5c8-4d17-80db-a6b0a091ba05",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hls-svod.itunes.apple.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
+                    "short_id": "d3b13f31"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 VLESS | @v2rayng_my2 [2]",
             "type": "vless",
             "server": "site.felinefreedom.site",
@@ -1391,7 +1416,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vmesc [19]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vmesc [18]",
             "type": "vless",
             "server": "Loadbalance.systemgamingirani.ir",
             "server_port": 443,
