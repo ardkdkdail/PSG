@@ -223,8 +223,7 @@
     },
     "configshubplus": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -933,9 +932,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
-            "ss",
             "vmess",
+            "ss",
+            "trojan",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -997,10 +996,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vmess",
             "ss",
-            "vless",
-            "trojan"
+            "trojan",
+            "vmess",
+            "vless"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2419,8 +2418,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
+            "vmess",
             "vless",
             "ss"
         ],
@@ -2493,8 +2492,7 @@
         "types": [
             "vless",
             "trojan",
-            "ss",
-            "vmess"
+            "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2988,8 +2986,8 @@
     },
     "vpn_meliii": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "پروکسی کانفینگ ویتوری وی پی ان ملی اخبار جنگ فیلترشکن ایران | vpn proxy sstp cisco v2rayng vemss vless",
