@@ -94,13 +94,12 @@
                 "KingRezaPahlavi",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
+                "🇬🇧 GB | 🔒 VLESS | @configshubplus [17]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
-                "🇨🇿 CZ | 🔒 VLESS | @fastfreeconfig [58]",
-                "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [60]",
                 "🇬🇧 GB | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [16]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -140,10 +139,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇨🇿 CZ | 🔒 VLESS | @v2ray_sos [3]",
                 "🇭🇺 HU | 🔒 VLESS | @v2ray_sos [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raych [20]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [11]",
                 "🇷🇺 RU | 🔒 VLESS | @v2rayn5 [1]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayngninja [9]",
@@ -170,13 +169,12 @@
                 "KingRezaPahlavi",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
+                "🇬🇧 GB | 🔒 VLESS | @configshubplus [17]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
-                "🇨🇿 CZ | 🔒 VLESS | @fastfreeconfig [58]",
-                "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [60]",
                 "🇬🇧 GB | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇺🇸 US | 🔒 VLESS | @freakconfig [16]",
                 "🇵🇱 PL | 🔒 VLESS | @freenapsternetv [5]",
@@ -216,10 +214,10 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇨🇿 CZ | 🔒 VLESS | @v2ray_sos [3]",
                 "🇭🇺 HU | 🔒 VLESS | @v2ray_sos [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raych [20]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
+                "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [11]",
                 "🇷🇺 RU | 🔒 VLESS | @v2rayn5 [1]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayngninja [9]",
@@ -366,6 +364,29 @@
             }
         },
         {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @configshubplus [17]",
+            "type": "vless",
+            "server": "83.147.18.179",
+            "server_port": 443,
+            "uuid": "0af65cf8-1189-4f06-9e76-7cf659569587",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "snapp.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "NVzXDuB9PZECzVgRWCVZJ4rCujQ5d2tw64Ufftci8C4",
+                    "short_id": "5bef46444e87"
+                }
+            }
+        },
+        {
             "tag": "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
             "type": "vless",
             "server": "65.109.208.107",
@@ -486,63 +507,6 @@
                     "public_key": "n9OO75eOaHXQyfUByQSZviDY4RmSUQyoU1YSs4yQXEs",
                     "short_id": "7f700392"
                 }
-            }
-        },
-        {
-            "tag": "🇨🇿 CZ | 🔒 VLESS | @fastfreeconfig [58]",
-            "type": "vless",
-            "server": "194.182.79.205",
-            "server_port": 33979,
-            "uuid": "fc6ca849-77a7-4157-b5c1-8a63f3c342fe",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "a_Y7oMduAyyAMIaJ0iboDJevBATphOzjgq_6OvtB8DI",
-                    "short_id": "27a831"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON"
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [60]",
-            "type": "vless",
-            "server": "57.128.123.50",
-            "server_port": 2096,
-            "uuid": "1250c0dd-856e-4cb9-b254-5d8e55419fed",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "dalfak.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "9LY8_rbDS8zJoZLk9J4BYbdKOYK8vdKg11Wab5IetXY",
-                    "short_id": "a56f693ce784b4cc"
-                }
-            },
-            "transport": {
-                "type": "http",
-                "host": [
-                    "dalfak.com"
-                ],
-                "path": "/"
             }
         },
         {
@@ -1503,29 +1467,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raych [20]",
-            "type": "vless",
-            "server": "212.95.41.20",
-            "server_port": 900,
-            "uuid": "5a998931-c4be-4441-8a0d-81ffe55b5c64",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sourceforge.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI",
-                    "short_id": "2cc45a0088671249"
-                }
-            }
-        },
-        {
             "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
             "type": "vless",
             "server": "199.247.28.17",
@@ -1591,6 +1532,29 @@
                     "enabled": true,
                     "public_key": "qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU",
                     "short_id": "a862ded52ae3ea"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [11]",
+            "type": "vless",
+            "server": "212.95.41.20",
+            "server_port": 900,
+            "uuid": "5a998931-c4be-4441-8a0d-81ffe55b5c64",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI",
+                    "short_id": "2cc45a0088671249"
                 }
             }
         },
