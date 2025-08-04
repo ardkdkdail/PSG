@@ -80,15 +80,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔓 TROJAN | @config_proxy [36]",
-                "🇫🇷 FR | 🔒 TROJAN | @directvpn [12]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
+                "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [17]",
                 "🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🇫🇷 FR | 🔒 TROJAN | @privatevpns [12]",
-                "🇩🇪 DE | 🔒 TROJAN | @privatevpns [13]",
-                "🇩🇪 DE | 🔒 TROJAN | @privatevpns [14]",
+                "🇫🇷 FR | 🔒 TROJAN | @privatevpns [15]",
+                "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
+                "🇩🇪 DE | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [12]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [13]",
@@ -103,15 +102,14 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🚩 CF | 🔓 TROJAN | @config_proxy [36]",
-                "🇫🇷 FR | 🔒 TROJAN | @directvpn [12]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
-                "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
+                "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
+                "🇩🇪 DE | 🔒 TROJAN | @directvpn [17]",
                 "🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
-                "🇫🇷 FR | 🔒 TROJAN | @privatevpns [12]",
-                "🇩🇪 DE | 🔒 TROJAN | @privatevpns [13]",
-                "🇩🇪 DE | 🔒 TROJAN | @privatevpns [14]",
+                "🇫🇷 FR | 🔒 TROJAN | @privatevpns [15]",
+                "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
+                "🇩🇪 DE | 🔒 TROJAN | @privatevpns [17]",
                 "🇫🇷 FR | 🔒 TROJAN | @proxyfn [19]",
                 "🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [12]",
                 "🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [13]",
@@ -206,23 +204,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @config_proxy [36]",
-            "type": "trojan",
-            "server": "162.159.16.224",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "162.159.16.224",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @directvpn [12]",
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
             "type": "trojan",
             "server": "13.39.117.250",
             "server_port": 22223,
@@ -238,7 +220,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [16]",
             "type": "trojan",
             "server": "18.192.173.157",
             "server_port": 22223,
@@ -254,7 +236,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [17]",
             "type": "trojan",
             "server": "18.199.40.31",
             "server_port": 22223,
@@ -309,7 +291,7 @@
             }
         },
         {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @privatevpns [12]",
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @privatevpns [15]",
             "type": "trojan",
             "server": "13.39.117.250",
             "server_port": 22222,
@@ -325,7 +307,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @privatevpns [13]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @privatevpns [16]",
             "type": "trojan",
             "server": "18.192.173.157",
             "server_port": 22222,
@@ -341,7 +323,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 TROJAN | @privatevpns [14]",
+            "tag": "🇩🇪 DE | 🔒 TROJAN | @privatevpns [17]",
             "type": "trojan",
             "server": "18.199.40.31",
             "server_port": 22222,
