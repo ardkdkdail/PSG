@@ -87,15 +87,16 @@
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
-                "🇷🇺 RU | 🔒 VLESS | @configshubplus [15]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
+                "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [32]",
                 "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇫🇮 FI | 🔒 VLESS | @freakconfig [17]",
                 "🇫🇮 FI | 🔒 VLESS | @free1_vpn [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
+                "❔ XX | 🔒 VLESS | @fsv2ray [4]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇦🇪 AE | 🔒 VLESS | @iran_access [14]",
                 "❔ XX | 🔒 VLESS | @iran_mehr_vpn [16]",
@@ -134,6 +135,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
+                "🇩🇪 DE | 🔒 VLESS | @configshubplus [10]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
@@ -216,15 +218,16 @@
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
-                "🇷🇺 RU | 🔒 VLESS | @configshubplus [15]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
+                "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [32]",
                 "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
                 "🇫🇮 FI | 🔒 VLESS | @freakconfig [17]",
                 "🇫🇮 FI | 🔒 VLESS | @free1_vpn [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
+                "❔ XX | 🔒 VLESS | @fsv2ray [4]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇦🇪 AE | 🔒 VLESS | @iran_access [14]",
                 "❔ XX | 🔒 VLESS | @iran_mehr_vpn [16]",
@@ -263,6 +266,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @xyzquantvpn [1]",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
+                "🇩🇪 DE | 🔒 VLESS | @configshubplus [10]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
@@ -587,29 +591,6 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @configshubplus [15]",
-            "type": "vless",
-            "server": "ru01-vlr01.tcp-reset-club.net",
-            "server_port": 443,
-            "uuid": "c28dfe26-a1cd-4ebf-b427-7b44f8c2f7e0",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "48720c"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
             "type": "vless",
             "server": "loadbalance.systemgamingirani.ir",
@@ -683,11 +664,34 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [32]",
+            "type": "vless",
+            "server": "hajimamad.timeclassic.ir",
+            "server_port": 900,
+            "uuid": "5a998931-c4be-4441-8a0d-81ffe55b5c64",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sourceforge.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI",
+                    "short_id": "2cc45a0088671249"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
             "type": "vless",
-            "server": "FsV2ray.t-sub.site",
-            "server_port": 51019,
-            "uuid": "83656dde-bb8f-4f02-c771-8123b8943c71",
+            "server": "accpremium.outlineprivate.store",
+            "server_port": 443,
+            "uuid": "3003c4dc-66c7-446c-b4ba-5f3ee893ec66",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
@@ -696,17 +700,17 @@
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "firefox"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "geB_QyPKFXVFbAD8fWednlx-7d1NOGAuLPVQOgHzRw0",
-                    "short_id": "354998e8"
+                    "public_key": "bbGjxnVYyeEri21g3WxECXblTTUYtSdah1nn0zYeKUw",
+                    "short_id": "6f760d96"
                 }
             },
             "transport": {
                 "type": "grpc",
-                "service_name": "@FsV2ray"
+                "service_name": "@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN,@OUTLINEIRAN"
             }
         },
         {
@@ -807,6 +811,33 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "چنل"
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @fsv2ray [4]",
+            "type": "vless",
+            "server": "FsV2ray.t-sub.site",
+            "server_port": 51019,
+            "uuid": "83656dde-bb8f-4f02-c771-8123b8943c71",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "ftp.debian.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "geB_QyPKFXVFbAD8fWednlx-7d1NOGAuLPVQOgHzRw0",
+                    "short_id": "354998e8"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@FsV2ray"
             }
         },
         {
@@ -1725,6 +1756,33 @@
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @configshubplus [10]",
+            "type": "vless",
+            "server": "91.107.189.227",
+            "server_port": 24070,
+            "uuid": "57177393-a38e-4593-8a01-5409f3707ff0",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk",
+                    "short_id": "93"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--"
             }
         },
         {
