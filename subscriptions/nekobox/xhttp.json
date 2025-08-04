@@ -148,10 +148,8 @@
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇺🇸 US | 🔓 VLESS | @bored_vpn [10]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [14]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [59]",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [13]",
                 "🇺🇸 US | 🔓 VLESS | @configms [2]",
-                "🇩🇪 DE | 🔓 VLESS | @configshubplus [11]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [3]",
@@ -292,10 +290,8 @@
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇺🇸 US | 🔓 VLESS | @bored_vpn [10]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [14]",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [59]",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [13]",
                 "🇺🇸 US | 🔓 VLESS | @configms [2]",
-                "🇩🇪 DE | 🔓 VLESS | @configshubplus [11]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [3]",
@@ -1295,24 +1291,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [59]",
-            "type": "vless",
-            "server": "172.235.143.48",
-            "server_port": 443,
-            "uuid": "fe858a71-b4e2-4767-bd6b-f4616773f112",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "172.235.143.48",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @configfa [13]",
             "type": "vless",
             "server": "91.99.218.14",
@@ -1327,15 +1305,6 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "526984f4-f84e-4933-acc7-efa38b92c552",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @configshubplus [11]",
-            "type": "vless",
-            "server": "91.99.85.185",
-            "server_port": 8443,
-            "uuid": "e66beedb-dd44-47f0-baf8-7ba947d919d0",
             "flow": "",
             "packet_encoding": "xudp"
         },

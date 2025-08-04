@@ -117,6 +117,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
+                "🇮🇹 IT | 🔓 VLESS | @v2raych [19]",
                 "🇩🇪 DE | 🔓 VLESS | @v2trayproxy [15]",
                 "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
                 "🇩🇪 DE | 🔓 VLESS | @vmess_ir [20]",
@@ -156,6 +157,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
+                "🇮🇹 IT | 🔓 VLESS | @v2raych [19]",
                 "🇩🇪 DE | 🔓 VLESS | @v2trayproxy [15]",
                 "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
                 "🇩🇪 DE | 🔓 VLESS | @vmess_ir [20]",
@@ -559,6 +561,15 @@
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇮🇹 IT | 🔓 VLESS | @v2raych [19]",
+            "type": "vless",
+            "server": "filmnet.filimnet.com",
+            "server_port": 80,
+            "uuid": "e1944266-3548-4914-8c94-c5e216fa26a9",
             "flow": "",
             "packet_encoding": "xudp"
         },
