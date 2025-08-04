@@ -109,7 +109,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
                 "❔ XX | 🔓 VLESS | @ch_a2l [4]",
                 "❔ XX | 🔓 VLESS | @ch_a2l [6]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [38]",
+                "🇬🇧 GB | 🔒 VLESS | @config_proxy [29]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🚩 CF | 🔓 VLESS | @configms [12]",
@@ -157,6 +157,7 @@
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [32]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [34]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [20]",
+                "🇮🇷 IR | 🔓 VLESS | @fastfreeconfig [58]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [15]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [16]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
@@ -365,6 +366,7 @@
                 "🚩 CF | 🔓 VLESS | @v2logy [9]",
                 "🚩 CF | 🔓 VLESS | @v2logy [10]",
                 "🚩 CF | 🔒 VLESS | @v2logy [11]",
+                "🇳🇱 NL | 🔒 VLESS | @v2ray_free_conf [18]",
                 "❔ XX | 🔒 VLESS | @v2ray_inter [8]",
                 "❔ XX | 🔓 VLESS | @v2ray_iran88 [8]",
                 "❔ XX | 🔓 VLESS | @v2ray_iran88 [9]",
@@ -424,6 +426,8 @@
                 "🇮🇷 IR | 🔓 VLESS | @vpnfree85 [1]",
                 "🚩 CF | 🔒 VLESS | @vpnowl [14]",
                 "🚩 CF | 🔒 VLESS | @vpnowl [15]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [17]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [18]",
                 "🚩 CF | 🔒 VLESS | @vpnv2rayonline [10]",
                 "❔ XX | 🔓 VLESS | @vpnzamin [3]",
                 "🚩 CF | 🔒 VLESS | @wbrovers [1]",
@@ -464,7 +468,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [12]",
                 "❔ XX | 🔓 VLESS | @ch_a2l [4]",
                 "❔ XX | 🔓 VLESS | @ch_a2l [6]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [38]",
+                "🇬🇧 GB | 🔒 VLESS | @config_proxy [29]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔓 VLESS | @configforvpn01 [8]",
                 "🚩 CF | 🔓 VLESS | @configms [12]",
@@ -512,6 +516,7 @@
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [32]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [34]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [20]",
+                "🇮🇷 IR | 🔓 VLESS | @fastfreeconfig [58]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [15]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [16]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
@@ -720,6 +725,7 @@
                 "🚩 CF | 🔓 VLESS | @v2logy [9]",
                 "🚩 CF | 🔓 VLESS | @v2logy [10]",
                 "🚩 CF | 🔒 VLESS | @v2logy [11]",
+                "🇳🇱 NL | 🔒 VLESS | @v2ray_free_conf [18]",
                 "❔ XX | 🔒 VLESS | @v2ray_inter [8]",
                 "❔ XX | 🔓 VLESS | @v2ray_iran88 [8]",
                 "❔ XX | 🔓 VLESS | @v2ray_iran88 [9]",
@@ -779,6 +785,8 @@
                 "🇮🇷 IR | 🔓 VLESS | @vpnfree85 [1]",
                 "🚩 CF | 🔒 VLESS | @vpnowl [14]",
                 "🚩 CF | 🔒 VLESS | @vpnowl [15]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [17]",
+                "🚩 CF | 🔒 VLESS | @vpnplusee_free [18]",
                 "🚩 CF | 🔒 VLESS | @vpnv2rayonline [10]",
                 "❔ XX | 🔓 VLESS | @vpnzamin [3]",
                 "🚩 CF | 🔒 VLESS | @wbrovers [1]",
@@ -1194,20 +1202,25 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [38]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @config_proxy [29]",
             "type": "vless",
-            "server": "server708670620525069264.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
+            "server": "free-gb.vpnkey.dev",
+            "server_port": 8443,
+            "uuid": "cc1944ba-7f1a-4f1b-ac06-e9ab0958fd19",
+            "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "server708670620525069264.tas-bazi.com",
+                "server_name": "google.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
                     "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "q7Ph2P9zJWxiGr0LZsUGrYLyxC7uLRBoPtUi_jyeew0",
+                    "short_id": ""
                 }
             }
         },
@@ -1933,6 +1946,22 @@
             "uuid": "d6bfe23e-f7a8-4beb-971c-c68ddd8fdd8c",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇮🇷 IR | 🔓 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "h2.tikmarket1.site",
+            "server_port": 2095,
+            "uuid": "7e3b4e5a-483f-4c2d-957d-765137dbe186",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "h2.tikmarket1.site"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @fastkanfig [15]",
@@ -5496,6 +5525,33 @@
             }
         },
         {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2ray_free_conf [18]",
+            "type": "vless",
+            "server": "pj.bestirstorei.top",
+            "server_port": 60000,
+            "uuid": "7FuseVPN----------ProxyPJ",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "7tLNRTi59oqO5FYHExWge-LbEdRpyk9n6x0PJWK2UiY",
+                    "short_id": "e1573b"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "60000vless"
+            }
+        },
+        {
             "tag": "❔ XX | 🔒 VLESS | @v2ray_inter [8]",
             "type": "vless",
             "server": "all.v-2rayngvpn.cfd",
@@ -6495,6 +6551,49 @@
                 "path": "/downloader.php?ed=2560",
                 "headers": {
                     "Host": "matoride2.sabzipolo.site"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [17]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 2096,
+            "uuid": "bff94cd0-4135-4ef9-f7b7-dc15135cd883",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest-iran.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @vpnplusee_free [18]",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8443,
+            "uuid": "bd7ea3d1-bcd0-4048-85fd-18c5397d0320",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest-iran.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048",
+                "headers": {
+                    "Host": "www.speedtest-iran.ir"
                 }
             }
         },
