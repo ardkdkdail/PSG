@@ -92,9 +92,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @configfa [14]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [7]",
+                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
@@ -104,7 +104,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
-                "🇴🇲 OM | 🔓 VLESS | @selinc [7]",
+                "🇴🇲 OM | 🔓 VLESS | @selinc [5]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
@@ -122,9 +122,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇩🇪 DE | 🔓 VLESS | @configfa [14]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [7]",
+                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
@@ -134,7 +134,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
-                "🇴🇲 OM | 🔓 VLESS | @selinc [7]",
+                "🇴🇲 OM | 🔓 VLESS | @selinc [5]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
@@ -228,15 +228,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @configfa [14]",
-            "type": "vless",
-            "server": "91.99.218.14",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
             "type": "vless",
             "server": "91.107.254.202",
@@ -281,6 +272,15 @@
                     "short_id": "2cc45a0088671249"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "91.99.85.185",
+            "server_port": 8443,
+            "uuid": "e66beedb-dd44-47f0-baf8-7ba947d919d0",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
@@ -434,7 +434,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇴🇲 OM | 🔓 VLESS | @selinc [7]",
+            "tag": "🇴🇲 OM | 🔓 VLESS | @selinc [5]",
             "type": "vless",
             "server": "38.54.116.105",
             "server_port": 443,
