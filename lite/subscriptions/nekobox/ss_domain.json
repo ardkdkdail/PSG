@@ -82,9 +82,9 @@
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @ai_duet [8]",
                 "🇮🇷 IR | 🔒 SS | @configscenter [1]",
+                "❔ XX | 🔒 SS | @fastfreeconfig [59]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
                 "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
-                "🇸🇪 SE | 🔒 SS | @ip_cf_config [15]",
                 "🇩🇪 DE | 🔒 SS | @mftizi [18]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
@@ -109,9 +109,9 @@
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @ai_duet [8]",
                 "🇮🇷 IR | 🔒 SS | @configscenter [1]",
+                "❔ XX | 🔒 SS | @fastfreeconfig [59]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
                 "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
-                "🇸🇪 SE | 🔒 SS | @ip_cf_config [15]",
                 "🇩🇪 DE | 🔒 SS | @mftizi [18]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
@@ -230,6 +230,14 @@
             "password": "M2E4ZGY2ZjI5MzU2ODAxMjEwYzgyNzQ0MGM5NGUy"
         },
         {
+            "tag": "❔ XX | 🔒 SS | @fastfreeconfig [59]",
+            "type": "shadowsocks",
+            "server": "fast_2ray_telchannelll2.fast2rayy.eu.org",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "Bog0ELmMM9DSxDdQ"
+        },
+        {
             "tag": "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
             "type": "shadowsocks",
             "server": "hackney-latest-strike.freesocks.work",
@@ -244,14 +252,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
-        },
-        {
-            "tag": "🇸🇪 SE | 🔒 SS | @ip_cf_config [15]",
-            "type": "shadowsocks",
-            "server": "azure-sto.edgeservers.org",
-            "server_port": 48172,
-            "method": "chacha20-ietf-poly1305",
-            "password": "51yloQC8D9w1Wae7FHtI65"
         },
         {
             "tag": "🇩🇪 DE | 🔒 SS | @mftizi [18]",

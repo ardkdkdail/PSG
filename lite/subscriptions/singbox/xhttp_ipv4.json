@@ -94,11 +94,10 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [14]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
-                "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
+                "🇩🇪 DE | 🔒 VLESS | @dalton_ping [8]",
                 "🇩🇪 DE | 🔓 VLESS | @falcunargo [11]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
-                "🇩🇪 DE | 🔓 VLESS | @lranonline_new [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -112,7 +111,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]"
+                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -125,11 +125,10 @@
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [14]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
-                "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
+                "🇩🇪 DE | 🔒 VLESS | @dalton_ping [8]",
                 "🇩🇪 DE | 🔓 VLESS | @falcunargo [11]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
-                "🇩🇪 DE | 🔓 VLESS | @lranonline_new [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -143,7 +142,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]"
+                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -262,7 +262,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @dalton_ping [8]",
             "type": "vless",
             "server": "212.95.41.20",
             "server_port": 900,
@@ -322,15 +322,6 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "d6bfe23e-f7a8-4beb-971c-c68ddd8fdd8c",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @lranonline_new [11]",
-            "type": "vless",
-            "server": "91.99.239.156",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -580,6 +571,15 @@
                     "short_id": "008c74"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [9]",
+            "type": "vless",
+            "server": "91.99.239.156",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
