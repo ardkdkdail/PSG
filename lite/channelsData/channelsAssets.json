@@ -227,8 +227,9 @@
     },
     "configshubplus": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "ss",
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -928,8 +929,9 @@
     "hope_net": {
         "types": [
             "trojan",
+            "vless",
             "ss",
-            "vless"
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -999,10 +1001,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "ss",
-            "vmess",
+            "trojan",
             "vless",
-            "trojan"
+            "ss",
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1565,7 +1567,8 @@
     "mowjproxy": {
         "types": [
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1841,9 +1844,9 @@
     },
     "outlinev2rayng": {
         "types": [
-            "vmess",
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "پروکسی تله کد | فیلترشکن رایگان V2ray - Outline",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/outlinev2rayng.jpg"
@@ -1957,8 +1960,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2420,10 +2423,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
-            "vmess",
             "vless",
-            "ss"
+            "trojan",
+            "ss",
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2514,8 +2517,10 @@
     },
     "v2raych": {
         "types": [
+            "vless",
             "trojan",
-            "vless"
+            "ss",
+            "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2543,8 +2548,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2633,15 +2638,6 @@
         ],
         "title": "V2rayNG (کانال فیلتر شکن )",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngchannelll.jpg"
-    },
-    "v2rayngconfig": {
-        "types": [
-            "vmess",
-            "ss",
-            "trojan"
-        ],
-        "title": "v2rayNG - کانفیگ",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayngconfig.jpg"
     },
     "v2rayngconfiig": {
         "types": [
@@ -2830,14 +2826,6 @@
         ],
         "title": "وصل بمونید🌏",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vaslbemmonid.jpg"
-    },
-    "vaynora": {
-        "types": [
-            "vless",
-            "ss"
-        ],
-        "title": "VayNora",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vaynora.jpg"
     },
     "vboxpanel": {
         "types": [
