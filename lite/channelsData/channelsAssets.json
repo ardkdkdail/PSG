@@ -229,7 +229,7 @@
     "configshubplus": {
         "types": [
             "vless",
-            "trojan",
+            "ss",
             "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
@@ -515,7 +515,8 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -929,9 +930,9 @@
     },
     "hope_net": {
         "types": [
+            "trojan",
             "ss",
             "vless",
-            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1002,10 +1003,10 @@
     },
     "ip_cf_config": {
         "types": [
-            "vless",
-            "vmess",
             "ss",
-            "trojan"
+            "trojan",
+            "vless",
+            "vmess"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -2428,10 +2429,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
-            "ss",
             "vmess",
-            "vless"
+            "vless",
+            "ss",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2524,7 +2525,7 @@
         "types": [
             "vless",
             "vmess",
-            "trojan"
+            "ss"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2880,14 +2881,6 @@
         "title": "V2RAYNG💥VIP",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vipv2rey.jpg"
     },
-    "vipvpn_v2ray": {
-        "types": [
-            "vmess",
-            "vless"
-        ],
-        "title": "Sell vip vpn",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vipvpn_v2ray.jpg"
-    },
     "vistav2ray": {
         "types": [
             "vless",
@@ -3073,8 +3066,8 @@
     "vpnod": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "νρη σɗ",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnod.jpg"
