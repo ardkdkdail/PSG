@@ -81,7 +81,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [14]",
-                "🇩🇪 DE | 🔓 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [8]",
                 "🇩🇪 DE | 🔓 VLESS | @falcunargo [11]",
@@ -114,16 +113,16 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
                 "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [30]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [20]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
-                "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [30]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇩🇪 DE | 🔒 VLESS | @manzariyeh_rasht [21]",
-                "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [22]",
+                "🇩🇪 DE | 🔒 VLESS | @manzariyeh_rasht [19]",
+                "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [20]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
@@ -143,7 +142,6 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [14]",
-                "🇩🇪 DE | 🔓 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [8]",
                 "🇩🇪 DE | 🔓 VLESS | @falcunargo [11]",
@@ -176,16 +174,16 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
                 "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [30]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [20]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
-                "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [30]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇩🇪 DE | 🔒 VLESS | @manzariyeh_rasht [21]",
-                "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [22]",
+                "🇩🇪 DE | 🔒 VLESS | @manzariyeh_rasht [19]",
+                "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [20]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
@@ -291,24 +289,6 @@
             "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @configshubplus [19]",
-            "type": "vless",
-            "server": "91.99.219.10",
-            "server_port": 443,
-            "uuid": "0f7e89d6-9f35-4e94-ba4b-509a724dc177",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "91.99.219.10",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
@@ -799,6 +779,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
             "type": "vless",
             "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
@@ -822,15 +811,6 @@
             "server": "alman.netblocksir.ir",
             "server_port": 8001,
             "uuid": "96f391f6-0762-4895-a57c-433360967ca8",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "bf3c99e7-68b4-4bad-b110-ebaf2ecab772",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -885,7 +865,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @manzariyeh_rasht [21]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @manzariyeh_rasht [19]",
             "type": "vless",
             "server": "hajimamad.timeclassic.ir",
             "server_port": 900,
@@ -908,7 +888,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [22]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [20]",
             "type": "vless",
             "server": "hajimamadvpn.fast.hosting-ip.com",
             "server_port": 80,
