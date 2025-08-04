@@ -95,17 +95,15 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [7]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [13]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇩🇪 DE | 🔓 VLESS | @prrofile_purple [129]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇴🇲 OM | 🔓 VLESS | @selinc [5]",
-                "🇨🇦 CA | 🔓 VLESS | @v2raych [20]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
@@ -126,17 +124,15 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [7]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [13]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇩🇪 DE | 🔓 VLESS | @prrofile_purple [129]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇴🇲 OM | 🔓 VLESS | @selinc [5]",
-                "🇨🇦 CA | 🔓 VLESS | @v2raych [20]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
@@ -299,15 +295,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @icv2ray [19]",
-            "type": "vless",
-            "server": "151.101.3.8",
-            "server_port": 80,
-            "uuid": "d6bfe23e-f7a8-4beb-971c-c68ddd8fdd8c",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
             "type": "vless",
             "server": "49.13.199.174",
@@ -372,7 +359,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [14]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [13]",
             "type": "vless",
             "server": "212.95.41.20",
             "server_port": 900,
@@ -455,24 +442,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "38.54.116.105",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔓 VLESS | @v2raych [20]",
-            "type": "vless",
-            "server": "147.182.159.245",
-            "server_port": 443,
-            "uuid": "5b8192cd-ca98-4084-a2ae-99bf1ea2fa2a",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "147.182.159.245",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
