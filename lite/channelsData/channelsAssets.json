@@ -227,9 +227,9 @@
     },
     "configshubplus": {
         "types": [
-            "vless",
             "ss",
-            "trojan"
+            "vless",
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -513,9 +513,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
             "trojan",
-            "tuic"
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -929,9 +928,9 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "vless",
             "trojan",
+            "ss",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -977,7 +976,6 @@
     },
     "info_2it_channel": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "2IT | اینترنت آزاد",
@@ -2827,9 +2825,9 @@
     },
     "vmesc": {
         "types": [
-            "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "vless"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"
