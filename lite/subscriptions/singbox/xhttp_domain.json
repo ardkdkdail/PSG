@@ -92,9 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
-                "🇩🇪 DE | 🔓 VLESS | @configshubplus [16]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [14]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -103,6 +101,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
+                "🇺🇸 US | 🔓 VLESS | @falcunargo [13]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -130,9 +129,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
-                "🇩🇪 DE | 🔓 VLESS | @configshubplus [16]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [14]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -141,6 +138,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
+                "🇺🇸 US | 🔓 VLESS | @falcunargo [13]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -244,15 +242,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
-            "type": "vless",
-            "server": "cdn.irancdngame.com",
-            "server_port": 80,
-            "uuid": "d39d8fcc-85e1-41d3-ac0f-628c2cf8aba5",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
@@ -260,24 +249,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @configshubplus [16]",
-            "type": "vless",
-            "server": "server79787566814164569.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server79787566814164569.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
@@ -362,6 +333,15 @@
             "server": "EVAY_VPN.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @falcunargo [13]",
+            "type": "vless",
+            "server": "configline.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "9e8ca7c6-7f5f-4056-b280-efd1796669ad",
             "flow": "",
             "packet_encoding": "xudp"
         },
