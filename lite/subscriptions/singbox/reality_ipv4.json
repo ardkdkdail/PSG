@@ -94,7 +94,6 @@
                 "KingRezaPahlavi",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
-                "🇫🇮 FI | 🔒 VLESS | @configshubplus [14]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -104,10 +103,11 @@
                 "🇬🇧 GB | 🔒 VLESS | @freevlessvpn [1]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [9]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇩🇪 DE | 🔒 VLESS | @ghalagyann [21]",
+                "🇩🇪 DE | 🔒 VLESS | @ghalagyann [19]",
                 "🇳🇱 NL | 🔒 VLESS | @ghalagyann2 [6]",
                 "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [8]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
+                "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
                 "🇩🇪 DE | 🔒 VLESS | @icv2ray [17]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
@@ -166,7 +166,6 @@
                 "KingRezaPahlavi",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
-                "🇫🇮 FI | 🔒 VLESS | @configshubplus [14]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -176,10 +175,11 @@
                 "🇬🇧 GB | 🔒 VLESS | @freevlessvpn [1]",
                 "🇷🇺 RU | 🔒 VLESS | @game_file2020 [9]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇩🇪 DE | 🔒 VLESS | @ghalagyann [21]",
+                "🇩🇪 DE | 🔒 VLESS | @ghalagyann [19]",
                 "🇳🇱 NL | 🔒 VLESS | @ghalagyann2 [6]",
                 "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [8]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
+                "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
                 "🇩🇪 DE | 🔒 VLESS | @icv2ray [17]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
@@ -355,33 +355,6 @@
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
                 }
-            }
-        },
-        {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @configshubplus [14]",
-            "type": "vless",
-            "server": "65.109.194.11",
-            "server_port": 23584,
-            "uuid": "33b8247e-1a56-4fb6-a5cd-5424572be295",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "safari"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "P493rf_2oHCfasd8wnbUs2KS8Z6D-nZibDPvwUbd_24",
-                    "short_id": "c92637"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "32135vless"
             }
         },
         {
@@ -608,7 +581,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @ghalagyann [21]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @ghalagyann [19]",
             "type": "vless",
             "server": "91.107.175.57",
             "server_port": 24070,
@@ -709,6 +682,33 @@
                     "public_key": "MFhTxw6M0UU7nAoxP-jAw8szA2vhXy6KYmBCrDwbpRw",
                     "short_id": "99d38a68"
                 }
+            }
+        },
+        {
+            "tag": "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
+            "type": "vless",
+            "server": "65.109.194.11",
+            "server_port": 23584,
+            "uuid": "33b8247e-1a56-4fb6-a5cd-5424572be295",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "journalofbigdata.springeropen.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "safari"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "P493rf_2oHCfasd8wnbUs2KS8Z6D-nZibDPvwUbd_24",
+                    "short_id": "c92637"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "32135vless"
             }
         },
         {
