@@ -1,44 +1,45 @@
 {
     "meta": {
-        "last_updated": "2025-08-05T04:46:45+00:00"
+        "last_updated": "2025-08-05T05:32:31+00:00"
     },
     "sources": {
         "total_from_assets": 415,
-        "had_configs_extracted": 415,
-        "had_valid_configs": 415,
-        "removed_in_cleanup": 0
+        "had_configs_extracted": 413,
+        "had_valid_configs": 413,
+        "removed_in_cleanup": 2
     },
     "configs": {
-        "total_valid": 1046,
+        "total_valid": 1040,
         "breakdown_by_protocol": {
-            "vless": 786,
-            "ss": 112,
-            "trojan": 20,
-            "vmess": 126,
+            "vless": 779,
+            "ss": 111,
+            "trojan": 21,
+            "vmess": 127,
             "tuic": 2
         }
     },
     "outputs": {
-        "location_files_created": 40,
+        "location_files_created": 39,
         "country_distribution": {
-            "CF": 269,
-            "XX": 189,
-            "DE": 168,
-            "IR": 83,
-            "US": 81,
-            "NL": 52,
-            "GB": 35,
-            "FR": 35,
-            "FI": 25,
-            "SE": 20,
+            "CF": 264,
+            "XX": 192,
+            "DE": 167,
+            "IR": 84,
+            "US": 78,
+            "NL": 54,
+            "FR": 36,
+            "GB": 34,
+            "FI": 24,
+            "SE": 19,
             "RU": 11,
-            "CA": 10,
+            "CA": 8,
             "AM": 7,
             "TR": 7,
             "AT": 6,
             "PL": 6,
-            "SG": 4,
+            "SG": 5,
             "JP": 4,
+            "CN": 3,
             "IN": 3,
             "AE": 3,
             "IT": 3,
@@ -46,20 +47,18 @@
             "CZ": 2,
             "CH": 2,
             "ID": 2,
-            "OM": 2,
             "UA": 1,
             "PT": 1,
             "LV": 1,
             "AU": 1,
             "CW": 1,
-            "CN": 1,
             "LK": 1,
             "LT": 1,
+            "OM": 1,
             "BR": 1,
             "HU": 1,
             "LU": 1,
             "TW": 1,
-            "BE": 1,
             "NO": 1
         }
     }

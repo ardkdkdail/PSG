@@ -228,8 +228,7 @@
         "types": [
             "vless",
             "ss",
-            "vmess",
-            "trojan"
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -619,8 +618,8 @@
     },
     "freakconfig": {
         "types": [
-            "vless",
             "trojan",
+            "vless",
             "ss"
         ],
         "title": "سرور کانفیگ کانفینگ رایگان",
@@ -1001,9 +1000,9 @@
     "ip_cf_config": {
         "types": [
             "trojan",
+            "vless",
             "vmess",
-            "ss",
-            "vless"
+            "ss"
         ],
         "title": "IP_CF | V2ray Config Pool",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ip_cf_config.jpg"
@@ -1564,8 +1563,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2501,8 +2500,7 @@
         "types": [
             "vless",
             "vmess",
-            "trojan",
-            "ss"
+            "trojan"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2568,15 +2566,6 @@
         ],
         "title": "V2rayNG | Fair vpn",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng3.jpg"
-    },
-    "v2rayng_1378": {
-        "types": [
-            "vless",
-            "vmess",
-            "ss"
-        ],
-        "title": "فیتلرشکن V2RAYNG",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayng_1378.jpg"
     },
     "v2rayng_ip": {
         "types": [
@@ -3039,15 +3028,6 @@
         ],
         "title": "MeGaVPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnmeg.jpg"
-    },
-    "vpnod": {
-        "types": [
-            "vless",
-            "vmess",
-            "ss"
-        ],
-        "title": "νρη σɗ",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnod.jpg"
     },
     "vpnowl": {
         "types": [
