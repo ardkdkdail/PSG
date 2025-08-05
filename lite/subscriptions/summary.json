@@ -1,19 +1,19 @@
 {
     "meta": {
-        "last_updated": "2025-08-05T18:29:06+00:00"
+        "last_updated": "2025-08-05T19:23:42+00:00"
     },
     "sources": {
-        "total_from_assets": 412,
-        "had_configs_extracted": 409,
-        "had_valid_configs": 409,
-        "removed_in_cleanup": 3
+        "total_from_assets": 409,
+        "had_configs_extracted": 408,
+        "had_valid_configs": 408,
+        "removed_in_cleanup": 1
     },
     "configs": {
-        "total_valid": 1026,
+        "total_valid": 1027,
         "breakdown_by_protocol": {
-            "vless": 776,
-            "ss": 109,
-            "trojan": 21,
+            "vless": 779,
+            "ss": 108,
+            "trojan": 20,
             "vmess": 118,
             "tuic": 2
         }
@@ -21,15 +21,15 @@
     "outputs": {
         "location_files_created": 41,
         "country_distribution": {
-            "CF": 276,
-            "XX": 188,
-            "DE": 155,
-            "US": 84,
-            "IR": 83,
-            "NL": 47,
-            "GB": 34,
+            "CF": 272,
+            "XX": 187,
+            "DE": 152,
+            "US": 85,
+            "IR": 81,
+            "NL": 50,
+            "GB": 35,
             "FR": 31,
-            "FI": 25,
+            "FI": 27,
             "SE": 19,
             "RU": 10,
             "AM": 8,
@@ -38,28 +38,28 @@
             "TR": 6,
             "PL": 6,
             "JP": 4,
+            "AE": 4,
             "SG": 3,
-            "AE": 3,
-            "CN": 3,
+            "IN": 3,
+            "AU": 3,
             "RO": 3,
             "CZ": 2,
-            "IN": 2,
             "CH": 2,
-            "TW": 2,
+            "CN": 2,
+            "LT": 2,
+            "BR": 2,
             "IT": 2,
+            "CY": 1,
             "UA": 1,
             "PT": 1,
-            "ES": 1,
             "KZ": 1,
             "LV": 1,
-            "AU": 1,
             "CW": 1,
+            "KR": 1,
             "LK": 1,
-            "LT": 1,
             "ID": 1,
-            "BR": 1,
+            "TW": 1,
             "HU": 1,
-            "SI": 1,
             "LU": 1,
             "NO": 1
         }
