@@ -220,6 +220,9 @@
     },
     "configshubplus": {
         "types": [
+            "trojan",
+            "vmess",
+            "ss",
             "vless"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
@@ -482,8 +485,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
@@ -874,10 +877,10 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "vmess",
             "vless",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"

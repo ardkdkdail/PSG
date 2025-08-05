@@ -6,6 +6,7 @@
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D8%B4%D8%A7%D9%87
 vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#KingRezaPahlavi
+trojan://telegram-id-privatevpns@54.75.220.189:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk#🇮🇪 IE | 🔒 TROJAN | @configshubplus [7]
 trojan://IY4gWQIsHV@104.21.44.185:2087?path=/mehdi&security=tls&host=Freedomisnear.onetwothree123.ir&type=httpupgrade&sni=Freedomisnear.onetwothree123.ir#🚩 CF | 🔒 TROJAN | @dailytek [2]
 trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@172.67.131.245:443?security=tls&headerType=none&type=tcp&sni=series-v1.samanehha.co#🚩 CF | 🔒 TROJAN | @dailytek [5]
 trojan://telegram-id-directvpn@18.199.40.31:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 🔒 TROJAN | @directvpn [2]
@@ -23,9 +24,10 @@ trojan://telegram-id-directvpn@3.121.134.122:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@18.158.247.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 🔒 TROJAN | @directvpn [14]
 trojan://telegram-id-directvpn@35.181.159.27:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 🔒 TROJAN | @directvpn [15]
 trojan://telegram-id-directvpn@35.181.0.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 🔒 TROJAN | @directvpn [16]
+trojan://telegram-id-v2rayvpnchannel@3.76.139.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 🔒 TROJAN | @fastfreeconfig [56]
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?type=tcp&security=tls&sni=rc8.freeguard.org&allowInsecure=1#🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]
 trojan://ziIjOlyGbM@91.107.141.0:23825?type=tcp&path=/&headerType=http&security=none#🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]
-trojan://bccbaaa-baca-baac-bdac-cbaaabacbccb@127.0.0.1:1080?security=tls&type=tcp#❔ XX | 🔒 TROJAN | @hope_net [8]
+trojan://bccbaaa-baca-baac-bdac-cbaaabacbccb@127.0.0.1:1080?security=tls&type=tcp#❔ XX | 🔒 TROJAN | @hope_net [6]
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&sni=rc6.freeguard.org#🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]
 trojan://123456@104.25.165.81:8443?path=/Az1.vpn.33.TOP/?ed=2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#🚩 CF | 🔒 TROJAN | @ip_cf_config [9]
 trojan://79c935c0-27dc-4383-b307-dcac1b8e5509@104.149.155.13:443?security=tls&sni=vzwzasc.cn&type=tcp&headerType=none&host=vzwzasc.cn#🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]
@@ -68,7 +70,6 @@ trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=#�
 trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=randomized&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#🚩 CF | 🔒 TROJAN | @v2rayngconfiig [6]
 trojan://telegram-id-v2rayvpnchannel@35.181.226.165:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [1]
 trojan://telegram-id-v2rayvpnchannel@15.188.203.180:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [2]
-trojan://telegram-id-v2rayvpnchannel@3.76.139.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [3]
 trojan://telegram-id-v2rayvpnchannel@18.195.193.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪 DE | 🔒 TROJAN | @v2rayvpnchannel [4]
 trojan://telegram-id-v2rayvpnchannel@13.36.190.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [5]
 trojan://telegram-id-v2rayvpnchannel@15.188.167.73:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 FR | 🔒 TROJAN | @v2rayvpnchannel [6]
