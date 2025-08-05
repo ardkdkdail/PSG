@@ -115,9 +115,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
                 "🇷🇺 RU | 🔒 VLESS | @kanfig_majani [4]",
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
+                "🇩🇪 DE | 🔒 VLESS | @kingofilter [3]",
                 "🇩🇪 DE | 🔒 VLESS | @kingofilter [4]",
                 "🇩🇪 DE | 🔒 VLESS | @kingofilter [5]",
-                "🇩🇪 DE | 🔒 VLESS | @kingofilter [6]",
                 "🇺🇸 US | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mahan_ping [12]",
                 "🇳🇱 NL | 🔒 VLESS | @manzariyeh_rasht [18]",
@@ -185,9 +185,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
                 "🇷🇺 RU | 🔒 VLESS | @kanfig_majani [4]",
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
+                "🇩🇪 DE | 🔒 VLESS | @kingofilter [3]",
                 "🇩🇪 DE | 🔒 VLESS | @kingofilter [4]",
                 "🇩🇪 DE | 🔒 VLESS | @kingofilter [5]",
-                "🇩🇪 DE | 🔒 VLESS | @kingofilter [6]",
                 "🇺🇸 US | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mahan_ping [12]",
                 "🇳🇱 NL | 🔒 VLESS | @manzariyeh_rasht [18]",
@@ -873,7 +873,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kingofilter [4]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kingofilter [3]",
             "type": "vless",
             "server": "91.99.216.9",
             "server_port": 8443,
@@ -896,7 +896,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kingofilter [5]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kingofilter [4]",
             "type": "vless",
             "server": "91.99.216.9",
             "server_port": 8443,
@@ -919,7 +919,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kingofilter [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kingofilter [5]",
             "type": "vless",
             "server": "91.99.216.9",
             "server_port": 8443,

@@ -114,16 +114,16 @@
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
                 "❔ XX | 🔒 SS | @v_2ray1 [7]",
                 "🇬🇧 GB | 🔒 SS | @v_2ray1 [8]",
-                "🇯🇵 JP | 🔒 SS | @vpn451 [6]",
-                "🇺🇸 US | 🔒 SS | @vpn451 [7]",
-                "🇺🇸 US | 🔒 SS | @vpn451 [10]",
-                "🇳🇱 NL | 🔒 SS | @vpn451 [12]",
-                "🇯🇵 JP | 🔒 SS | @vpn451 [14]",
-                "🇯🇵 JP | 🔒 SS | @vpn451 [16]",
-                "🇺🇸 US | 🔒 SS | @vpn451 [17]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [5]",
+                "🇺🇸 US | 🔒 SS | @vpn451 [6]",
+                "🇺🇸 US | 🔒 SS | @vpn451 [9]",
+                "🇳🇱 NL | 🔒 SS | @vpn451 [11]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [13]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [15]",
+                "🇺🇸 US | 🔒 SS | @vpn451 [16]",
                 "🇬🇧 GB | 🔒 SS | @vpn_ioss [14]",
                 "❔ XX | 🔒 SS | @vpn_meliii [1]",
-                "🇵🇱 PL | 🔒 SS | @zerobaipiao [10]"
+                "🇵🇱 PL | 🔒 SS | @zerobaipiao [9]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -168,16 +168,16 @@
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
                 "❔ XX | 🔒 SS | @v_2ray1 [7]",
                 "🇬🇧 GB | 🔒 SS | @v_2ray1 [8]",
-                "🇯🇵 JP | 🔒 SS | @vpn451 [6]",
-                "🇺🇸 US | 🔒 SS | @vpn451 [7]",
-                "🇺🇸 US | 🔒 SS | @vpn451 [10]",
-                "🇳🇱 NL | 🔒 SS | @vpn451 [12]",
-                "🇯🇵 JP | 🔒 SS | @vpn451 [14]",
-                "🇯🇵 JP | 🔒 SS | @vpn451 [16]",
-                "🇺🇸 US | 🔒 SS | @vpn451 [17]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [5]",
+                "🇺🇸 US | 🔒 SS | @vpn451 [6]",
+                "🇺🇸 US | 🔒 SS | @vpn451 [9]",
+                "🇳🇱 NL | 🔒 SS | @vpn451 [11]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [13]",
+                "🇯🇵 JP | 🔒 SS | @vpn451 [15]",
+                "🇺🇸 US | 🔒 SS | @vpn451 [16]",
                 "🇬🇧 GB | 🔒 SS | @vpn_ioss [14]",
                 "❔ XX | 🔒 SS | @vpn_meliii [1]",
-                "🇵🇱 PL | 🔒 SS | @zerobaipiao [10]"
+                "🇵🇱 PL | 🔒 SS | @zerobaipiao [9]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -540,7 +540,7 @@
             "password": "2LVVFxxHJSBMdGdl"
         },
         {
-            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [6]",
+            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [5]",
             "type": "shadowsocks",
             "server": "sakura.outlinekeys.net",
             "server_port": 1235,
@@ -548,7 +548,7 @@
             "password": "FGHwtC6cjw1zSSiRbEg5T4"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @vpn451 [7]",
+            "tag": "🇺🇸 US | 🔒 SS | @vpn451 [6]",
             "type": "shadowsocks",
             "server": "fox-usa.outlinekeys.net",
             "server_port": 34868,
@@ -556,7 +556,7 @@
             "password": "TiiaduS9VbEHgfkRugj3xO"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @vpn451 [10]",
+            "tag": "🇺🇸 US | 🔒 SS | @vpn451 [9]",
             "type": "shadowsocks",
             "server": "fox-usa.outlinekeys.net",
             "server_port": 34868,
@@ -564,7 +564,7 @@
             "password": "To8uQIZua71xAA3JMbUWEi"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 SS | @vpn451 [12]",
+            "tag": "🇳🇱 NL | 🔒 SS | @vpn451 [11]",
             "type": "shadowsocks",
             "server": "macintosh.outlinekeys.net",
             "server_port": 19609,
@@ -572,7 +572,7 @@
             "password": "jg8euTSXrw0YpeUmUEzmZI"
         },
         {
-            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [14]",
+            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [13]",
             "type": "shadowsocks",
             "server": "sakura.outlinekeys.net",
             "server_port": 1235,
@@ -580,7 +580,7 @@
             "password": "sINSpdNYGUfLMzsoLD3W5D"
         },
         {
-            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [16]",
+            "tag": "🇯🇵 JP | 🔒 SS | @vpn451 [15]",
             "type": "shadowsocks",
             "server": "sakura.outlinekeys.net",
             "server_port": 1235,
@@ -588,7 +588,7 @@
             "password": "rhGz9UAp47At0PKbD4Lo5A"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @vpn451 [17]",
+            "tag": "🇺🇸 US | 🔒 SS | @vpn451 [16]",
             "type": "shadowsocks",
             "server": "fox-usa.outlinekeys.net",
             "server_port": 34868,
@@ -612,7 +612,7 @@
             "password": "W74XFALLLuw6m5IA"
         },
         {
-            "tag": "🇵🇱 PL | 🔒 SS | @zerobaipiao [10]",
+            "tag": "🇵🇱 PL | 🔒 SS | @zerobaipiao [9]",
             "type": "shadowsocks",
             "server": "pr.fastsoonlink.com",
             "server_port": 40030,

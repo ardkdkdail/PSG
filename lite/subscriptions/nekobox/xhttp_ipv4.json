@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [59]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
@@ -97,8 +98,8 @@
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [8]"
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [5]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [7]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,6 +111,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [59]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
@@ -126,8 +128,8 @@
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [8]"
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [5]",
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [7]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -237,6 +239,24 @@
                     "enabled": true,
                     "public_key": "4Xu_jqRD-mbhEwNyntlz_6zU4VhsE0-QWCxAbhEL_H4",
                     "short_id": "7ab467"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @fastfreeconfig [59]",
+            "type": "vless",
+            "server": "104.21.62.144",
+            "server_port": 443,
+            "uuid": "c1c6f7b2-0a36-43cf-a309-66fea055cafe",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "varda2.manwe.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -529,7 +549,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [5]",
             "type": "vless",
             "server": "91.99.239.156",
             "server_port": 8443,
@@ -538,7 +558,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [8]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [7]",
             "type": "vless",
             "server": "91.99.219.10",
             "server_port": 443,
