@@ -98,10 +98,10 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "🚩 CF | 🔒 TROJAN | @configshubplus [5]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
-                "❔ XX | 🔒 TROJAN | @hope_net [16]",
-                "❔ XX | 🔓 TROJAN | @ip_cf_config [4]",
+                "❔ XX | 🔒 TROJAN | @hope_net [14]",
+                "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
+                "❔ XX | 🔓 TROJAN | @ip_cf_config [12]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [8]",
@@ -119,7 +119,6 @@
                 "❔ XX | 🔓 TROJAN | @tgvpn6 [8]",
                 "❔ XX | 🔓 TROJAN | @tgvpn6 [9]",
                 "🇭🇰 HK | 🔓 TROJAN | @tgvpn6 [12]",
-                "🇭🇰 HK | 🔓 TROJAN | @v2raych [17]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
@@ -148,10 +147,10 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "🚩 CF | 🔒 TROJAN | @configshubplus [5]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
-                "❔ XX | 🔒 TROJAN | @hope_net [16]",
-                "❔ XX | 🔓 TROJAN | @ip_cf_config [4]",
+                "❔ XX | 🔒 TROJAN | @hope_net [14]",
+                "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
+                "❔ XX | 🔓 TROJAN | @ip_cf_config [12]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [8]",
@@ -169,7 +168,6 @@
                 "❔ XX | 🔓 TROJAN | @tgvpn6 [8]",
                 "❔ XX | 🔓 TROJAN | @tgvpn6 [9]",
                 "🇭🇰 HK | 🔓 TROJAN | @tgvpn6 [12]",
-                "🇭🇰 HK | 🔓 TROJAN | @v2raych [17]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [33]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [35]",
@@ -374,29 +372,6 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @configshubplus [5]",
-            "type": "trojan",
-            "server": "silkbook.com",
-            "server_port": 443,
-            "password": "auto",
-            "tls": {
-                "enabled": true,
-                "server_name": "azadnet1.yiwenaw435.workers.dev",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/azadnet1.yiwenaw435.workers.dev/?ed=2560",
-                "headers": {
-                    "Host": "azadnet1.yiwenaw435.workers.dev"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
             "type": "trojan",
             "server": "us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen",
@@ -413,7 +388,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @hope_net [16]",
+            "tag": "❔ XX | 🔒 TROJAN | @hope_net [14]",
             "type": "trojan",
             "server": "joinv2ngfast-7nr.pages.dev",
             "server_port": 2096,
@@ -436,11 +411,18 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 TROJAN | @ip_cf_config [4]",
+            "tag": "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
             "type": "trojan",
             "server": "391907cc-swgsg0-t1bnjq-1krtb.cu.plebai.net",
             "server_port": 15229,
             "password": "60f6b4c4-9d70-11ed-a4d2-f23c9164ca5d"
+        },
+        {
+            "tag": "❔ XX | 🔓 TROJAN | @ip_cf_config [12]",
+            "type": "trojan",
+            "server": "13c2c931-swin40-swy6li-tni2.cu.plebai.net",
+            "server_port": 15229,
+            "password": "5e2f888c-68ef-11ef-96ca-f23c9164ca5d"
         },
         {
             "tag": "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
@@ -744,13 +726,6 @@
             "server": "v01.gutingting.com",
             "server_port": 30056,
             "password": "700b38d8-5ec2-42a8-a608-758ee1388231"
-        },
-        {
-            "tag": "🇭🇰 HK | 🔓 TROJAN | @v2raych [17]",
-            "type": "trojan",
-            "server": "naiu-hk.05vr9nyqg5.download",
-            "server_port": 13007,
-            "password": "5e2ce79c-170e-484a-8802-40584a1a3a12"
         },
         {
             "tag": "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
