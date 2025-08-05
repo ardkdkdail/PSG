@@ -80,7 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
+                "🇩🇪 DE | 🔓 VLESS | @configshubplus [16]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [14]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -97,17 +99,14 @@
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [30]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇺🇸 US | 🔓 VLESS | @lranonline_new [1]",
                 "🚩 CF | 🔒 VLESS | @manzariyeh_rasht [19]",
                 "🚩 CF | 🔒 VLESS | @netmellianti [14]",
                 "🇦🇲 AM | 🔒 VLESS | @orange_vpns [11]",
-                "🇳🇱 NL | 🔒 VLESS | @proxy_mtproto_vpns_free [15]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
@@ -119,7 +118,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
+                "🇩🇪 DE | 🔓 VLESS | @configshubplus [16]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [14]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -136,17 +137,14 @@
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [30]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🇺🇸 US | 🔓 VLESS | @lranonline_new [1]",
                 "🚩 CF | 🔒 VLESS | @manzariyeh_rasht [19]",
                 "🚩 CF | 🔒 VLESS | @netmellianti [14]",
                 "🇦🇲 AM | 🔒 VLESS | @orange_vpns [11]",
-                "🇳🇱 NL | 🔒 VLESS | @proxy_mtproto_vpns_free [15]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
@@ -238,6 +236,15 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
+            "type": "vless",
+            "server": "cdn.irancdngame.com",
+            "server_port": 80,
+            "uuid": "d39d8fcc-85e1-41d3-ac0f-628c2cf8aba5",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
@@ -245,6 +252,24 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @configshubplus [16]",
+            "type": "vless",
+            "server": "server79787566814164569.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server79787566814164569.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
@@ -414,15 +439,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @lranonline_new [1]",
-            "type": "vless",
-            "server": "CONFiGLiNE.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "a1adf38b-3055-4865-a46e-15e62f4a0e4c",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🚩 CF | 🔒 VLESS | @manzariyeh_rasht [19]",
             "type": "vless",
             "server": "www.speedtest.net",
@@ -478,29 +494,6 @@
                     "enabled": true,
                     "public_key": "xfzizKASi1RDkMp0lU9CKVNbcKCL5KzdgIzZjF1d_AI",
                     "short_id": "6b"
-                }
-            }
-        },
-        {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @proxy_mtproto_vpns_free [15]",
-            "type": "vless",
-            "server": "nl.2.tryfreenet24.xyz",
-            "server_port": 8023,
-            "uuid": "ViP_Fragmemt_V2ray",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "zhaket.xom",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "IeLdc7dCgdzACeAK1wq4rxuuBmp9kTh4Wq_pjZhJeXo",
-                    "short_id": "62e9"
                 }
             }
         },
@@ -592,15 +585,6 @@
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
-            "type": "vless",
-            "server": "DailyConfigs.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "378b8e58-6a23-4fc6-b227-67665a78033d",
             "flow": "",
             "packet_encoding": "xudp"
         },
