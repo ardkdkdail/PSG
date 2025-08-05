@@ -93,17 +93,17 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @ai_duet [8]",
-                "🇬🇧 GB | 🔒 SS | @configshubplus [16]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
                 "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
                 "🇩🇪 DE | 🔒 SS | @mftizi [18]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
+                "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
                 "🇬🇧 GB | 🔒 SS | @ntgreenplus [1]",
                 "🇺🇸 US | 🔒 SS | @proxy48 [14]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇬🇧 GB | 🔒 SS | @prroxyng [2]",
+                "🇬🇧 GB | 🔒 SS | @selinc [6]",
                 "🇬🇧 GB | 🔒 SS | @serverv2ray00 [20]",
-                "🇬🇧 GB | 🔒 SS | @v2rayang201 [8]",
                 "🇬🇧 GB | 🔒 SS | @v2raybe [7]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [15]",
                 "🇺🇸 US | 🔒 SS | @vpn451 [16]"
@@ -118,17 +118,17 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @ai_duet [8]",
-                "🇬🇧 GB | 🔒 SS | @configshubplus [16]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
                 "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
                 "🇩🇪 DE | 🔒 SS | @mftizi [18]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
+                "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
                 "🇬🇧 GB | 🔒 SS | @ntgreenplus [1]",
                 "🇺🇸 US | 🔒 SS | @proxy48 [14]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇬🇧 GB | 🔒 SS | @prroxyng [2]",
+                "🇬🇧 GB | 🔒 SS | @selinc [6]",
                 "🇬🇧 GB | 🔒 SS | @serverv2ray00 [20]",
-                "🇬🇧 GB | 🔒 SS | @v2rayang201 [8]",
                 "🇬🇧 GB | 🔒 SS | @v2raybe [7]",
                 "🇯🇵 JP | 🔒 SS | @vpn451 [15]",
                 "🇺🇸 US | 🔒 SS | @vpn451 [16]"
@@ -226,14 +226,6 @@
             "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇬🇧 GB | 🔒 SS | @configshubplus [16]",
-            "type": "shadowsocks",
-            "server": "series-a2.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "mps3FwmDjLrWaOVg"
-        },
-        {
             "tag": "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
             "type": "shadowsocks",
             "server": "hackney-latest-strike.freesocks.work",
@@ -261,6 +253,14 @@
             "tag": "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
             "type": "shadowsocks",
             "server": "series-a2.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "mps3FwmDjLrWaOVg"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
+            "type": "shadowsocks",
+            "server": "series-a2.samanehha.co",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "mps3FwmDjLrWaOVg"
@@ -298,20 +298,20 @@
             "password": "69MUii7VDwMqh7Hz"
         },
         {
+            "tag": "🇬🇧 GB | 🔒 SS | @selinc [6]",
+            "type": "shadowsocks",
+            "server": "series-a1.samanehha.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "W74XFALLLuw6m5IA"
+        },
+        {
             "tag": "🇬🇧 GB | 🔒 SS | @serverv2ray00 [20]",
             "type": "shadowsocks",
             "server": "series-a2-me.samanehha.co",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "Bog0ELmMM9DSxDdQ"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 SS | @v2rayang201 [8]",
-            "type": "shadowsocks",
-            "server": "series-a1.samanehha.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "W74XFALLLuw6m5IA"
         },
         {
             "tag": "🇬🇧 GB | 🔒 SS | @v2raybe [7]",
