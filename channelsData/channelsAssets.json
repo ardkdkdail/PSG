@@ -168,7 +168,9 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "hy2",
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -219,10 +221,8 @@
     },
     "configshubplus": {
         "types": [
-            "vless",
-            "trojan",
             "vmess",
-            "ss"
+            "vless"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -486,7 +486,8 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "trojan",
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -876,10 +877,10 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
-            "vmess",
             "ss",
-            "vless"
+            "vless",
+            "trojan",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1025,13 +1026,6 @@
         ],
         "title": "IR.LAST",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/irlast.jpg"
-    },
-    "irv2rey": {
-        "types": [
-            "vless"
-        ],
-        "title": "ایران ویتوری | 𝐈𝐫𝐯𝟐𝐫𝐞𝐲",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/irv2rey.jpg"
     },
     "iseqaro": {
         "types": [
@@ -1486,8 +1480,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2341,8 +2335,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "vmess",
+            "trojan",
             "ss",
             "vless"
         ],
@@ -2791,8 +2785,8 @@
     },
     "vmesc": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "Free V2ray",
@@ -2800,8 +2794,8 @@
     },
     "vmess_ir": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmess_ir.jpg"
@@ -3095,8 +3089,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerobaipiao.jpg"

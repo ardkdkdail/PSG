@@ -121,6 +121,7 @@
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "🇫🇷 FR | 🔒 VLESS | @v2graphy [12]",
                 "🇳🇱 NL | 🔒 VLESS | @v2graphy [13]",
+                "🇸🇮 SI | 🔒 VLESS | @v2raych [18]",
                 "🇳🇱 NL | 🔒 VLESS | @v2raymelliii [10]",
                 "❔ XX | 🔒 VLESS | @v2rayng_my2 [2]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
@@ -182,6 +183,7 @@
                 "❔ XX | 🔒 VLESS | @torang_vpn [17]",
                 "🇫🇷 FR | 🔒 VLESS | @v2graphy [12]",
                 "🇳🇱 NL | 🔒 VLESS | @v2graphy [13]",
+                "🇸🇮 SI | 🔒 VLESS | @v2raych [18]",
                 "🇳🇱 NL | 🔒 VLESS | @v2raymelliii [10]",
                 "❔ XX | 🔒 VLESS | @v2rayng_my2 [2]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
@@ -1285,6 +1287,29 @@
                     "enabled": true,
                     "public_key": "RLUQT-hMZPmNWtDE67gs8osxdeASKAnARAmNs9bs0l0",
                     "short_id": "fdf18126a0768480"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇮 SI | 🔒 VLESS | @v2raych [18]",
+            "type": "vless",
+            "server": "tunnyl.ru",
+            "server_port": 443,
+            "uuid": "6a8e7eae-d913-4f6b-8319-282dad85a56c",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI",
+                    "short_id": "5c0333ed45b1"
                 }
             }
         },

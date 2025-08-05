@@ -83,7 +83,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [17]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
-                "🇺🇸 US | 🔒 VLESS | @configshubplus [19]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -100,7 +99,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
-                "🇺🇸 US | 🔒 VLESS | @hope_net [20]",
+                "🇺🇸 US | 🔒 VLESS | @hope_net [18]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇫🇮 FI | 🔒 VLESS | @iseqaro [2]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
@@ -158,7 +157,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [17]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
-                "🇺🇸 US | 🔒 VLESS | @configshubplus [19]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -175,7 +173,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
                 "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
-                "🇺🇸 US | 🔒 VLESS | @hope_net [20]",
+                "🇺🇸 US | 🔒 VLESS | @hope_net [18]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇫🇮 FI | 🔒 VLESS | @iseqaro [2]",
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [15]",
@@ -379,29 +377,6 @@
                     "enabled": true,
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔒 VLESS | @configshubplus [19]",
-            "type": "vless",
-            "server": "62.60.178.200",
-            "server_port": 40792,
-            "uuid": "24d0e335-659e-45c7-8e61-0bd899c1d510",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.latimes.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w",
-                    "short_id": "5a"
                 }
             }
         },
@@ -810,7 +785,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @hope_net [20]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @hope_net [18]",
             "type": "vless",
             "server": "172.233.186.196",
             "server_port": 80,
