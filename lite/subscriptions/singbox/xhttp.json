@@ -119,9 +119,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔓 VLESS | @v2raych [20]",
                 "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
-                "🇩🇪 DE | 🔓 VLESS | @vmess_ir [20]",
+                "🇩🇪 DE | 🔓 VLESS | @vmess_ir [18]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
@@ -178,9 +177,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇩🇪 DE | 🔓 VLESS | @v2raych [20]",
                 "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
-                "🇩🇪 DE | 🔓 VLESS | @vmess_ir [20]",
+                "🇩🇪 DE | 🔓 VLESS | @vmess_ir [18]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
@@ -630,24 +628,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @v2raych [20]",
-            "type": "vless",
-            "server": "server681306348952527243.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server681306348952527243.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
             "type": "vless",
             "server": "DailyConfigs.fast.hosting-ip.com",
@@ -657,7 +637,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmess_ir [20]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmess_ir [18]",
             "type": "vless",
             "server": "server18477021984150715.tas-bazi.com",
             "server_port": 443,
