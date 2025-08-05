@@ -97,6 +97,8 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [7]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [9]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [17]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [29]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [35]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -154,7 +156,7 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🚩 CF | 🔒 VLESS | @v2trayproxy [9]",
                 "🇺🇸 US | 🔓 VLESS | @v2trayproxy [15]",
-                "🇩🇪 DE | 🔓 VLESS | @vmess_ir [9]",
+                "🇩🇪 DE | 🔓 VLESS | @vmess_ir [8]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -173,6 +175,8 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [7]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [9]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [17]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [29]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [35]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -230,7 +234,7 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🚩 CF | 🔒 VLESS | @v2trayproxy [9]",
                 "🇺🇸 US | 🔓 VLESS | @v2trayproxy [15]",
-                "🇩🇪 DE | 🔓 VLESS | @vmess_ir [9]",
+                "🇩🇪 DE | 🔓 VLESS | @vmess_ir [8]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -377,6 +381,38 @@
                     "short_id": "aeba"
                 }
             }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [29]",
+            "type": "vless",
+            "server": "mrkrabsvpn.com",
+            "server_port": 35010,
+            "uuid": "3a9ec0b4-68b2-4b7a-9be2-9a1b3817131d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "cq-73i9ku71O0lB3vrStvPnCNsHfYbZJOG3-plxBdnw",
+                    "short_id": "0d8064b34a108f"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [35]",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
@@ -1118,7 +1154,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmess_ir [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vmess_ir [8]",
             "type": "vless",
             "server": "server18477021984150715.tas-bazi.com",
             "server_port": 443,
