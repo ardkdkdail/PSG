@@ -81,9 +81,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @ai_duet [8]",
-                "🇬🇧 GB | 🔒 SS | @configshubplus [18]",
-                "🇬🇧 GB | 🔒 SS | @configshubplus [20]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
+                "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
                 "🇩🇪 DE | 🔒 SS | @mftizi [18]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
@@ -107,9 +106,8 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇬🇧 GB | 🔒 SS | @ai_duet [8]",
-                "🇬🇧 GB | 🔒 SS | @configshubplus [18]",
-                "🇬🇧 GB | 🔒 SS | @configshubplus [20]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
+                "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
                 "🇩🇪 DE | 🔒 SS | @mftizi [18]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [1]",
                 "🇬🇧 GB | 🔒 SS | @nationalproxytelegram [2]",
@@ -220,28 +218,20 @@
             "password": "mps3FwmDjLrWaOVg"
         },
         {
-            "tag": "🇬🇧 GB | 🔒 SS | @configshubplus [18]",
-            "type": "shadowsocks",
-            "server": "freakconfig13.felafel.org",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "1xO2cqPazqjGfCfd"
-        },
-        {
-            "tag": "🇬🇧 GB | 🔒 SS | @configshubplus [20]",
-            "type": "shadowsocks",
-            "server": "series-a2-mec.varzesh360.co",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "u17T3BvpYaaiuW2c"
-        },
-        {
             "tag": "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
             "type": "shadowsocks",
             "server": "hackney-latest-strike.freesocks.work",
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "XUMTygEM1jVYIvysXKqA5T"
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 SS | @imhdiyvp [9]",
+            "type": "shadowsocks",
+            "server": "series-a2-mec.varzesh360.co",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "u17T3BvpYaaiuW2c"
         },
         {
             "tag": "🇩🇪 DE | 🔒 SS | @mftizi [18]",

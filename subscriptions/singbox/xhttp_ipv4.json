@@ -102,8 +102,9 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [6]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
-                "🇩🇪 DE | 🔓 VLESS | @falcunargo [6]",
+                "🇩🇪 DE | 🔓 VLESS | @falcunargo [5]",
                 "🇩🇪 DE | 🔒 VLESS | @farahvpn [10]",
+                "🇨🇭 CH | 🔓 VLESS | @fastfreeconfig [60]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
@@ -118,7 +119,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [13]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [5]",
@@ -144,7 +144,7 @@
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔓 VLESS | @v2rayopen [8]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayopen [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2raytg [60]",
                 "🇳🇱 NL | 🔒 VLESS | @v2trayproxy [4]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
@@ -178,8 +178,9 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [6]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [6]",
-                "🇩🇪 DE | 🔓 VLESS | @falcunargo [6]",
+                "🇩🇪 DE | 🔓 VLESS | @falcunargo [5]",
                 "🇩🇪 DE | 🔒 VLESS | @farahvpn [10]",
+                "🇨🇭 CH | 🔓 VLESS | @fastfreeconfig [60]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
@@ -194,7 +195,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
-                "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [13]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [5]",
@@ -220,7 +220,7 @@
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔓 VLESS | @v2rayopen [8]",
+                "🇩🇪 DE | 🔓 VLESS | @v2rayopen [7]",
                 "🇺🇸 US | 🔓 VLESS | @v2raytg [60]",
                 "🇳🇱 NL | 🔒 VLESS | @v2trayproxy [4]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
@@ -438,7 +438,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @falcunargo [6]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @falcunargo [5]",
             "type": "vless",
             "server": "91.99.85.185",
             "server_port": 8443,
@@ -468,6 +468,15 @@
                     "short_id": "d3c49afc00"
                 }
             }
+        },
+        {
+            "tag": "🇨🇭 CH | 🔓 VLESS | @fastfreeconfig [60]",
+            "type": "vless",
+            "server": "185.18.250.67",
+            "server_port": 8080,
+            "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
@@ -675,15 +684,6 @@
             "server": "151.101.204.190",
             "server_port": 80,
             "uuid": "8285eef0-147d-4bb6-9d12-0e4601a36e78",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-            "type": "vless",
-            "server": "185.18.250.67",
-            "server_port": 8080,
-            "uuid": "4d263c1a-fbb9-4946-a639-1de531120cde",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -1111,7 +1111,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayopen [8]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @v2rayopen [7]",
             "type": "vless",
             "server": "91.99.218.14",
             "server_port": 8443,
