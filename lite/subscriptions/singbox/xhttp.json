@@ -116,7 +116,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇫🇮 FI | 🔓 VLESS | @v2raych [20]",
                 "🇩🇪 DE | 🔓 VLESS | @v2trayproxy [15]",
                 "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
                 "🇩🇪 DE | 🔓 VLESS | @vmess_ir [20]",
@@ -174,7 +173,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
-                "🇫🇮 FI | 🔓 VLESS | @v2raych [20]",
                 "🇩🇪 DE | 🔓 VLESS | @v2trayproxy [15]",
                 "🇺🇸 US | 🔓 VLESS | @v2trayproxy [17]",
                 "🇩🇪 DE | 🔓 VLESS | @vmess_ir [20]",
@@ -581,24 +579,6 @@
             "uuid": "11f0eeb6-c9e9-49c7-8eda-7ee1a4904e9b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇫🇮 FI | 🔓 VLESS | @v2raych [20]",
-            "type": "vless",
-            "server": "server320258253370151493.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server320258253370151493.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @v2trayproxy [15]",
