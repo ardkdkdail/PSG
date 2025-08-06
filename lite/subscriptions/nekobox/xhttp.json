@@ -108,6 +108,7 @@
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [3]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [59]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
@@ -122,7 +123,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [10]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [5]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [7]"
             ],
@@ -163,6 +163,7 @@
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [3]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [59]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
@@ -177,7 +178,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [10]",
                 "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [5]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [7]"
             ],
@@ -637,6 +637,29 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [59]",
+            "type": "vless",
+            "server": "80.240.23.101",
+            "server_port": 443,
+            "uuid": "97d53a59-918e-45fc-bc5d-ba487f090cc1",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "hundleymechanical.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "randomized"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o",
+                    "short_id": "008c74"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
             "type": "vless",
             "server": "5.161.151.225",
@@ -887,29 +910,6 @@
             "uuid": "joinshotoV2rayNGFreee",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-            "type": "vless",
-            "server": "80.240.23.101",
-            "server_port": 443,
-            "uuid": "97d53a59-918e-45fc-bc5d-ba487f090cc1",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hundleymechanical.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "randomized"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o",
-                    "short_id": "008c74"
-                }
-            }
         },
         {
             "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [5]",

@@ -221,8 +221,7 @@
     "configshubplus": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -322,7 +321,6 @@
     },
     "dalton_ping": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "Proxy.v2rayNG.",
@@ -591,8 +589,8 @@
     },
     "free1_vpn": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Free_VPN √ v2ray √ NapsternetV √ custom √ injector √",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1_vpn.jpg"
@@ -875,9 +873,8 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "🕊 Hope Net",
@@ -1365,14 +1362,6 @@
         "title": "Mega VPN - VPN ⚪️",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/megavpn_link.jpg"
     },
-    "mehduox_vpn": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "MehduoX VPN کانفیگ رایگان",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mehduox_vpn.jpg"
-    },
     "mehrosaboran": {
         "types": [
             "vless"
@@ -1470,8 +1459,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2327,8 +2316,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan",
             "vmess"
         ],
@@ -2778,8 +2767,8 @@
     },
     "vmesc": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"
