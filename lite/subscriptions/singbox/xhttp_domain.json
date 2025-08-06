@@ -101,7 +101,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
-                "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
@@ -114,7 +113,7 @@
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [13]",
-                "🇱🇰 LK | 🔒 VLESS | @proxystore11 [15]",
+                "🇦🇲 AM | 🔒 VLESS | @proxystore11 [15]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -137,7 +136,6 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
-                "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
@@ -150,7 +148,7 @@
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [13]",
-                "🇱🇰 LK | 🔒 VLESS | @proxystore11 [15]",
+                "🇦🇲 AM | 🔒 VLESS | @proxystore11 [15]",
                 "🇩🇪 DE | 🔓 VLESS | @v2graphy [11]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -335,15 +333,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
-            "type": "vless",
-            "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "a6b02202-a87a-4a79-b186-a7f59b989556",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
             "type": "vless",
             "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
@@ -507,7 +496,7 @@
             }
         },
         {
-            "tag": "🇱🇰 LK | 🔒 VLESS | @proxystore11 [15]",
+            "tag": "🇦🇲 AM | 🔒 VLESS | @proxystore11 [15]",
             "type": "vless",
             "server": "soren1.risktravelers.top",
             "server_port": 26779,
