@@ -80,8 +80,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [27]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [28]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
-                "🇩🇪 DE | 🔓 VLESS | @configshubplus [20]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [14]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -90,6 +91,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -99,7 +101,7 @@
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🚩 CF | 🔓 VLESS | @kingofilter [4]",
-                "🚩 CF | 🔒 VLESS | @netmellianti [12]",
+                "🚩 CF | 🔒 VLESS | @netmellianti [11]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
@@ -135,8 +137,9 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [27]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [28]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
-                "🇩🇪 DE | 🔓 VLESS | @configshubplus [20]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [14]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -145,6 +148,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -154,7 +158,7 @@
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🚩 CF | 🔓 VLESS | @kingofilter [4]",
-                "🚩 CF | 🔒 VLESS | @netmellianti [12]",
+                "🚩 CF | 🔒 VLESS | @netmellianti [11]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [14]",
@@ -270,6 +274,24 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [27]",
+            "type": "vless",
+            "server": "configline.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "9e8ca7c6-7f5f-4056-b280-efd1796669ad",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [28]",
+            "type": "vless",
+            "server": "Configline.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "cfcb0479-85f1-4467-914a-459157b696f9",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
@@ -277,24 +299,6 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @configshubplus [20]",
-            "type": "vless",
-            "server": "server79787566814164569.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server79787566814164569.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
@@ -379,6 +383,15 @@
             "server": "EVAY_VPN.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "DailyConfigs.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "378b8e58-6a23-4fc6-b227-67665a78033d",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -473,7 +486,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @netmellianti [12]",
+            "tag": "🚩 CF | 🔒 VLESS | @netmellianti [11]",
             "type": "vless",
             "server": "rde.datgame.info",
             "server_port": 2087,
