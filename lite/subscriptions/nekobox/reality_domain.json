@@ -88,10 +88,8 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
-                "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
-                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
@@ -104,10 +102,10 @@
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
-                "🇷🇺 RU | 🔒 VLESS | @mowjproxy [5]",
+                "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [25]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
-                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [15]",
+                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [14]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -149,10 +147,8 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
-                "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
-                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
@@ -165,10 +161,10 @@
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
-                "🇷🇺 RU | 🔒 VLESS | @mowjproxy [5]",
+                "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [25]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
-                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [15]",
+                "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [14]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
                 "❔ XX | 🔒 VLESS | @proxy_iranv2 [4]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -478,29 +474,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
-            "type": "vless",
-            "server": "loadbalance.systemgamingirani.ir",
-            "server_port": 443,
-            "uuid": "8af733bd-c094-4e99-add3-95f380cda5e7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg",
-                    "short_id": "b7859e878ab2fb"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 VLESS | @custom_14 [8]",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -547,29 +520,6 @@
                     "enabled": true,
                     "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
                     "short_id": "f23547"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [58]",
-            "type": "vless",
-            "server": "all32-vip.f-sub.com",
-            "server_port": 2434,
-            "uuid": "84e919b0-2a5d-4fad-8614-df01dd210b8e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.chess.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA",
-                    "short_id": ""
                 }
             }
         },
@@ -882,7 +832,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @mowjproxy [5]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [25]",
             "type": "vless",
             "server": "balancer.russia.purr.bot",
             "server_port": 10443,
@@ -959,7 +909,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [15]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [14]",
             "type": "vless",
             "server": "nl01-vlr01.tcp-reset-club.net",
             "server_port": 443,
