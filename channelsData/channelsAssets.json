@@ -222,8 +222,8 @@
     },
     "configshubplus": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "trojan",
             "ss"
         ],
@@ -488,8 +488,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -878,9 +878,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "vless",
             "ss",
+            "trojan",
             "vmess"
         ],
         "title": "🕊 Hope Net",
@@ -1466,7 +1466,6 @@
     },
     "mowjproxy": {
         "types": [
-            "ss",
             "vmess",
             "vless"
         ],
@@ -1701,7 +1700,8 @@
     "orange_vpns": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "V2ray سرور و کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/orange_vpns.jpg"
@@ -1855,7 +1855,8 @@
     "proxy_mtproto_vpns_free": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2325,9 +2326,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "ss",
             "vmess",
+            "trojan",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2405,7 +2406,8 @@
     "v2rayfree": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"

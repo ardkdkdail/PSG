@@ -98,11 +98,12 @@
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [5]",
+                "🇺🇸 US | 🔒 TROJAN | @configshubplus [17]",
+                "🚩 CF | 🔒 TROJAN | @configshubplus [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
-                "🇺🇸 US | 🔓 TROJAN | @hope_net [19]",
-                "🇧🇬 BG | 🔓 TROJAN | @hope_net [20]",
+                "🇧🇬 BG | 🔓 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]",
@@ -130,11 +131,12 @@
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [5]",
+                "🇺🇸 US | 🔒 TROJAN | @configshubplus [17]",
+                "🚩 CF | 🔒 TROJAN | @configshubplus [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
-                "🇺🇸 US | 🔓 TROJAN | @hope_net [19]",
-                "🇧🇬 BG | 🔓 TROJAN | @hope_net [20]",
+                "🇧🇬 BG | 🔓 TROJAN | @hope_net [18]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]",
@@ -351,6 +353,45 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔒 TROJAN | @configshubplus [17]",
+            "type": "trojan",
+            "server": "198.202.211.146",
+            "server_port": 443,
+            "password": "bpb-trojan",
+            "tls": {
+                "enabled": true,
+                "server_name": "bpb.my79801.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 TROJAN | @configshubplus [18]",
+            "type": "trojan",
+            "server": "172.67.181.173",
+            "server_port": 443,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "tls": {
+                "enabled": true,
+                "server_name": "vpn.stupidworld.web.id",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/@VPNBaz---@VPNBaz---@VPNBaz---@VPNBaz---@VPNBaz---@VPNBaz",
+                "headers": {
+                    "Host": "vpn.stupidworld.web.id"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
             "type": "trojan",
             "server": "3.78.38.140",
@@ -399,23 +440,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 TROJAN | @hope_net [19]",
-            "type": "trojan",
-            "server": "104.254.140.141",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.254.140.141",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇧🇬 BG | 🔓 TROJAN | @hope_net [20]",
+            "tag": "🇧🇬 BG | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
             "server": "89.117.112.181",
             "server_port": 443,
