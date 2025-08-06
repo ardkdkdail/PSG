@@ -94,6 +94,7 @@
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔒 SS | @ai_duet [8]",
                 "🇺🇸 US | 🔒 SS | @canfing_vpn [6]",
+                "🇩🇪 DE | 🔒 SS | @configshubplus [14]",
                 "❔ XX | 🔒 SS | @darkma3ter24 [1]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [2]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [3]",
@@ -145,6 +146,7 @@
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔒 SS | @ai_duet [8]",
                 "🇺🇸 US | 🔒 SS | @canfing_vpn [6]",
+                "🇩🇪 DE | 🔒 SS | @configshubplus [14]",
                 "❔ XX | 🔒 SS | @darkma3ter24 [1]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [2]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [3]",
@@ -284,6 +286,14 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "u17T3BvpYaaiuW2c"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 SS | @configshubplus [14]",
+            "type": "shadowsocks",
+            "server": "universal.opengate.wiki",
+            "server_port": 2222,
+            "method": "chacha20-ietf-poly1305",
+            "password": "trErto8XzLALaQEslTp_jw"
         },
         {
             "tag": "❔ XX | 🔒 SS | @darkma3ter24 [1]",
