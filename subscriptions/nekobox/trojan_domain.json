@@ -86,16 +86,16 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [47]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [55]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [1]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [4]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
+                "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
                 "❔ XX | 🔒 TROJAN | @public504 [4]",
                 "🇸🇪 SE | 🔒 TROJAN | @sobyv2ray [11]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [1]",
@@ -133,16 +133,16 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [47]",
-                "❔ XX | 🔒 TROJAN | @fastfreeconfig [55]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
+                "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [8]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [1]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [4]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [7]",
                 "❔ XX | 🔒 TROJAN | @maradona_vpn [8]",
+                "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
                 "❔ XX | 🔒 TROJAN | @public504 [4]",
                 "🇸🇪 SE | 🔒 TROJAN | @sobyv2ray [11]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [1]",
@@ -360,46 +360,6 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 TROJAN | @fastfreeconfig [47]",
-            "type": "trojan",
-            "server": "lllliraniv2rayllll.norooz.shop",
-            "server_port": 2083,
-            "password": "BWDcALS5TU",
-            "tls": {
-                "enabled": true,
-                "server_name": "lllliraniv2rayllll.norooz.shop",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "iraniV2ray"
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @fastfreeconfig [55]",
-            "type": "trojan",
-            "server": "maradona_vpn.history-paint.art",
-            "server_port": 443,
-            "password": "Maradona_vpn",
-            "tls": {
-                "enabled": true,
-                "server_name": "teo.history-paint.art",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "grpc20337"
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
             "type": "trojan",
             "server": "us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen",
@@ -421,6 +381,26 @@
             "server": "13c2c931-swin40-swy6li-tni2.cu.plebai.net",
             "server_port": 15229,
             "password": "5e2f888c-68ef-11ef-96ca-f23c9164ca5d"
+        },
+        {
+            "tag": "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
+            "type": "trojan",
+            "server": "lllliraniv2rayllll.norooz.shop",
+            "server_port": 2083,
+            "password": "BWDcALS5TU",
+            "tls": {
+                "enabled": true,
+                "server_name": "lllliraniv2rayllll.norooz.shop",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "iraniV2ray"
+            }
         },
         {
             "tag": "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
@@ -548,6 +528,26 @@
                 "headers": {
                     "Host": "teo.history-paint.art"
                 }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 TROJAN | @maradona_vpn [9]",
+            "type": "trojan",
+            "server": "maradona_vpn.history-paint.art",
+            "server_port": 443,
+            "password": "Maradona_vpn",
+            "tls": {
+                "enabled": true,
+                "server_name": "teo.history-paint.art",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "grpc20337"
             }
         },
         {

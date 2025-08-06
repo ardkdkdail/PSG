@@ -89,7 +89,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇩🇪 DE | 🔓 VLESS | @netmellianti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [9]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [14]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -119,7 +119,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇩🇪 DE | 🔓 VLESS | @netmellianti [12]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [9]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [14]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [12]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -385,7 +385,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [14]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [12]",
             "type": "vless",
             "server": "91.99.176.24",
             "server_port": 8443,
