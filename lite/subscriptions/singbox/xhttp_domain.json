@@ -101,7 +101,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
-                "🇺🇸 US | 🔓 VLESS | @falcunargo [13]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [57]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -137,7 +137,7 @@
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
-                "🇺🇸 US | 🔓 VLESS | @falcunargo [13]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [57]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -335,11 +335,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @falcunargo [13]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [57]",
             "type": "vless",
-            "server": "configline.fast.hosting-ip.com",
+            "server": "boom.fast.hosting-ip.com",
             "server_port": 80,
-            "uuid": "9e8ca7c6-7f5f-4056-b280-efd1796669ad",
+            "uuid": "57567659-5d0f-4dd6-9184-9f7aaecb49e5",
             "flow": "",
             "packet_encoding": "xudp"
         },
