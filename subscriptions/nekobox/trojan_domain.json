@@ -86,8 +86,9 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔓 TROJAN | @fastfreeconfig [55]",
+                "❔ XX | 🔒 TROJAN | @fastfreeconfig [52]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
+                "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [8]",
@@ -115,7 +116,6 @@
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [42]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [1]",
-                "❔ XX | 🔒 TROJAN | @xrayzxn [2]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [5]"
             ],
             "tag": "proxy",
@@ -133,8 +133,9 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔓 TROJAN | @fastfreeconfig [55]",
+                "❔ XX | 🔒 TROJAN | @fastfreeconfig [52]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
+                "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
                 "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
                 "❔ XX | 🔒 TROJAN | @jiedianssr [8]",
@@ -162,7 +163,6 @@
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [41]",
                 "❔ XX | 🔒 TROJAN | @v2rayngconfig [42]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [1]",
-                "❔ XX | 🔒 TROJAN | @xrayzxn [2]",
                 "❔ XX | 🔒 TROJAN | @xrayzxn [5]"
             ],
             "tag": "auto",
@@ -360,11 +360,24 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 TROJAN | @fastfreeconfig [55]",
+            "tag": "❔ XX | 🔒 TROJAN | @fastfreeconfig [52]",
             "type": "trojan",
-            "server": "13c2c931-swin40-swy6li-tni2.cu.plebai.net",
-            "server_port": 15229,
-            "password": "5e2f888c-68ef-11ef-96ca-f23c9164ca5d"
+            "server": "amin.karkas1.ir",
+            "server_port": 443,
+            "password": "db19fc68-c027-4641-a8eb-eed3e1065c8a",
+            "tls": {
+                "enabled": true,
+                "server_name": "amin.karkas1.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "6vuNVgOFnqUEvj0rcXIcStL"
+            }
         },
         {
             "tag": "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
@@ -381,6 +394,13 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
+            "type": "trojan",
+            "server": "13c2c931-swin40-swy6li-tni2.cu.plebai.net",
+            "server_port": 15229,
+            "password": "5e2f888c-68ef-11ef-96ca-f23c9164ca5d"
         },
         {
             "tag": "❔ XX | 🔒 TROJAN | @iraniv2ray [4]",
@@ -835,26 +855,6 @@
             "server": "amin.karkas1.ir",
             "server_port": 443,
             "password": "e6b506e9-2d37-40cb-aff9-35678d0e6c69",
-            "tls": {
-                "enabled": true,
-                "server_name": "amin.karkas1.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "6vuNVgOFnqUEvj0rcXIcStL"
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 TROJAN | @xrayzxn [2]",
-            "type": "trojan",
-            "server": "amin.karkas1.ir",
-            "server_port": 443,
-            "password": "db19fc68-c027-4641-a8eb-eed3e1065c8a",
             "tls": {
                 "enabled": true,
                 "server_name": "amin.karkas1.ir",

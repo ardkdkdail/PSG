@@ -88,10 +88,8 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
-                "🇮🇹 IT | 🔒 VLESS | @configshubplus [15]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
-                "❔ XX | 🔒 VLESS | @fastfreeconfig [60]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
@@ -149,10 +147,8 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
-                "🇮🇹 IT | 🔒 VLESS | @configshubplus [15]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
-                "❔ XX | 🔒 VLESS | @fastfreeconfig [60]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
@@ -478,29 +474,6 @@
             }
         },
         {
-            "tag": "🇮🇹 IT | 🔒 VLESS | @configshubplus [15]",
-            "type": "vless",
-            "server": "ita01-vlr01.tcp-reset-club.net",
-            "server_port": 443,
-            "uuid": "0eb4ea60-bdd0-46c2-b2a0-fdb3c7a37318",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "86e999a2cdc2"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔒 VLESS | @custom_14 [8]",
             "type": "vless",
             "server": "usa-join.outline-vpn.fun",
@@ -547,29 +520,6 @@
                     "enabled": true,
                     "public_key": "7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o",
                     "short_id": "f23547"
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @fastfreeconfig [60]",
-            "type": "vless",
-            "server": "german.vp22ray.site",
-            "server_port": 2087,
-            "uuid": "05898b79-2bc1-4126-88ca-e8e081c19b5d",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "Ftp.debian.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "54z0hCTglWDmCFnDBU4JmzqjJtFgbhM3x45l-B5If1I",
-                    "short_id": "32c43ca1"
                 }
             }
         },

@@ -175,9 +175,8 @@
     },
     "config_proxy": {
         "types": [
-            "vless",
             "vmess",
-            "ss"
+            "vless"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -228,7 +227,10 @@
     },
     "configshubplus": {
         "types": [
-            "vless"
+            "vless",
+            "ss",
+            "trojan",
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -511,8 +513,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
-            "trojan"
+            "trojan",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -925,8 +927,8 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "trojan",
+            "ss",
             "vless",
             "vmess"
         ],
@@ -1178,8 +1180,8 @@
     },
     "kafing_2": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "کافینگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/kafing_2.jpg"
@@ -1535,8 +1537,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1679,8 +1681,8 @@
     },
     "netmellianti": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPN | V2rayNG | نت ملی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/netmellianti.jpg"
@@ -1930,8 +1932,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2298,8 +2300,8 @@
     },
     "v222ray": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "Rose vpn🌹فیلترشکن",
@@ -2371,10 +2373,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "trojan",
             "vless",
             "ss",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2463,16 +2465,6 @@
         "title": "خریدوفروش فیلتر شکن V2RAY",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raybe.jpg"
     },
-    "v2raych": {
-        "types": [
-            "vmess",
-            "ss",
-            "vless",
-            "trojan"
-        ],
-        "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
-    },
     "v2raycrow": {
         "types": [
             "ss"
@@ -2496,8 +2488,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2765,14 +2757,6 @@
         ],
         "title": "follow vbox | vbox کانال فروشگاه خدمات مجازی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vboxpanel.jpg"
-    },
-    "vezzevpn": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "Vezze Vpn",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vezzevpn.jpg"
     },
     "vip_vpn_2022": {
         "types": [

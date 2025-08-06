@@ -149,6 +149,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayngninja [9]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
+                "🇳🇱 NL | 🔒 VLESS | @v2ry_proxy [14]",
                 "🇷🇺 RU | 🔒 VLESS | @vipnetmeli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @vipnetmeli [3]",
                 "🇩🇪 DE | 🔒 VLESS | @vipv2rey [40]",
@@ -223,6 +224,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngconfings [17]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayngninja [9]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
+                "🇳🇱 NL | 🔒 VLESS | @v2ry_proxy [14]",
                 "🇷🇺 RU | 🔒 VLESS | @vipnetmeli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @vipnetmeli [3]",
                 "🇩🇪 DE | 🔒 VLESS | @vipv2rey [40]",
@@ -1710,6 +1712,29 @@
                     "enabled": true,
                     "public_key": "HhI0Y1IV5Vks0OqsV6N4Csvaivc1BH_IzoSbw5Ii_3o",
                     "short_id": "008c74"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @v2ry_proxy [14]",
+            "type": "vless",
+            "server": "85.234.65.120",
+            "server_port": 443,
+            "uuid": "2a562107-43a6-40a4-a35e-e01e6f21684e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.speedtest.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo",
+                    "short_id": "e2"
                 }
             }
         },
