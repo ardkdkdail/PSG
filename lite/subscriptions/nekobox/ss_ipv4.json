@@ -94,9 +94,9 @@
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
                 "🇸🇬 SG | 🔒 SS | @freakconfig [17]",
                 "🇹🇷 TR | 🔒 SS | @free1_vpn [5]",
-                "🇳🇱 NL | 🔒 SS | @free1ss [16]",
-                "🇻🇳 VN | 🔒 SS | @free1ss [17]",
-                "🇺🇸 US | 🔒 SS | @free1ss [18]",
+                "🇻🇳 VN | 🔒 SS | @free1ss [16]",
+                "🇺🇸 US | 🔒 SS | @free1ss [17]",
+                "🇩🇪 DE | 🔒 SS | @free1ss [18]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
                 "🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]",
                 "🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]",
@@ -124,8 +124,9 @@
                 "🇸🇪 SE | 🔒 SS | @proxy_net_meli [8]",
                 "🇹🇷 TR | 🔒 SS | @proxy_net_meli [9]",
                 "🇦🇪 AE | 🔒 SS | @proxy_net_meli [10]",
-                "🇫🇷 FR | 🔒 SS | @prrofile_purple [127]",
+                "🇹🇷 TR | 🔒 SS | @prrofile_purple [131]",
                 "🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]",
+                "🇳🇱 NL | 🔒 SS | @shadowsockskeys [14]",
                 "🇦🇹 AT | 🔒 SS | @shadowsockskeys [16]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [15]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [16]",
@@ -162,9 +163,9 @@
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
                 "🇸🇬 SG | 🔒 SS | @freakconfig [17]",
                 "🇹🇷 TR | 🔒 SS | @free1_vpn [5]",
-                "🇳🇱 NL | 🔒 SS | @free1ss [16]",
-                "🇻🇳 VN | 🔒 SS | @free1ss [17]",
-                "🇺🇸 US | 🔒 SS | @free1ss [18]",
+                "🇻🇳 VN | 🔒 SS | @free1ss [16]",
+                "🇺🇸 US | 🔒 SS | @free1ss [17]",
+                "🇩🇪 DE | 🔒 SS | @free1ss [18]",
                 "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
                 "🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]",
                 "🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]",
@@ -192,8 +193,9 @@
                 "🇸🇪 SE | 🔒 SS | @proxy_net_meli [8]",
                 "🇹🇷 TR | 🔒 SS | @proxy_net_meli [9]",
                 "🇦🇪 AE | 🔒 SS | @proxy_net_meli [10]",
-                "🇫🇷 FR | 🔒 SS | @prrofile_purple [127]",
+                "🇹🇷 TR | 🔒 SS | @prrofile_purple [131]",
                 "🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]",
+                "🇳🇱 NL | 🔒 SS | @shadowsockskeys [14]",
                 "🇦🇹 AT | 🔒 SS | @shadowsockskeys [16]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [15]",
                 "🇫🇷 FR | 🔒 SS | @sobyv2ray [16]",
@@ -408,15 +410,7 @@
             "password": "iw8GoN42dciNxDBd0RwAdL"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 SS | @free1ss [16]",
-            "type": "shadowsocks",
-            "server": "92.112.126.90",
-            "server_port": 443,
-            "method": "chacha20-ietf-poly1305",
-            "password": "9tqhMdIrTkgQ46PvhyAtMH"
-        },
-        {
-            "tag": "🇻🇳 VN | 🔒 SS | @free1ss [17]",
+            "tag": "🇻🇳 VN | 🔒 SS | @free1ss [16]",
             "type": "shadowsocks",
             "server": "160.19.78.75",
             "server_port": 443,
@@ -424,12 +418,20 @@
             "password": "Nk9asglDzHzjktVzTkvhaA"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @free1ss [18]",
+            "tag": "🇺🇸 US | 🔒 SS | @free1ss [17]",
             "type": "shadowsocks",
             "server": "159.223.135.183",
             "server_port": 48512,
             "method": "chacha20-ietf-poly1305",
             "password": "jcV7y4DgHxtD7qBySoMNoo"
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 SS | @free1ss [18]",
+            "type": "shadowsocks",
+            "server": "46.101.245.131",
+            "server_port": 44354,
+            "method": "chacha20-ietf-poly1305",
+            "password": "9RviNa4tscjcmCB408vLSg"
         },
         {
             "tag": "🇩🇪 DE | 🔒 SS | @freev2raym [9]",
@@ -648,12 +650,12 @@
             "password": "G!yBwPWH3Vao"
         },
         {
-            "tag": "🇫🇷 FR | 🔒 SS | @prrofile_purple [127]",
+            "tag": "🇹🇷 TR | 🔒 SS | @prrofile_purple [131]",
             "type": "shadowsocks",
-            "server": "45.95.233.102",
-            "server_port": 9089,
+            "server": "193.124.46.134",
+            "server_port": 8444,
             "method": "chacha20-ietf-poly1305",
-            "password": "q7itxk8x0DUjAKNgj4xv3G"
+            "password": "tunnel-telegram-ibahad"
         },
         {
             "tag": "🇳🇱 NL | 🔒 SS | @satellitenewspersian [17]",
@@ -662,6 +664,14 @@
             "server_port": 8080,
             "method": "chacha20-ietf-poly1305",
             "password": "oZIoA69Q8yhcQV8ka3Pa3A"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 SS | @shadowsockskeys [14]",
+            "type": "shadowsocks",
+            "server": "92.112.126.90",
+            "server_port": 443,
+            "method": "chacha20-ietf-poly1305",
+            "password": "9tqhMdIrTkgQ46PvhyAtMH"
         },
         {
             "tag": "🇦🇹 AT | 🔒 SS | @shadowsockskeys [16]",
