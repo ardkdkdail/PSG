@@ -100,6 +100,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
+                "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
@@ -116,7 +117,7 @@
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
-                "🇷🇺 RU | 🔒 VLESS | @netmellianti [13]",
+                "🇷🇺 RU | 🔒 VLESS | @netmellianti [12]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -161,6 +162,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
+                "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
@@ -177,7 +179,7 @@
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
-                "🇷🇺 RU | 🔒 VLESS | @netmellianti [13]",
+                "🇷🇺 RU | 🔒 VLESS | @netmellianti [12]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -483,6 +485,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers"
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
+            "type": "vless",
+            "server": "de1.kesslershop.ir",
+            "server_port": 8890,
+            "uuid": "eb24e3b9-bcfb-46b9-a962-2621eabee526",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "fZlxWuS-vWZhQ5PQ1VwBWsKxL6T5uKn5zSzGvnUeKhM",
+                    "short_id": "57dae9386011aceb"
+                }
             }
         },
         {
@@ -890,7 +915,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @netmellianti [13]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @netmellianti [12]",
             "type": "vless",
             "server": "balancer.russia.purr.bot",
             "server_port": 10443,
