@@ -221,8 +221,8 @@
     "configshubplus": {
         "types": [
             "trojan",
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
@@ -877,10 +877,10 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
-            "trojan",
             "ss",
-            "vless"
+            "vmess",
+            "vless",
+            "trojan"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1479,7 +1479,6 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
             "vmess"
         ],
         "title": "Mowj Proxy",
@@ -2336,9 +2335,9 @@
     },
     "v2ray_free_conf": {
         "types": [
+            "vless",
             "vmess",
             "ss",
-            "vless",
             "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2869,15 +2868,6 @@
         "title": "کانفیگ سرور V2rayng🔐",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_ioss.jpg"
     },
-    "vpn_meliii": {
-        "types": [
-            "ss",
-            "vless",
-            "vmess"
-        ],
-        "title": "پروکسی کانفینگ ویتوری وی پی ان ملی اخبار جنگ فیلترشکن ایران | vpn proxy sstp cisco v2rayng vemss vless",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn_meliii.jpg"
-    },
     "vpn_ocean": {
         "types": [
             "vless"
@@ -3091,8 +3081,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",

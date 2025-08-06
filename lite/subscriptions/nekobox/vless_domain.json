@@ -104,6 +104,7 @@
                 "🚩 CF | 🔓 VLESS | @configms [12]",
                 "🇮🇷 IR | 🔒 VLESS | @configscenter [1]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
+                "🇩🇪 DE | 🔓 VLESS | @configshubplus [20]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
                 "🇮🇷 IR | 🔓 VLESS | @configtrapi [28]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [29]",
@@ -144,8 +145,8 @@
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [31]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [33]",
                 "🚩 CF | 🔒 VLESS | @farahvpn [19]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [57]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
+                "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
+                "🚩 CF | 🔓 VLESS | @fastfreeconfig [60]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [15]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [16]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
@@ -455,6 +456,7 @@
                 "🚩 CF | 🔓 VLESS | @configms [12]",
                 "🇮🇷 IR | 🔒 VLESS | @configscenter [1]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
+                "🇩🇪 DE | 🔓 VLESS | @configshubplus [20]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
                 "🇮🇷 IR | 🔓 VLESS | @configtrapi [28]",
                 "🇩🇪 DE | 🔓 VLESS | @configtrapi [29]",
@@ -495,8 +497,8 @@
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [31]",
                 "🚩 CF | 🔓 VLESS | @expressvpn_420 [33]",
                 "🚩 CF | 🔒 VLESS | @farahvpn [19]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [57]",
-                "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
+                "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
+                "🚩 CF | 🔓 VLESS | @fastfreeconfig [60]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [15]",
                 "🚩 CF | 🔓 VLESS | @fastkanfig [16]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
@@ -1303,6 +1305,24 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @configshubplus [20]",
+            "type": "vless",
+            "server": "server79787566814164569.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server79787566814164569.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔓 VLESS | @configtrapi [27]",
             "type": "vless",
             "server": "asia5.novahomedesigntips.com",
@@ -1933,22 +1953,43 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [57]",
+            "tag": "❔ XX | 🔒 VLESS | @fastfreeconfig [58]",
             "type": "vless",
-            "server": "boom.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "57567659-5d0f-4dd6-9184-9f7aaecb49e5",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "server": "WLF-V-P-N-ID2.dnsfree.one",
+            "server_port": 443,
+            "uuid": "---WLFVPN---",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.yahoo.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "GAUjNf1wQnDm5ziCGqRmb3yVfU9bg_UPwZ2_QU4JWRU",
+                    "short_id": "6bb85179e30d4fc2"
+                }
+            }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [58]",
+            "tag": "🚩 CF | 🔓 VLESS | @fastfreeconfig [60]",
             "type": "vless",
-            "server": "IPB-AlphaOmega-Company.1AlphaOmega.Org",
-            "server_port": 80,
-            "uuid": "7193b0d2-8a38-466b-845f-8c44f25acb4c",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "3834a452-778b-42d5-be27-b12236597a0d",
             "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048",
+                "headers": {
+                    "Host": "www.speedtest.net"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @fastkanfig [15]",
