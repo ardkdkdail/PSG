@@ -103,6 +103,7 @@
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
                 "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [24]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [12]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [12]",
@@ -163,6 +164,7 @@
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
                 "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [24]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [12]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "🇳🇱 NL | 🔒 VLESS | @outlinev2rayng [12]",
@@ -853,6 +855,29 @@
                     "enabled": true,
                     "public_key": "jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4",
                     "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [12]",
+            "type": "vless",
+            "server": "api.dayhostpro.com",
+            "server_port": 57297,
+            "uuid": "a2c536b8-9b1c-4aea-a6ec-35fdc407c84d",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "assets01.surveymonkey.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "DAkye38FaoQNbOpsdebtSJLM1VfbtKIdG6ujUGjkRi8",
+                    "short_id": "60bd80"
                 }
             }
         },

@@ -109,7 +109,7 @@
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [30]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🚩 CF | 🔓 VLESS | @kingofilter [5]",
+                "🚩 CF | 🔓 VLESS | @kingofilter [4]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -126,6 +126,7 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [9]",
+                "🇬🇧 GB | 🔒 VLESS | @proxy_mtproto_vpns_free [18]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -164,7 +165,7 @@
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [30]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🚩 CF | 🔓 VLESS | @kingofilter [5]",
+                "🚩 CF | 🔓 VLESS | @kingofilter [4]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -181,6 +182,7 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [9]",
+                "🇬🇧 GB | 🔒 VLESS | @proxy_mtproto_vpns_free [18]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
@@ -454,7 +456,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @kingofilter [5]",
+            "tag": "🚩 CF | 🔓 VLESS | @kingofilter [4]",
             "type": "vless",
             "server": "llc.v2sub.ir",
             "server_port": 2082,
@@ -756,6 +758,29 @@
                     "enabled": true,
                     "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
                     "short_id": "61e683d41fdb"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @proxy_mtproto_vpns_free [18]",
+            "type": "vless",
+            "server": "159.65.215.131",
+            "server_port": 44486,
+            "uuid": "ef4b62a4-9cf3-43a4-999c-fcb06eb99b18",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "zhaket.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "4Iu8Qa-XePGCSkg0_W_KEUV7bJj7ysmfAYsOJvZsFxM",
+                    "short_id": "1b74288a"
                 }
             }
         },
