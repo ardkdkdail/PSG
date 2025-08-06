@@ -168,8 +168,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -222,8 +222,7 @@
         "types": [
             "vless",
             "ss",
-            "trojan",
-            "vmess"
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -1123,13 +1122,6 @@
         "title": "Outline Keys | Open | Free",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/key_outline.jpg"
     },
-    "khoneproxy": {
-        "types": [
-            "vmess"
-        ],
-        "title": "Khone Proxy",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/khoneproxy.jpg"
-    },
     "kilid_stor": {
         "types": [
             "vless"
@@ -1867,8 +1859,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2337,9 +2329,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "vmess",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2423,8 +2415,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"

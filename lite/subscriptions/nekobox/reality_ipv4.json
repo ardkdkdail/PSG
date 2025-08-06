@@ -82,7 +82,7 @@
                 "KingRezaPahlavi",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [17]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [26]",
+                "🇸🇬 SG | 🔒 VLESS | @config_proxy [21]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
@@ -154,7 +154,7 @@
                 "KingRezaPahlavi",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [11]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [17]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [26]",
+                "🇸🇬 SG | 🔒 VLESS | @config_proxy [21]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [9]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
@@ -354,11 +354,11 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [26]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [21]",
             "type": "vless",
             "server": "91.242.241.45",
             "server_port": 8443,
-            "uuid": "9da5536b-bdd2-4384-abd4-6993e7b19dae",
+            "uuid": "335482b9-3570-435c-9c40-9a7719550bf7",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
