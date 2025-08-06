@@ -86,6 +86,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @bermudavpn24 [3]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
+                "🇬🇧 GB | 🔒 VLESS | @config_proxy [38]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
@@ -146,9 +147,9 @@
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [5]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
-                "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
+                "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
-                "🇺🇸 US | 🔒 VLESS | @hope_net [20]",
+                "🇺🇸 US | 🔒 VLESS | @hope_net [18]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇫🇮 FI | 🔒 VLESS | @iseqaro [2]",
                 "🇫🇮 FI | 🔒 VLESS | @iseqaro [3]",
@@ -197,7 +198,7 @@
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
-                "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [19]"
+                "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [18]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -214,6 +215,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @bermudavpn24 [3]",
                 "❔ XX | 🔒 VLESS | @buffalo_vpn [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
+                "🇬🇧 GB | 🔒 VLESS | @config_proxy [38]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
@@ -274,9 +276,9 @@
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇩🇪 DE | 🔒 VLESS | @ghalagyann2 [5]",
                 "🇩🇪 DE | 🔒 VLESS | @goldenshiinevpn [9]",
-                "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
+                "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
                 "🇺🇸 US | 🔒 VLESS | @happ_tm_official [2]",
-                "🇺🇸 US | 🔒 VLESS | @hope_net [20]",
+                "🇺🇸 US | 🔒 VLESS | @hope_net [18]",
                 "🇫🇷 FR | 🔒 VLESS | @injectormconf [38]",
                 "🇫🇮 FI | 🔒 VLESS | @iseqaro [2]",
                 "🇫🇮 FI | 🔒 VLESS | @iseqaro [3]",
@@ -325,7 +327,7 @@
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
-                "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [19]"
+                "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [18]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -559,6 +561,29 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @config_proxy [38]",
+            "type": "vless",
+            "server": "uk.marzban-locations.com",
+            "server_port": 3033,
+            "uuid": "b847c699-a570-4357-88fa-62789a29fee2",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "refersion.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "firefox"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI",
+                    "short_id": ""
+                }
             }
         },
         {
@@ -2026,7 +2051,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [7]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @grizzlyvpn [6]",
             "type": "vless",
             "server": "65.109.194.11",
             "server_port": 23584,
@@ -2076,7 +2101,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @hope_net [20]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @hope_net [18]",
             "type": "vless",
             "server": "172.235.141.7",
             "server_port": 80,
@@ -3254,7 +3279,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [19]",
+            "tag": "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [18]",
             "type": "vless",
             "server": "[2a03:b0c0:3:f0:0:1:230e:f000]",
             "server_port": 27270,

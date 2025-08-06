@@ -92,6 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "❔ XX | 🔓 VLESS | @configshubplus [17]",
                 "❔ XX | 🔓 VLESS | @dalton_ping [8]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
@@ -102,7 +103,7 @@
                 "❔ XX | 🔓 VLESS | @internet_nor [3]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
                 "❔ XX | 🔓 VLESS | @parsashonam [8]",
-                "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [19]",
+                "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [18]",
                 "❔ XX | 🔒 VLESS | @v2raytg [74]",
                 "❔ XX | 🔓 VLESS | @v2ryngfree [9]",
                 "❔ XX | 🔓 VLESS | @v2ryngfree [11]"
@@ -116,6 +117,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "❔ XX | 🔓 VLESS | @configshubplus [17]",
                 "❔ XX | 🔓 VLESS | @dalton_ping [8]",
                 "❔ XX | 🔒 VLESS | @deli_servers [2]",
                 "❔ XX | 🔒 VLESS | @fire_vpn_channel [1]",
@@ -126,7 +128,7 @@
                 "❔ XX | 🔓 VLESS | @internet_nor [3]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [2]",
                 "❔ XX | 🔓 VLESS | @parsashonam [8]",
-                "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [19]",
+                "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [18]",
                 "❔ XX | 🔒 VLESS | @v2raytg [74]",
                 "❔ XX | 🔓 VLESS | @v2ryngfree [9]",
                 "❔ XX | 🔓 VLESS | @v2ryngfree [11]"
@@ -214,6 +216,15 @@
                     "Host": "127.0.0.1"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @configshubplus [17]",
+            "type": "vless",
+            "server": "[2a01:4f9:c011:295a::1]",
+            "server_port": 8880,
+            "uuid": "31cc285f-5358-41df-8dca-d7f73a00f152",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @dalton_ping [8]",
@@ -384,7 +395,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [19]",
+            "tag": "❔ XX | 🔒 VLESS | @proxy_mtproto_vpns_free [18]",
             "type": "vless",
             "server": "[2a03:b0c0:3:f0:0:1:230e:f000]",
             "server_port": 27270,
