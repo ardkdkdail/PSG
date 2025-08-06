@@ -100,11 +100,10 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
-                "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
-                "🇫🇮 FI | 🔒 VLESS | @freakconfig [15]",
+                "❔ XX | 🔒 VLESS | @fastfreeconfig [59]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
@@ -162,11 +161,10 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
-                "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
-                "🇫🇮 FI | 🔒 VLESS | @freakconfig [15]",
+                "❔ XX | 🔒 VLESS | @fastfreeconfig [59]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [2]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [3]",
                 "❔ XX | 🔒 VLESS | @fsv2ray [4]",
@@ -488,29 +486,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @configshubplus [19]",
-            "type": "vless",
-            "server": "de1.kesslershop.ir",
-            "server_port": 8890,
-            "uuid": "eb24e3b9-bcfb-46b9-a962-2621eabee526",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "refersion.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "fZlxWuS-vWZhQ5PQ1VwBWsKxL6T5uKn5zSzGvnUeKhM",
-                    "short_id": "57dae9386011aceb"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @confing_chanel [7]",
             "type": "vless",
             "server": "loadbalance.systemgamingirani.ir",
@@ -584,25 +559,25 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @freakconfig [15]",
+            "tag": "❔ XX | 🔒 VLESS | @fastfreeconfig [59]",
             "type": "vless",
-            "server": "direct.yasharteam.com",
-            "server_port": 443,
-            "uuid": "59db3b45-830a-4b6c-8b7d-9bd6d7189c7d",
+            "server": "persian85.iran86.persianmemberiranmember.shop",
+            "server_port": 2221,
+            "uuid": "c6cc1151-57bd-4f55-c9b4-0d03ee0feccc",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "ghbi.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "firefox"
+                    "fingerprint": "chrome"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
+                    "public_key": "LKU7cY0NkBp1zV1YSu8d_xdykD3qgIeC6Kz8MjGGnH4",
+                    "short_id": "c77d"
                 }
             }
         },

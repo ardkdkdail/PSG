@@ -175,7 +175,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -226,7 +227,9 @@
     },
     "configshubplus": {
         "types": [
-            "vless"
+            "vless",
+            "ss",
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -326,7 +329,6 @@
     },
     "dalton_ping": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "Proxy.v2rayNG.",
@@ -617,7 +619,6 @@
     },
     "freakconfig": {
         "types": [
-            "trojan",
             "vless",
             "ss"
         ],
@@ -926,8 +927,8 @@
     "hope_net": {
         "types": [
             "vmess",
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "🕊 Hope Net",
@@ -1381,8 +1382,8 @@
     },
     "manzariyeh_rasht": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🌲🌲منظریه نگـو بهشت رشت بگـو🌴🌴",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/manzariyeh_rasht.jpg"
@@ -2372,10 +2373,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
-            "trojan",
             "vless",
-            "ss"
+            "ss",
+            "trojan",
+            "vmess"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2467,8 +2468,9 @@
     "v2raych": {
         "types": [
             "vless",
+            "ss",
             "trojan",
-            "ss"
+            "vmess"
         ],
         "title": "V2rayChallenge: V2RAY VPN Configs &amp; MTProto Proxies Free | پروکسی وی پی ان VPN رایگان وی تو ری چالش",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2raych.jpg"
@@ -2824,7 +2826,6 @@
     },
     "vmesc": {
         "types": [
-            "trojan",
             "ss",
             "vless"
         ],
