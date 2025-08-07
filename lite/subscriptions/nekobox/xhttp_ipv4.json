@@ -89,6 +89,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
+                "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [133]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
@@ -117,6 +118,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
+                "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [133]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
@@ -391,6 +393,24 @@
                     "enabled": true,
                     "public_key": "z--KbBlQtkBgTcrtdBJeGeCymIrLdaUDwkb44pAp6nY",
                     "short_id": "4c"
+                }
+            }
+        },
+        {
+            "tag": "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [133]",
+            "type": "vless",
+            "server": "139.177.199.49",
+            "server_port": 443,
+            "uuid": "b4df5662-9ae5-4e49-a042-353ac99fd572",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "139.177.199.49",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
