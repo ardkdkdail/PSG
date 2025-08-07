@@ -94,7 +94,6 @@
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @bored_vpn [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
-                "🇩🇪 DE | 🔓 VLESS | @configfa [10]",
                 "🇺🇸 US | 🔓 VLESS | @configms [1]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
@@ -117,8 +116,8 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
-                "🇩🇪 DE | 🔓 VLESS | @netmellianti [9]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
+                "🇩🇪 DE | 🔓 VLESS | @netmellianti [8]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🚩 CF | 🔒 VLESS | @proxie [3]",
                 "🚩 CF | 🔒 VLESS | @proxie [4]",
@@ -163,7 +162,6 @@
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @bored_vpn [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
-                "🇩🇪 DE | 🔓 VLESS | @configfa [10]",
                 "🇺🇸 US | 🔓 VLESS | @configms [1]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
@@ -186,8 +184,8 @@
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
-                "🇩🇪 DE | 🔓 VLESS | @netmellianti [9]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
+                "🇩🇪 DE | 🔓 VLESS | @netmellianti [8]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🚩 CF | 🔒 VLESS | @proxie [3]",
                 "🚩 CF | 🔒 VLESS | @proxie [4]",
@@ -320,15 +318,6 @@
             "server": "151.101.3.8",
             "server_port": 80,
             "uuid": "724383d8-33c6-4e8d-9db4-0184a89efa33",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @configfa [10]",
-            "type": "vless",
-            "server": "91.99.218.14",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -628,7 +617,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @netmellianti [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @netmellianti [8]",
             "type": "vless",
             "server": "91.99.98.90",
             "server_port": 8443,
@@ -637,7 +626,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [11]",
             "type": "vless",
             "server": "91.99.85.185",
             "server_port": 8443,

@@ -170,8 +170,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -186,7 +186,8 @@
     "configfa": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "configfa",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configfa.jpg"
@@ -225,7 +226,7 @@
         "types": [
             "vless",
             "ss",
-            "trojan"
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -449,8 +450,8 @@
     },
     "falcunargo": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "کانفیگ ایرانسل همراه اول کانفینگ اینستاگرام فیلترشکن سرور پروکسی رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/falcunargo.jpg"
@@ -488,9 +489,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
+            "tuic",
             "trojan",
-            "tuic"
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1595,8 +1596,8 @@
     },
     "netmellianti": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPN | V2rayNG | نت ملی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/netmellianti.jpg"
@@ -2304,8 +2305,8 @@
     "v2ray_free_conf": {
         "types": [
             "vless",
-            "trojan",
             "vmess",
+            "trojan",
             "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2741,8 +2742,8 @@
     },
     "vmess_ir": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmess_ir.jpg"
@@ -3026,8 +3027,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",

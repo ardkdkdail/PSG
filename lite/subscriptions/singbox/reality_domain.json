@@ -113,7 +113,6 @@
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
-                "🚩 CF | 🔒 VLESS | @mahan_ping [11]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "🇬🇧 GB | 🔒 VLESS | @outline_ir [16]",
@@ -173,7 +172,6 @@
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
-                "🚩 CF | 🔒 VLESS | @mahan_ping [11]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "🇬🇧 GB | 🔒 VLESS | @outline_ir [16]",
@@ -812,33 +810,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "Hossien"
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @mahan_ping [11]",
-            "type": "vless",
-            "server": "w1.wtezar.site",
-            "server_port": 24070,
-            "uuid": "7c2f01ca-65c1-489a-b1c7-107bb5cdaaeb",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk",
-                    "short_id": "93"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--"
             }
         },
         {
