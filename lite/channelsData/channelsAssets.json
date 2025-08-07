@@ -229,10 +229,9 @@
     },
     "configshubplus": {
         "types": [
-            "vless",
-            "ss",
             "vmess",
-            "trojan"
+            "vless",
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -509,7 +508,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan",
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -922,7 +923,6 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "trojan"
         ],
         "title": "🕊 Hope Net",
@@ -1532,9 +1532,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "ss",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2339,8 +2338,8 @@
     },
     "v2ray1_ng": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "V2RayNg &amp; Napsternet V",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray1_ng.jpg"
@@ -2371,8 +2370,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "vless",
             "trojan"
         ],
