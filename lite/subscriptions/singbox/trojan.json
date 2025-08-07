@@ -93,11 +93,10 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🚩 CF | 🔒 TROJAN | @appsooner [13]",
-                "🚩 CF | 🔓 TROJAN | @configshubplus [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
-                "🇺🇸 US | 🔓 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -128,11 +127,10 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🚩 CF | 🔒 TROJAN | @appsooner [13]",
-                "🚩 CF | 🔓 TROJAN | @configshubplus [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
-                "🇺🇸 US | 🔓 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [18]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -261,22 +259,6 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @configshubplus [18]",
-            "type": "trojan",
-            "server": "104.24.236.157",
-            "server_port": 443,
-            "password": "NISHIKUITAN111",
-            "tls": {
-                "enabled": true,
-                "server_name": "104.24.236.157",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
             "type": "trojan",
             "server": "3.78.38.140",
@@ -325,14 +307,14 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 TROJAN | @hope_net [18]",
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
-            "server": "159.246.55.202",
+            "server": "172.64.205.164",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "159.246.55.202",
+                "server_name": "172.64.205.164",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -343,12 +325,12 @@
         {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [19]",
             "type": "trojan",
-            "server": "198.41.201.193",
+            "server": "104.24.189.5",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "198.41.201.193",
+                "server_name": "104.24.189.5",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -359,12 +341,12 @@
         {
             "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
             "type": "trojan",
-            "server": "172.64.205.164",
+            "server": "172.67.234.222",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
                 "enabled": true,
-                "server_name": "172.64.205.164",
+                "server_name": "172.67.234.222",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

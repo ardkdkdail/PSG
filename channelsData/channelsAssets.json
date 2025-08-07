@@ -223,10 +223,8 @@
     },
     "configshubplus": {
         "types": [
-            "ss",
             "vless",
-            "vmess",
-            "trojan"
+            "ss"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -872,9 +870,9 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "vless",
-            "vmess"
+            "vmess",
+            "trojan"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -2320,9 +2318,9 @@
     "v2ray_free_conf": {
         "types": [
             "vmess",
-            "trojan",
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -3043,8 +3041,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerobaipiao.jpg"
