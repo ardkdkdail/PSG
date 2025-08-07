@@ -85,7 +85,10 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [41]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
+                "🇺🇸 US | 🔓 VLESS | @configshubplus [11]",
+                "❔ XX | 🔓 VLESS | @configshubplus [12]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [10]",
@@ -122,7 +125,7 @@
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🚩 CF | 🔓 VLESS | @kingofilter [2]",
-                "🇺🇸 US | 🔓 VLESS | @lranonline_new [10]",
+                "🇺🇸 US | 🔓 VLESS | @lranonline_new [9]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔒 VLESS | @netmellianti [4]",
                 "🇦🇲 AM | 🔒 VLESS | @orange_vpns [4]",
@@ -161,7 +164,10 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇩🇪 DE | 🔓 VLESS | @config_proxy [41]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
+                "🇺🇸 US | 🔓 VLESS | @configshubplus [11]",
+                "❔ XX | 🔓 VLESS | @configshubplus [12]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [10]",
@@ -198,7 +204,7 @@
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🚩 CF | 🔓 VLESS | @kingofilter [2]",
-                "🇺🇸 US | 🔓 VLESS | @lranonline_new [10]",
+                "🇺🇸 US | 🔓 VLESS | @lranonline_new [9]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔒 VLESS | @netmellianti [4]",
                 "🇦🇲 AM | 🔒 VLESS | @orange_vpns [4]",
@@ -371,6 +377,15 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [41]",
+            "type": "vless",
+            "server": "soren1.mahmouditravelers.top",
+            "server_port": 26779,
+            "uuid": "2f0f5525-5376-4820-a9b5-90064664a35d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
@@ -378,6 +393,33 @@
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @configshubplus [11]",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "d62494a5-4feb-4422-9547-1050a907afa8",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "❔ XX | 🔓 VLESS | @configshubplus [12]",
+            "type": "vless",
+            "server": "server510120227793510198.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server510120227793510198.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @configtrapi [15]",
@@ -810,7 +852,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @lranonline_new [10]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @lranonline_new [9]",
             "type": "vless",
             "server": "configline.fast.hosting-ip.com",
             "server_port": 80,

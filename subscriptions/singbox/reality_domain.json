@@ -110,7 +110,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @configfa [7]",
-                "🇫🇮 FI | 🔒 VLESS | @configshubplus [5]",
+                "❔ XX | 🔒 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [4]",
                 "❔ XX | 🔒 VLESS | @connectshu [1]",
@@ -154,7 +154,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
                 "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [18]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
-                "❔ XX | 🔒 VLESS | @mtpv2ray [2]",
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [7]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
@@ -265,7 +264,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @configfa [7]",
-                "🇫🇮 FI | 🔒 VLESS | @configshubplus [5]",
+                "❔ XX | 🔒 VLESS | @configshubplus [19]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [4]",
                 "❔ XX | 🔒 VLESS | @connectshu [1]",
@@ -309,7 +308,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [12]",
                 "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [18]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
-                "❔ XX | 🔒 VLESS | @mtpv2ray [2]",
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [7]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
@@ -928,16 +926,16 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @configshubplus [5]",
+            "tag": "❔ XX | 🔒 VLESS | @configshubplus [19]",
             "type": "vless",
-            "server": "zZz.ZzZ.zZz.yasharteam.com",
+            "server": "day.mtpmio.com",
             "server_port": 443,
-            "uuid": "167dd1d0-930c-4d19-a288-66c461f5f463",
+            "uuid": "20cf1bfb-c5ad-4a5f-85bf-ec14e89b1406",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "tgju.org",
+                "server_name": "duckduckgo.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -945,8 +943,8 @@
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8",
-                    "short_id": "e54b5ad736ae4c38"
+                    "public_key": "KrOQ6UIhM_AXIEJZ31FsIXRbtN7TtFBykqmnnFECkEM",
+                    "short_id": "1d72e9f5ba"
                 }
             }
         },
@@ -2023,29 +2021,6 @@
                     "enabled": true,
                     "public_key": "yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "❔ XX | 🔒 VLESS | @mtpv2ray [2]",
-            "type": "vless",
-            "server": "day.mtpmio.com",
-            "server_port": 443,
-            "uuid": "20cf1bfb-c5ad-4a5f-85bf-ec14e89b1406",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "duckduckgo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "KrOQ6UIhM_AXIEJZ31FsIXRbtN7TtFBykqmnnFECkEM",
-                    "short_id": "1d72e9f5ba"
                 }
             }
         },
