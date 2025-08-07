@@ -177,7 +177,7 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess"
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -230,8 +230,7 @@
     "configshubplus": {
         "types": [
             "vless",
-            "trojan",
-            "ss"
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -508,9 +507,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss",
             "trojan",
-            "tuic"
+            "tuic",
+            "ss"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -1813,8 +1812,8 @@
     },
     "outlinev2rayng": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "پروکسی تله کد | فیلترشکن رایگان V2ray - Outline",
@@ -2372,8 +2371,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
+            "vmess",
             "ss",
             "vless"
         ],

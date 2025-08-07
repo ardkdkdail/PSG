@@ -170,7 +170,7 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess"
+            "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -223,9 +223,7 @@
     "configshubplus": {
         "types": [
             "vless",
-            "vmess",
-            "trojan",
-            "ss"
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -487,9 +485,9 @@
     },
     "fastfreeconfig": {
         "types": [
-            "trojan",
-            "vless",
             "ss",
+            "vless",
+            "trojan",
             "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
@@ -1738,8 +1736,8 @@
     },
     "outlinev2rayng": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "vmess"
         ],
         "title": "پروکسی تله کد | فیلترشکن رایگان V2ray - Outline",
@@ -1954,14 +1952,6 @@
         ],
         "title": "پای نت",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/pusyvpn.jpg"
-    },
-    "pydriclub": {
-        "types": [
-            "vless",
-            "vmess"
-        ],
-        "title": "pydari_club",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/pydriclub.jpg"
     },
     "qeshmserver": {
         "types": [
@@ -2318,8 +2308,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
+            "vmess",
             "ss",
             "vless"
         ],
@@ -2547,8 +2537,8 @@
     },
     "v2rayopen": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "🛡️ اکانت های رایگان V2RAY",

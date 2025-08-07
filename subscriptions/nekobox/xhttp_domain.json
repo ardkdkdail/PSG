@@ -85,8 +85,8 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
-                "🇮🇹 IT | 🔓 VLESS | @config_proxy [20]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
+                "🇺🇸 US | 🔓 VLESS | @configshubplus [17]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [10]",
@@ -109,6 +109,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [28]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [16]",
+                "🇮🇹 IT | 🔓 VLESS | @fastfreeconfig [49]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [51]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -138,8 +141,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [124]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
-                "🇺🇸 US | 🔓 VLESS | @v2graphy [4]",
-                "🇺🇸 US | 🔓 VLESS | @v2ray_sub [4]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [5]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇺🇸 US | 🔓 VLESS | @v2ry_proxy [15]",
@@ -163,8 +164,8 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
-                "🇮🇹 IT | 🔓 VLESS | @config_proxy [20]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
+                "🇺🇸 US | 🔓 VLESS | @configshubplus [17]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [10]",
@@ -187,6 +188,9 @@
                 "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [28]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [16]",
+                "🇮🇹 IT | 🔓 VLESS | @fastfreeconfig [49]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [51]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -216,8 +220,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [124]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
-                "🇺🇸 US | 🔓 VLESS | @v2graphy [4]",
-                "🇺🇸 US | 🔓 VLESS | @v2ray_sub [4]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [5]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇺🇸 US | 🔓 VLESS | @v2ry_proxy [15]",
@@ -375,20 +377,20 @@
             }
         },
         {
-            "tag": "🇮🇹 IT | 🔓 VLESS | @config_proxy [20]",
-            "type": "vless",
-            "server": "filmnet.filimnet.com",
-            "server_port": 80,
-            "uuid": "46802fad-30cd-47e9-a196-5319c878dfd2",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
             "type": "vless",
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @configshubplus [17]",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -624,6 +626,33 @@
             "server": "speedtest.net",
             "server_port": 80,
             "uuid": "d6bfe23e-f7a8-4beb-971c-c68ddd8fdd8c",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇮🇹 IT | 🔓 VLESS | @fastfreeconfig [49]",
+            "type": "vless",
+            "server": "filmnet.filimnet.com",
+            "server_port": 80,
+            "uuid": "46802fad-30cd-47e9-a196-5319c878dfd2",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [51]",
+            "type": "vless",
+            "server": "ipfast.maketunnelim.lat",
+            "server_port": 80,
+            "uuid": "7e90fe5e-4a91-b59d-9227-c562f1285ca2",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "viop.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -1081,24 +1110,6 @@
                     "fingerprint": "chrome"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2graphy [4]",
-            "type": "vless",
-            "server": "ipfast.maketunnelim.lat",
-            "server_port": 80,
-            "uuid": "7e90fe5e-4a91-b59d-9227-c562f1285ca2",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2ray_sub [4]",
-            "type": "vless",
-            "server": "viop.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "bb57d265-b716-4092-bd0a-68f3988db63c",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @v2ray_sub [5]",
