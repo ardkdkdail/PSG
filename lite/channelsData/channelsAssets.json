@@ -177,8 +177,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess",
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -231,7 +231,8 @@
     "configshubplus": {
         "types": [
             "vless",
-            "vmess"
+            "ss",
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -507,8 +508,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan",
             "tuic"
         ],
@@ -1175,8 +1176,8 @@
     },
     "kafing_2": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "کافینگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/kafing_2.jpg"
@@ -1929,8 +1930,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
@@ -2372,8 +2373,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
             "trojan",
+            "vless",
             "vmess",
             "ss"
         ],
@@ -2480,8 +2481,8 @@
     },
     "v2rayfree": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "vmess"
         ],
         "title": "VPNs Proxy Mtproto",

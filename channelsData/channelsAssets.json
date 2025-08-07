@@ -223,10 +223,9 @@
     },
     "configshubplus": {
         "types": [
+            "vless",
             "ss",
-            "trojan",
-            "vmess",
-            "vless"
+            "trojan"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -488,8 +487,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan",
             "tuic"
         ],
@@ -1082,8 +1081,8 @@
     },
     "kafing_2": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "کافینگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/kafing_2.jpg"
