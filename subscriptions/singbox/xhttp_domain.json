@@ -98,7 +98,6 @@
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
-                "🇺🇸 US | 🔓 VLESS | @configshubplus [8]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [10]",
@@ -137,7 +136,7 @@
                 "🚩 CF | 🔓 VLESS | @kingofilter [4]",
                 "🚩 CF | 🔒 VLESS | @manzariyeh_rasht [13]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔒 VLESS | @netmellianti [6]",
+                "🚩 CF | 🔒 VLESS | @netmellianti [4]",
                 "🇦🇲 AM | 🔒 VLESS | @orange_vpns [6]",
                 "❔ XX | 🔓 VLESS | @proxy_v2box [3]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [11]",
@@ -175,7 +174,6 @@
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
-                "🇺🇸 US | 🔓 VLESS | @configshubplus [8]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [10]",
@@ -214,7 +212,7 @@
                 "🚩 CF | 🔓 VLESS | @kingofilter [4]",
                 "🚩 CF | 🔒 VLESS | @manzariyeh_rasht [13]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
-                "🚩 CF | 🔒 VLESS | @netmellianti [6]",
+                "🚩 CF | 🔒 VLESS | @netmellianti [4]",
                 "🇦🇲 AM | 🔒 VLESS | @orange_vpns [6]",
                 "❔ XX | 🔓 VLESS | @proxy_v2box [3]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [11]",
@@ -386,15 +384,6 @@
             "server": "2sudo.winapp3.ir",
             "server_port": 80,
             "uuid": "5b0e1347-1e9b-4b83-a27b-468e3dafb69b",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @configshubplus [8]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "4801c19d-37aa-4704-921e-9ee9bab80f1d",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -856,7 +845,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @netmellianti [6]",
+            "tag": "🚩 CF | 🔒 VLESS | @netmellianti [4]",
             "type": "vless",
             "server": "rde.datgame.info",
             "server_port": 2087,
