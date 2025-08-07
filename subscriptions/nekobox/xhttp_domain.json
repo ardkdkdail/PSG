@@ -85,6 +85,8 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [28]",
+                "❔ XX | 🔒 VLESS | @config_proxy [32]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -114,7 +116,6 @@
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @freakconfig [5]",
                 "🇩🇪 DE | 🔓 VLESS | @freakconfig [8]",
-                "🇩🇪 DE | 🔓 VLESS | @freakconfig [16]",
                 "❔ XX | 🔓 VLESS | @game_file2020 [2]",
                 "🇩🇪 DE | 🔒 VLESS | @game_file2020 [3]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
@@ -132,7 +133,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [1]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [3]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [11]",
-                "🇦🇲 AM | 🔒 VLESS | @proxystore11 [13]",
+                "❔ XX | 🔒 VLESS | @proxystore11 [13]",
                 "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [130]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
@@ -161,6 +162,8 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [28]",
+                "❔ XX | 🔒 VLESS | @config_proxy [32]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -190,7 +193,6 @@
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @freakconfig [5]",
                 "🇩🇪 DE | 🔓 VLESS | @freakconfig [8]",
-                "🇩🇪 DE | 🔓 VLESS | @freakconfig [16]",
                 "❔ XX | 🔓 VLESS | @game_file2020 [2]",
                 "🇩🇪 DE | 🔒 VLESS | @game_file2020 [3]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
@@ -208,7 +210,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [1]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [3]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [11]",
-                "🇦🇲 AM | 🔒 VLESS | @proxystore11 [13]",
+                "❔ XX | 🔒 VLESS | @proxystore11 [13]",
                 "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [130]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
@@ -367,6 +369,47 @@
                     "enabled": true,
                     "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
                     "short_id": "aeba"
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [28]",
+            "type": "vless",
+            "server": "server271816966957306554.tas-bazi.com",
+            "server_port": 443,
+            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "server271816966957306554.tas-bazi.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "❔ XX | 🔒 VLESS | @config_proxy [32]",
+            "type": "vless",
+            "server": "mrkrabsvpn.com",
+            "server_port": 11116,
+            "uuid": "450f2941-a102-4dca-b6a0-8392752b5566",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "J-DAr17AAZxRL9-7cCNnKuguNB_l4ZafHRfciGakESc",
+                    "short_id": "6a184f7d"
                 }
             }
         },
@@ -687,24 +730,6 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @freakconfig [16]",
-            "type": "vless",
-            "server": "server271816966957306554.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "527b6060-bf7c-41cc-a9bb-357bcda16a62",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server271816966957306554.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "❔ XX | 🔓 VLESS | @game_file2020 [2]",
             "type": "vless",
             "server": "VNodePro.Vgyop.com",
@@ -988,7 +1013,7 @@
             }
         },
         {
-            "tag": "🇦🇲 AM | 🔒 VLESS | @proxystore11 [13]",
+            "tag": "❔ XX | 🔒 VLESS | @proxystore11 [13]",
             "type": "vless",
             "server": "soren1.risktravelers.top",
             "server_port": 26779,

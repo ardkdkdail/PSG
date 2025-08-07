@@ -84,7 +84,8 @@
                 "🇮🇪 IE | 🔒 VLESS | @appsooner [8]",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [10]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [16]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [24]",
+                "🇸🇬 SG | 🔒 VLESS | @config_proxy [22]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [31]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -105,6 +106,7 @@
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [2]",
                 "🇩🇪 DE | 🔒 VLESS | @farahvpn [6]",
+                "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [54]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [6]",
                 "🇭🇰 HK | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇫🇮 FI | 🔒 VLESS | @flyv2ray [11]",
@@ -190,8 +192,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [5]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [6]",
-                "🇹🇷 TR | 🔒 VLESS | @proxy_mtproto_vpns_free [10]",
-                "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [15]",
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [16]",
                 "🇩🇪 DE | 🔒 VLESS | @proxyfn [6]",
                 "🇪🇪 EE | 🔒 VLESS | @proxyfn [9]",
@@ -215,7 +215,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
                 "🇩🇪 DE | 🔒 VLESS | @v2logy [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [14]",
+                "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇺🇸 US | 🔒 VLESS | @v2ray_sub [6]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [14]",
@@ -262,14 +262,13 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnod [7]",
-                "🇧🇪 BE | 🔒 VLESS | @vpnod [9]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnod [6]",
+                "🇧🇪 BE | 🔒 VLESS | @vpnod [8]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [15]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]",
                 "🇫🇮 FI | 🔒 VLESS | @x4azadi [12]",
-                "🇩🇪 DE | 🔒 VLESS | @x4azadi [15]",
-                "🇫🇷 FR | 🔒 VLESS | @xrayzxn [3]"
+                "🇩🇪 DE | 🔒 VLESS | @x4azadi [15]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -284,7 +283,8 @@
                 "🇮🇪 IE | 🔒 VLESS | @appsooner [8]",
                 "🇫🇮 FI | 🔒 VLESS | @appsooner [10]",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [16]",
-                "🇸🇬 SG | 🔒 VLESS | @config_proxy [24]",
+                "🇸🇬 SG | 🔒 VLESS | @config_proxy [22]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [31]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [1]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [2]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [3]",
@@ -305,6 +305,7 @@
                 "🇺🇦 UA | 🔒 VLESS | @dashv2ray [8]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [2]",
                 "🇩🇪 DE | 🔒 VLESS | @farahvpn [6]",
+                "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [54]",
                 "🇺🇸 US | 🔒 VLESS | @filtershekan_channel [6]",
                 "🇭🇰 HK | 🔒 VLESS | @fire_vpn_channel [2]",
                 "🇫🇮 FI | 🔒 VLESS | @flyv2ray [11]",
@@ -390,8 +391,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [4]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [5]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [6]",
-                "🇹🇷 TR | 🔒 VLESS | @proxy_mtproto_vpns_free [10]",
-                "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [15]",
                 "🇩🇪 DE | 🔒 VLESS | @proxycrone [16]",
                 "🇩🇪 DE | 🔒 VLESS | @proxyfn [6]",
                 "🇪🇪 EE | 🔒 VLESS | @proxyfn [9]",
@@ -415,7 +414,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [6]",
                 "🇳🇱 NL | 🔒 VLESS | @tehranfreevpn [7]",
                 "🇩🇪 DE | 🔒 VLESS | @v2logy [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [14]",
+                "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_inter [9]",
                 "🇺🇸 US | 🔒 VLESS | @v2ray_sub [6]",
                 "🇩🇪 DE | 🔒 VLESS | @v2ray_vmes [14]",
@@ -462,14 +461,13 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnod [7]",
-                "🇧🇪 BE | 🔒 VLESS | @vpnod [9]",
-                "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
-                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnod [6]",
+                "🇧🇪 BE | 🔒 VLESS | @vpnod [8]",
+                "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [11]",
+                "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [15]",
                 "🇳🇴 NO | 🔒 VLESS | @vpnv2rayonline [9]",
                 "🇫🇮 FI | 🔒 VLESS | @x4azadi [12]",
-                "🇩🇪 DE | 🔒 VLESS | @x4azadi [15]",
-                "🇫🇷 FR | 🔒 VLESS | @xrayzxn [3]"
+                "🇩🇪 DE | 🔒 VLESS | @x4azadi [15]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -656,7 +654,7 @@
             }
         },
         {
-            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [24]",
+            "tag": "🇸🇬 SG | 🔒 VLESS | @config_proxy [22]",
             "type": "vless",
             "server": "91.242.241.45",
             "server_port": 8443,
@@ -674,6 +672,29 @@
                 "reality": {
                     "enabled": true,
                     "public_key": "1-2fy8f8XeOHzmdFmCENHV1mr_tzJX1M9UXp42mUIiM",
+                    "short_id": ""
+                }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [31]",
+            "type": "vless",
+            "server": "95.164.68.37",
+            "server_port": 8443,
+            "uuid": "f36209f3-a967-46ed-9db6-f019e8b85cb4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "WuV0Uu4BXukDeBYQR2OtDgb_aKjs3u0tU-ENHSjtTmY",
                     "short_id": ""
                 }
             }
@@ -1175,6 +1196,29 @@
                     "enabled": true,
                     "public_key": "hP4TGbnaexWt-MKrFPd67DoFwSmr-o72GILwFvmZxiA",
                     "short_id": "d3c49afc00"
+                }
+            }
+        },
+        {
+            "tag": "🇫🇷 FR | 🔒 VLESS | @fastfreeconfig [54]",
+            "type": "vless",
+            "server": "146.70.158.111",
+            "server_port": 443,
+            "uuid": "00c6043f-a2c6-4b15-bd30-344378f0e5da",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "equal-eyes.org",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "dgepztJbOmZaaP3xQX6K3fozDsrTL7a60w1SjN4jBTw",
+                    "short_id": "e120bf2fd2d7453b"
                 }
             }
         },
@@ -3297,52 +3341,6 @@
             }
         },
         {
-            "tag": "🇹🇷 TR | 🔒 VLESS | @proxy_mtproto_vpns_free [10]",
-            "type": "vless",
-            "server": "45.12.143.191",
-            "server_port": 20329,
-            "uuid": "e105e56a-5f81-41a2-ab44-bfffc9b00674",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo",
-                    "short_id": "4602ee9f9f36"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @proxy_mtproto_vpns_free [15]",
-            "type": "vless",
-            "server": "136.243.79.227",
-            "server_port": 443,
-            "uuid": "d0a86835-954b-4c2d-9f35-584ce0e052be",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "hls-svod.itunes.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg",
-                    "short_id": "175d"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @proxycrone [16]",
             "type": "vless",
             "server": "91.99.221.5",
@@ -3904,7 +3902,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [14]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @v2ray_free_conf [11]",
             "type": "vless",
             "server": "91.99.97.62",
             "server_port": 51479,
@@ -5022,7 +5020,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnod [7]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnod [6]",
             "type": "vless",
             "server": "213.183.41.63",
             "server_port": 443,
@@ -5049,7 +5047,7 @@
             }
         },
         {
-            "tag": "🇧🇪 BE | 🔒 VLESS | @vpnod [9]",
+            "tag": "🇧🇪 BE | 🔒 VLESS | @vpnod [8]",
             "type": "vless",
             "server": "45.83.20.34",
             "server_port": 58164,
@@ -5072,30 +5070,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vpnplusee_free [8]",
-            "type": "vless",
-            "server": "91.99.221.5",
-            "server_port": 443,
-            "uuid": "8af733bd-c094-4e99-add3-95f380cda5e7",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "tgju.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg",
-                    "short_id": "b7859e878ab2fb"
-                }
-            }
-        },
-        {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [17]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @vpnplusee_free [11]",
             "type": "vless",
             "server": "45.80.229.254",
             "server_port": 58258,
@@ -5115,6 +5090,33 @@
                     "public_key": "t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk",
                     "short_id": "a3"
                 }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @vpnplusee_free [15]",
+            "type": "vless",
+            "server": "91.92.43.211",
+            "server_port": 8652,
+            "uuid": "b18f9f3f-77ee-49de-9d44-9b4483bb1445",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "openai.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "Xkw1KXtayEYaShaQLENJzZJmP3KQXpK7O5_Gn6qpIwM",
+                    "short_id": "f92634a26e23f291"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs-DailyConfigs?ed=2560"
             }
         },
         {
@@ -5183,29 +5185,6 @@
                     "enabled": true,
                     "public_key": "iN6Mxm-XgB9_nfgRHxdE3QX9XJpAY-EHv-EtvAIkYx4",
                     "short_id": "ea83a8b0"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 VLESS | @xrayzxn [3]",
-            "type": "vless",
-            "server": "146.70.158.111",
-            "server_port": 443,
-            "uuid": "00c6043f-a2c6-4b15-bd30-344378f0e5da",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "equal-eyes.org",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "dgepztJbOmZaaP3xQX6K3fozDsrTL7a60w1SjN4jBTw",
-                    "short_id": "e120bf2fd2d7453b"
                 }
             }
         }
