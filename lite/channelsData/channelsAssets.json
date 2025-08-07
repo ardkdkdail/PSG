@@ -231,9 +231,7 @@
     "configshubplus": {
         "types": [
             "vless",
-            "vmess",
-            "trojan",
-            "ss"
+            "vmess"
         ],
         "title": "𝘾𝙤𝙣𝙛𝙞𝙜𝙨𝙃𝙪𝙗🔮",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/configshubplus.jpg"
@@ -510,9 +508,9 @@
     "fastfreeconfig": {
         "types": [
             "vless",
+            "ss",
             "trojan",
-            "tuic",
-            "ss"
+            "tuic"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -925,7 +923,8 @@
     },
     "hope_net": {
         "types": [
-            "trojan"
+            "trojan",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -1535,7 +1534,8 @@
     "mowjproxy": {
         "types": [
             "vless",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -1813,8 +1813,8 @@
     },
     "outlinev2rayng": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "پروکسی تله کد | فیلترشکن رایگان V2ray - Outline",
@@ -1929,6 +1929,7 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
+            "ss",
             "vless",
             "vmess"
         ],
@@ -2371,10 +2372,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vless",
+            "trojan",
             "vmess",
-            "trojan"
+            "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2479,6 +2480,7 @@
     },
     "v2rayfree": {
         "types": [
+            "ss",
             "vless",
             "vmess"
         ],

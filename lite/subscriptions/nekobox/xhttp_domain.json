@@ -90,6 +90,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
@@ -98,6 +99,7 @@
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🚩 CF | 🔓 VLESS | @kingofilter [3]",
+                "🇺🇸 US | 🔓 VLESS | @lranonline_new [10]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -127,6 +129,7 @@
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [18]",
                 "🇺🇸 US | 🔓 VLESS | @evay_vpn [19]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
@@ -135,6 +138,7 @@
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
                 "🚩 CF | 🔓 VLESS | @kingofilter [3]",
+                "🇺🇸 US | 🔓 VLESS | @lranonline_new [10]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -338,6 +342,15 @@
             "packet_encoding": "xudp"
         },
         {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [58]",
+            "type": "vless",
+            "server": "mci.dl101movis.ir",
+            "server_port": 80,
+            "uuid": "f6232313-e4bc-4861-834d-85fd98ba642a",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔓 VLESS | @fastshovpn [3]",
             "type": "vless",
             "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
@@ -415,6 +428,15 @@
             "server": "llc.v2sub.ir",
             "server_port": 2082,
             "uuid": "000f1ace-a4d6-44ea-93b0-d5d384fc9cd7",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @lranonline_new [10]",
+            "type": "vless",
+            "server": "configline.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "TELEGRAM-CONFiGLiNE",
             "flow": "",
             "packet_encoding": "xudp"
         },
