@@ -94,7 +94,7 @@
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @bored_vpn [8]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [22]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [16]",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [10]",
                 "🇺🇸 US | 🔓 VLESS | @configms [2]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
@@ -167,7 +167,7 @@
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @bored_vpn [8]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [22]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [16]",
                 "🇩🇪 DE | 🔓 VLESS | @configfa [10]",
                 "🇺🇸 US | 🔓 VLESS | @configms [2]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
@@ -332,7 +332,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [22]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [16]",
             "type": "vless",
             "server": "87.120.205.76",
             "server_port": 1002,

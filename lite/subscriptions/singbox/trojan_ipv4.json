@@ -93,12 +93,13 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🚩 CF | 🔒 TROJAN | @appsooner [13]",
+                "🚩 CF | 🔓 TROJAN | @configshubplus [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
-                "🇳🇱 NL | 🔒 TROJAN | @fastfreeconfig [59]",
-                "🇧🇬 BG | 🔓 TROJAN | @hope_net [18]",
-                "🇺🇸 US | 🔓 TROJAN | @hope_net [20]",
+                "🇺🇸 US | 🔓 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]",
@@ -121,12 +122,13 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🚩 CF | 🔒 TROJAN | @appsooner [13]",
+                "🚩 CF | 🔓 TROJAN | @configshubplus [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
-                "🇳🇱 NL | 🔒 TROJAN | @fastfreeconfig [59]",
-                "🇧🇬 BG | 🔓 TROJAN | @hope_net [18]",
-                "🇺🇸 US | 🔓 TROJAN | @hope_net [20]",
+                "🇺🇸 US | 🔓 TROJAN | @hope_net [18]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🇸🇬 SG | 🔒 TROJAN | @mpmehi [1]",
@@ -247,6 +249,22 @@
             }
         },
         {
+            "tag": "🚩 CF | 🔓 TROJAN | @configshubplus [18]",
+            "type": "trojan",
+            "server": "104.24.236.157",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "104.24.236.157",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
             "type": "trojan",
             "server": "3.78.38.140",
@@ -295,46 +313,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 TROJAN | @fastfreeconfig [59]",
-            "type": "trojan",
-            "server": "185.176.24.2",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "/tr9vfP2lflALkJrNsQ?ed=2560",
-                "headers": {
-                    "Host": "403B3611-99bc-43B7-88d7-26ed5d0825a9-3.PaGes.deV"
-                }
-            }
-        },
-        {
-            "tag": "🇧🇬 BG | 🔓 TROJAN | @hope_net [18]",
-            "type": "trojan",
-            "server": "89.117.112.181",
-            "server_port": 443,
-            "password": "bpb-trojan",
-            "tls": {
-                "enabled": true,
-                "server_name": "bpb.my79801.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 TROJAN | @hope_net [20]",
+            "tag": "🇺🇸 US | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
             "server": "159.246.55.202",
             "server_port": 443,
@@ -342,6 +321,38 @@
             "tls": {
                 "enabled": true,
                 "server_name": "159.246.55.202",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [19]",
+            "type": "trojan",
+            "server": "198.41.201.193",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "198.41.201.193",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [20]",
+            "type": "trojan",
+            "server": "172.64.205.164",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.64.205.164",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
