@@ -96,7 +96,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [46]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [36]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @configfa [7]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
@@ -201,7 +201,7 @@
                 "❔ XX | 🔒 VLESS | @v2rayza [10]",
                 "❔ XX | 🔒 VLESS | @v2rayza [14]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
-                "🇮🇪 IE | 🔒 VLESS | @v2trayproxy [12]",
+                "🇺🇸 US | 🔒 VLESS | @v2trayproxy [12]",
                 "❔ XX | 🔒 VLESS | @vp22ray [1]",
                 "❔ XX | 🔒 VLESS | @vp22ray [2]",
                 "❔ XX | 🔒 VLESS | @vp22ray [3]",
@@ -251,7 +251,7 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [46]",
+                "🇩🇪 DE | 🔒 VLESS | @config_proxy [36]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @configfa [7]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
@@ -356,7 +356,7 @@
                 "❔ XX | 🔒 VLESS | @v2rayza [10]",
                 "❔ XX | 🔒 VLESS | @v2rayza [14]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
-                "🇮🇪 IE | 🔒 VLESS | @v2trayproxy [12]",
+                "🇺🇸 US | 🔒 VLESS | @v2trayproxy [12]",
                 "❔ XX | 🔒 VLESS | @vp22ray [1]",
                 "❔ XX | 🔒 VLESS | @vp22ray [2]",
                 "❔ XX | 🔒 VLESS | @vp22ray [3]",
@@ -870,26 +870,30 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [46]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [36]",
             "type": "vless",
-            "server": "graygoat.fonixapp.org",
-            "server_port": 45846,
-            "uuid": "534c8834-d096-462c-8c16-37571a798ef3",
+            "server": "server1.fergalvpnmod.com",
+            "server_port": 28338,
+            "uuid": "0b9ee474-19f6-4d7f-9281-96f239e6cebc",
             "flow": "xtls-rprx-vision",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "stackoverflow.com",
+                "server_name": "cloudflare.com",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
-                    "fingerprint": "chrome"
+                    "fingerprint": "randomized"
                 },
                 "reality": {
                     "enabled": true,
-                    "public_key": "17q39_glGtdUgFWkKwjxnBG0PxYkJbgt9bfkotaj7yg",
-                    "short_id": "ac"
+                    "public_key": "MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw",
+                    "short_id": "9ecc4615ce"
                 }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram:@FergalVpnMod"
             }
         },
         {
@@ -3408,7 +3412,7 @@
             }
         },
         {
-            "tag": "🇮🇪 IE | 🔒 VLESS | @v2trayproxy [12]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @v2trayproxy [12]",
             "type": "vless",
             "server": "amazon-17.cristiano.name.ng",
             "server_port": 443,
