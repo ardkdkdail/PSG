@@ -118,7 +118,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔓 VLESS | @netmellianti [10]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [13]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🚩 CF | 🔒 VLESS | @proxie [4]",
                 "🚩 CF | 🔒 VLESS | @proxie [6]",
@@ -188,7 +188,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔓 VLESS | @netmellianti [10]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [13]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🚩 CF | 🔒 VLESS | @proxie [4]",
                 "🚩 CF | 🔒 VLESS | @proxie [6]",
@@ -639,7 +639,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [13]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [12]",
             "type": "vless",
             "server": "91.99.85.185",
             "server_port": 8443,
