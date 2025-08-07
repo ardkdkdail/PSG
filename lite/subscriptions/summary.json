@@ -1,65 +1,65 @@
 {
     "meta": {
-        "last_updated": "2025-08-07T21:20:31+00:00"
+        "last_updated": "2025-08-07T22:22:41+00:00"
     },
     "sources": {
         "total_from_assets": 404,
-        "had_configs_extracted": 404,
-        "had_valid_configs": 404,
-        "removed_in_cleanup": 0
+        "had_configs_extracted": 403,
+        "had_valid_configs": 403,
+        "removed_in_cleanup": 1
     },
     "configs": {
-        "total_valid": 1019,
+        "total_valid": 1015,
         "breakdown_by_protocol": {
-            "vless": 765,
-            "ss": 112,
-            "trojan": 23,
-            "vmess": 117,
+            "vless": 760,
+            "ss": 111,
+            "trojan": 22,
+            "vmess": 120,
             "tuic": 2
         }
     },
     "outputs": {
         "location_files_created": 40,
         "country_distribution": {
-            "CF": 294,
+            "CF": 295,
             "XX": 186,
-            "DE": 134,
-            "IR": 88,
+            "DE": 130,
+            "IR": 86,
             "US": 86,
-            "NL": 42,
-            "FR": 33,
-            "FI": 25,
+            "NL": 43,
+            "FR": 34,
+            "FI": 24,
             "GB": 22,
             "SE": 19,
-            "RU": 12,
+            "RU": 11,
             "TR": 8,
             "SG": 8,
+            "PL": 7,
             "AT": 7,
-            "CA": 7,
-            "PL": 6,
+            "HK": 6,
+            "CA": 6,
             "IN": 5,
-            "HK": 4,
             "TW": 3,
             "JP": 3,
             "AE": 3,
             "AM": 2,
             "CH": 2,
-            "AU": 2,
             "CN": 2,
             "IT": 2,
             "ES": 1,
+            "BR": 1,
             "UA": 1,
             "CZ": 1,
             "PT": 1,
             "LV": 1,
-            "EE": 1,
+            "AU": 1,
             "CW": 1,
             "KR": 1,
             "DO": 1,
             "LT": 1,
-            "VN": 1,
             "HU": 1,
             "LU": 1,
+            "IE": 1,
             "NO": 1
         }
     }
