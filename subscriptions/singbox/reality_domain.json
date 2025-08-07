@@ -110,7 +110,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [15]",
-                "🇺🇸 US | 🔒 VLESS | @configshubplus [16]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [5]",
                 "❔ XX | 🔒 VLESS | @connectshu [1]",
@@ -120,6 +119,7 @@
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [28]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [53]",
                 "❔ XX | 🔒 VLESS | @filterk0sh [7]",
                 "❔ XX | 🔒 VLESS | @filterk0sh [8]",
                 "🇺🇸 US | 🔒 VLESS | @flyv2ray [1]",
@@ -142,7 +142,6 @@
                 "🇺🇸 US | 🔒 VLESS | @iranbaxvpn [5]",
                 "🇺🇸 US | 🔒 VLESS | @iranbaxvpn [6]",
                 "🇩🇪 DE | 🔒 VLESS | @iranbaxvpn [7]",
-                "🇩🇪 DE | 🔒 VLESS | @iranbaxvpn [8]",
                 "❔ XX | 🔒 VLESS | @itv2ray [26]",
                 "❔ XX | 🔒 VLESS | @itv2ray [27]",
                 "❔ XX | 🔒 VLESS | @itv2ray [29]",
@@ -214,6 +213,7 @@
                 "❔ XX | 🔒 VLESS | @v2rayza [10]",
                 "❔ XX | 🔒 VLESS | @v2rayza [14]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
+                "🇺🇸 US | 🔒 VLESS | @v2trayproxy [13]",
                 "❔ XX | 🔒 VLESS | @vp22ray [1]",
                 "❔ XX | 🔒 VLESS | @vp22ray [2]",
                 "❔ XX | 🔒 VLESS | @vp22ray [3]",
@@ -265,7 +265,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [15]",
-                "🇺🇸 US | 🔒 VLESS | @configshubplus [16]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
                 "🇩🇪 DE | 🔒 VLESS | @confing_chanel [5]",
                 "❔ XX | 🔒 VLESS | @connectshu [1]",
@@ -275,6 +274,7 @@
                 "❔ XX | 🔒 VLESS | @custom_14 [8]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
                 "🇩🇪 DE | 🔒 VLESS | @expressvpn_420 [28]",
+                "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [53]",
                 "❔ XX | 🔒 VLESS | @filterk0sh [7]",
                 "❔ XX | 🔒 VLESS | @filterk0sh [8]",
                 "🇺🇸 US | 🔒 VLESS | @flyv2ray [1]",
@@ -297,7 +297,6 @@
                 "🇺🇸 US | 🔒 VLESS | @iranbaxvpn [5]",
                 "🇺🇸 US | 🔒 VLESS | @iranbaxvpn [6]",
                 "🇩🇪 DE | 🔒 VLESS | @iranbaxvpn [7]",
-                "🇩🇪 DE | 🔒 VLESS | @iranbaxvpn [8]",
                 "❔ XX | 🔒 VLESS | @itv2ray [26]",
                 "❔ XX | 🔒 VLESS | @itv2ray [27]",
                 "❔ XX | 🔒 VLESS | @itv2ray [29]",
@@ -369,6 +368,7 @@
                 "❔ XX | 🔒 VLESS | @v2rayza [10]",
                 "❔ XX | 🔒 VLESS | @v2rayza [14]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
+                "🇺🇸 US | 🔒 VLESS | @v2trayproxy [13]",
                 "❔ XX | 🔒 VLESS | @vp22ray [1]",
                 "❔ XX | 🔒 VLESS | @vp22ray [2]",
                 "❔ XX | 🔒 VLESS | @vp22ray [3]",
@@ -928,29 +928,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @configshubplus [16]",
-            "type": "vless",
-            "server": "amazon-17.cristiano.name.ng",
-            "server_port": 443,
-            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "store.steampowered.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
-                    "short_id": "f5"
-                }
-            }
-        },
-        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
             "type": "vless",
             "server": "all32-vip.f-sub.com",
@@ -1175,6 +1152,33 @@
                     "public_key": "I_6r2_l9eY9wBf3OIV7V-HcNJ4LuwxKM99gXUZaYAzI",
                     "short_id": "2cc45a0088671249"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @fastfreeconfig [53]",
+            "type": "vless",
+            "server": "iranbaxvpn.v2rayn.com",
+            "server_port": 443,
+            "uuid": "5eb40b31-6d9b-461d-81c2-53909a01df5b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "iranbax.spacex.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U",
+                    "short_id": "9ff0c049e20b"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn"
             }
         },
         {
@@ -1725,33 +1729,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn"
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @iranbaxvpn [8]",
-            "type": "vless",
-            "server": "iranbaxvpn.v2rayn.com",
-            "server_port": 443,
-            "uuid": "5eb40b31-6d9b-461d-81c2-53909a01df5b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "iranbax.spacex.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "skowtu_zROaa0Y7h0Gss2-4mPXvEAngSPxQVukyWO1U",
-                    "short_id": "9ff0c049e20b"
-                }
-            },
-            "transport": {
-                "type": "grpc",
-                "service_name": "@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn"
             }
         },
         {
@@ -3435,6 +3412,29 @@
                     "enabled": true,
                     "public_key": "COh8PaOebru8HlshEfNEN3_6pXREyUPQvyLWfX0zT3Y",
                     "short_id": "5e"
+                }
+            }
+        },
+        {
+            "tag": "🇺🇸 US | 🔒 VLESS | @v2trayproxy [13]",
+            "type": "vless",
+            "server": "amazon-17.cristiano.name.ng",
+            "server_port": 443,
+            "uuid": "4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "store.steampowered.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4",
+                    "short_id": "f5"
                 }
             }
         },

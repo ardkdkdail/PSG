@@ -93,7 +93,9 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [15]",
+                "🇮🇱 IL | 🔒 VLESS | @config_proxy [37]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
+                "🇩🇪 DE | 🔒 VLESS | @configshubplus [18]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -115,7 +117,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
-                "🇩🇪 DE | 🔒 VLESS | @kingofilter [6]",
+                "🇩🇪 DE | 🔒 VLESS | @kingofilter [5]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mahan_ping [12]",
                 "🇩🇪 DE | 🔒 VLESS | @mahan_ping [13]",
@@ -123,7 +125,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇩🇪 DE | 🔒 VLESS | @mowjproxy [5]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [12]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [3]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [9]",
@@ -165,7 +166,9 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇩🇪 DE | 🔒 VLESS | @bored_vpn [15]",
+                "🇮🇱 IL | 🔒 VLESS | @config_proxy [37]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
+                "🇩🇪 DE | 🔒 VLESS | @configshubplus [18]",
                 "🇫🇮 FI | 🔒 VLESS | @confing_chanel [7]",
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇫🇷 FR | 🔒 VLESS | @darkfiilter [1]",
@@ -187,7 +190,7 @@
                 "🇬🇧 GB | 🔒 VLESS | @jokerv2ray [16]",
                 "🇩🇪 DE | 🔒 VLESS | @jokerv2ray [17]",
                 "🇩🇪 DE | 🔒 VLESS | @kesslervpn [1]",
-                "🇩🇪 DE | 🔒 VLESS | @kingofilter [6]",
+                "🇩🇪 DE | 🔒 VLESS | @kingofilter [5]",
                 "🇩🇴 DO | 🔒 VLESS | @kkkkkoabvbbvbvv [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mahan_ping [12]",
                 "🇩🇪 DE | 🔒 VLESS | @mahan_ping [13]",
@@ -195,7 +198,6 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
-                "🇩🇪 DE | 🔒 VLESS | @mowjproxy [5]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [12]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [3]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [9]",
@@ -339,6 +341,29 @@
             }
         },
         {
+            "tag": "🇮🇱 IL | 🔒 VLESS | @config_proxy [37]",
+            "type": "vless",
+            "server": "185.239.48.109",
+            "server_port": 8443,
+            "uuid": "58f2927f-c8d3-45a2-8eae-4e741f0c234e",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "google.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "wPXyRAB1bVkaTGgO5cHEylVAV8SscUQUPn_ggzx6Vxk",
+                    "short_id": ""
+                }
+            }
+        },
+        {
             "tag": "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
             "type": "vless",
             "server": "172.232.33.18",
@@ -359,6 +384,33 @@
                     "public_key": "PTlW40u-tHGDlObhSKFN4tntrfHLgNPlHqg1oYqyY1o",
                     "short_id": "b5ecd44d"
                 }
+            }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔒 VLESS | @configshubplus [18]",
+            "type": "vless",
+            "server": "91.107.243.238",
+            "server_port": 2025,
+            "uuid": "3f042483-c71c-40cc-a4b7-d79f80db4253",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.cloudflare.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw",
+                    "short_id": "8d9c20be72b4"
+                }
+            },
+            "transport": {
+                "type": "grpc",
+                "service_name": "Telegram : @PouRia_Cheat"
             }
         },
         {
@@ -873,7 +925,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @kingofilter [6]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @kingofilter [5]",
             "type": "vless",
             "server": "91.99.216.9",
             "server_port": 8443,
@@ -1065,29 +1117,6 @@
                     "enabled": true,
                     "public_key": "W0BYEeLEqNRk8Bn2G27x5G9ALICJxePV6hxZG2A4Jmg",
                     "short_id": ""
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @mowjproxy [5]",
-            "type": "vless",
-            "server": "109.61.16.89",
-            "server_port": 30938,
-            "uuid": "1068814a-6d43-40d9-a127-0f6b6b77ccfc",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "indeed.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "random"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE",
-                    "short_id": "9f2b1f07"
                 }
             }
         },
