@@ -84,10 +84,10 @@
                 "🇺🇸 US | 🔒 SS | @canfing_vpn [6]",
                 "🇸🇪 SE | 🔒 SS | @dalton_ping [9]",
                 "❔ XX | 🔒 SS | @darkma3ter24 [1]",
+                "🇩🇪 DE | 🔒 SS | @fastfreeconfig [56]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [2]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [3]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
-                "🇩🇪 DE | 🔒 SS | @freakconfig [8]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [17]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
@@ -101,7 +101,7 @@
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [14]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
                 "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
-                "🇺🇸 US | 🔒 SS | @outline_vpn [11]",
+                "🇺🇸 US | 🔒 SS | @outline_vpn [10]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇩🇪 DE | 🔒 SS | @prrofile_purple [124]",
                 "❔ XX | 🔒 SS | @public504 [8]",
@@ -138,10 +138,10 @@
                 "🇺🇸 US | 🔒 SS | @canfing_vpn [6]",
                 "🇸🇪 SE | 🔒 SS | @dalton_ping [9]",
                 "❔ XX | 🔒 SS | @darkma3ter24 [1]",
+                "🇩🇪 DE | 🔒 SS | @fastfreeconfig [56]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [2]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [3]",
                 "🇺🇸 US | 🔒 SS | @filtershekan_channel [5]",
-                "🇩🇪 DE | 🔒 SS | @freakconfig [8]",
                 "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [17]",
                 "🇺🇸 US | 🔒 SS | @freeconfigsplus [19]",
@@ -155,7 +155,7 @@
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [14]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
                 "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
-                "🇺🇸 US | 🔒 SS | @outline_vpn [11]",
+                "🇺🇸 US | 🔒 SS | @outline_vpn [10]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇩🇪 DE | 🔒 SS | @prrofile_purple [124]",
                 "❔ XX | 🔒 SS | @public504 [8]",
@@ -300,6 +300,14 @@
             "password": "a8bt9fY0QsLS6eLnXUe0Ym"
         },
         {
+            "tag": "🇩🇪 DE | 🔒 SS | @fastfreeconfig [56]",
+            "type": "shadowsocks",
+            "server": "h110vpnde2.outlinekeys.net",
+            "server_port": 53122,
+            "method": "chacha20-ietf-poly1305",
+            "password": "rWKE1UyQidbLmYCLvFNawV"
+        },
+        {
             "tag": "🇺🇸 US | 🔒 SS | @fastkanfig [2]",
             "type": "shadowsocks",
             "server": "join.vpncustomize.vpncustomize.reziazaran.ir",
@@ -322,14 +330,6 @@
             "server_port": 443,
             "method": "chacha20-ietf-poly1305",
             "password": "69MUii7VDwMqh7Hz"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 SS | @freakconfig [8]",
-            "type": "shadowsocks",
-            "server": "h110vpnde2.outlinekeys.net",
-            "server_port": 53122,
-            "method": "chacha20-ietf-poly1305",
-            "password": "rWKE1UyQidbLmYCLvFNawV"
         },
         {
             "tag": "🇨🇦 CA | 🔒 SS | @free4allvpn [4]",
@@ -436,7 +436,7 @@
             "password": "WstuSnlu4ieA9M0L"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outline_vpn [11]",
+            "tag": "🇺🇸 US | 🔒 SS | @outline_vpn [10]",
             "type": "shadowsocks",
             "server": "series-a2-me.varzesh360.co",
             "server_port": 443,

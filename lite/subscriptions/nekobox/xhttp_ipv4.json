@@ -84,7 +84,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
+                "🇩🇪 DE | 🔓 VLESS | @lexernet [10]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -114,7 +114,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
+                "🇩🇪 DE | 🔓 VLESS | @lexernet [10]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -312,7 +312,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @lexernet [10]",
             "type": "vless",
             "server": "91.99.219.15",
             "server_port": 443,

@@ -163,8 +163,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess",
-            "ss"
+            "ss",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -475,8 +475,8 @@
         "types": [
             "vless",
             "ss",
-            "trojan",
-            "tuic"
+            "tuic",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -851,9 +851,9 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "trojan",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -2276,8 +2276,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "vless",
             "trojan"
         ],
@@ -2989,9 +2989,9 @@
     },
     "zerobaipiao": {
         "types": [
+            "vmess",
             "vless",
-            "ss",
-            "vmess"
+            "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/zerobaipiao.jpg"

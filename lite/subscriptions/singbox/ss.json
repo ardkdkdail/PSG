@@ -119,7 +119,7 @@
                 "🇳🇱 NL | 🔒 SS | @father_vpn [4]",
                 "🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]",
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
-                "🇸🇬 SG | 🔒 SS | @freakconfig [16]",
+                "🇸🇬 SG | 🔒 SS | @freakconfig [15]",
                 "🇸🇬 SG | 🔒 SS | @free1_vpn [5]",
                 "🇳🇱 NL | 🔒 SS | @free1ss [17]",
                 "🇳🇱 NL | 🔒 SS | @free1ss [18]",
@@ -143,9 +143,9 @@
                 "🇬🇧 GB | 🔒 SS | @mr_vpn123 [6]",
                 "🇺🇸 US | 🔒 SS | @netfreedom0 [19]",
                 "🇬🇧 GB | 🔒 SS | @novinology [17]",
-                "🇩🇪 DE | 🔒 SS | @outlineopenkey [4]",
-                "🇬🇧 GB | 🔒 SS | @outlineopenkey [5]",
-                "🇵🇱 PL | 🔒 SS | @outlineopenkey [6]",
+                "🇩🇪 DE | 🔒 SS | @outlineopenkey [3]",
+                "🇬🇧 GB | 🔒 SS | @outlineopenkey [4]",
+                "🇵🇱 PL | 🔒 SS | @outlineopenkey [5]",
                 "🇵🇱 PL | 🔒 SS | @outlinereleasedkey [18]",
                 "🇸🇬 SG | 🔒 SS | @outlinereleasedkey [19]",
                 "🇳🇱 NL | 🔒 SS | @outlinereleasedkey [20]",
@@ -202,7 +202,7 @@
                 "🇳🇱 NL | 🔒 SS | @father_vpn [4]",
                 "🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]",
                 "🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]",
-                "🇸🇬 SG | 🔒 SS | @freakconfig [16]",
+                "🇸🇬 SG | 🔒 SS | @freakconfig [15]",
                 "🇸🇬 SG | 🔒 SS | @free1_vpn [5]",
                 "🇳🇱 NL | 🔒 SS | @free1ss [17]",
                 "🇳🇱 NL | 🔒 SS | @free1ss [18]",
@@ -226,9 +226,9 @@
                 "🇬🇧 GB | 🔒 SS | @mr_vpn123 [6]",
                 "🇺🇸 US | 🔒 SS | @netfreedom0 [19]",
                 "🇬🇧 GB | 🔒 SS | @novinology [17]",
-                "🇩🇪 DE | 🔒 SS | @outlineopenkey [4]",
-                "🇬🇧 GB | 🔒 SS | @outlineopenkey [5]",
-                "🇵🇱 PL | 🔒 SS | @outlineopenkey [6]",
+                "🇩🇪 DE | 🔒 SS | @outlineopenkey [3]",
+                "🇬🇧 GB | 🔒 SS | @outlineopenkey [4]",
+                "🇵🇱 PL | 🔒 SS | @outlineopenkey [5]",
                 "🇵🇱 PL | 🔒 SS | @outlinereleasedkey [18]",
                 "🇸🇬 SG | 🔒 SS | @outlinereleasedkey [19]",
                 "🇳🇱 NL | 🔒 SS | @outlinereleasedkey [20]",
@@ -550,7 +550,7 @@
             "password": "f8f7aCzcPKbsF8p3"
         },
         {
-            "tag": "🇸🇬 SG | 🔒 SS | @freakconfig [16]",
+            "tag": "🇸🇬 SG | 🔒 SS | @freakconfig [15]",
             "type": "shadowsocks",
             "server": "68.183.226.95",
             "server_port": 52042,
@@ -742,7 +742,7 @@
             "password": "Q1qlRknoN9PwGeExWVyTKg"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 SS | @outlineopenkey [4]",
+            "tag": "🇩🇪 DE | 🔒 SS | @outlineopenkey [3]",
             "type": "shadowsocks",
             "server": "81.19.141.45",
             "server_port": 443,
@@ -750,7 +750,7 @@
             "password": "UXqw1jBIYR8nLJr6Gw3MoU"
         },
         {
-            "tag": "🇬🇧 GB | 🔒 SS | @outlineopenkey [5]",
+            "tag": "🇬🇧 GB | 🔒 SS | @outlineopenkey [4]",
             "type": "shadowsocks",
             "server": "89.185.84.185",
             "server_port": 443,
@@ -758,7 +758,7 @@
             "password": "kRJAfuTKk2bOROXpB4Y8uI"
         },
         {
-            "tag": "🇵🇱 PL | 🔒 SS | @outlineopenkey [6]",
+            "tag": "🇵🇱 PL | 🔒 SS | @outlineopenkey [5]",
             "type": "shadowsocks",
             "server": "77.83.246.74",
             "server_port": 443,

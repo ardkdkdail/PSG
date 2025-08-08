@@ -84,7 +84,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
+                "🇩🇪 DE | 🔓 VLESS | @lexernet [10]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -112,7 +112,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [33]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
-                "❔ XX | 🔓 VLESS | @freakconfig [15]",
+                "❔ XX | 🔓 VLESS | @freakconfig [14]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [26]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
@@ -137,7 +137,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
-                "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
+                "🇩🇪 DE | 🔓 VLESS | @lexernet [10]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -165,7 +165,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [33]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
-                "❔ XX | 🔓 VLESS | @freakconfig [15]",
+                "❔ XX | 🔓 VLESS | @freakconfig [14]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [26]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
@@ -358,7 +358,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @lexernet [10]",
             "type": "vless",
             "server": "91.99.219.15",
             "server_port": 443,
@@ -763,7 +763,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @freakconfig [15]",
+            "tag": "❔ XX | 🔓 VLESS | @freakconfig [14]",
             "type": "vless",
             "server": "server271816966957306554.tas-bazi.com",
             "server_port": 443,
