@@ -99,10 +99,11 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇮🇩 ID | 🔓 TROJAN | @hope_net [9]",
-                "🇨🇾 CY | 🔓 TROJAN | @hope_net [14]",
-                "🇭🇺 HU | 🔓 TROJAN | @hope_net [16]",
-                "🇳🇱 NL | 🔓 TROJAN | @hope_net [17]",
+                "🇮🇩 ID | 🔓 TROJAN | @hope_net [7]",
+                "🇨🇾 CY | 🔓 TROJAN | @hope_net [12]",
+                "🇭🇺 HU | 🔓 TROJAN | @hope_net [14]",
+                "🇳🇱 NL | 🔓 TROJAN | @hope_net [15]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -180,7 +181,7 @@
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [2]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
-                "🇮🇹 IT | 🔓 TROJAN | @tgvpn6 [9]",
+                "❔ XX | 🔓 TROJAN | @tgvpn6 [9]",
                 "❔ XX | 🔓 TROJAN | @tgvpn6 [10]",
                 "🇭🇰 HK | 🔓 TROJAN | @tgvpn6 [13]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
@@ -224,10 +225,11 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [14]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇮🇩 ID | 🔓 TROJAN | @hope_net [9]",
-                "🇨🇾 CY | 🔓 TROJAN | @hope_net [14]",
-                "🇭🇺 HU | 🔓 TROJAN | @hope_net [16]",
-                "🇳🇱 NL | 🔓 TROJAN | @hope_net [17]",
+                "🇮🇩 ID | 🔓 TROJAN | @hope_net [7]",
+                "🇨🇾 CY | 🔓 TROJAN | @hope_net [12]",
+                "🇭🇺 HU | 🔓 TROJAN | @hope_net [14]",
+                "🇳🇱 NL | 🔓 TROJAN | @hope_net [15]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [19]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -305,7 +307,7 @@
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [2]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
-                "🇮🇹 IT | 🔓 TROJAN | @tgvpn6 [9]",
+                "❔ XX | 🔓 TROJAN | @tgvpn6 [9]",
                 "❔ XX | 🔓 TROJAN | @tgvpn6 [10]",
                 "🇭🇰 HK | 🔓 TROJAN | @tgvpn6 [13]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
@@ -712,7 +714,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇮🇩 ID | 🔓 TROJAN | @hope_net [9]",
+            "tag": "🇮🇩 ID | 🔓 TROJAN | @hope_net [7]",
             "type": "trojan",
             "server": "46.254.92.112",
             "server_port": 443,
@@ -735,7 +737,7 @@
             }
         },
         {
-            "tag": "🇨🇾 CY | 🔓 TROJAN | @hope_net [14]",
+            "tag": "🇨🇾 CY | 🔓 TROJAN | @hope_net [12]",
             "type": "trojan",
             "server": "77.75.199.86",
             "server_port": 443,
@@ -758,7 +760,7 @@
             }
         },
         {
-            "tag": "🇭🇺 HU | 🔓 TROJAN | @hope_net [16]",
+            "tag": "🇭🇺 HU | 🔓 TROJAN | @hope_net [14]",
             "type": "trojan",
             "server": "141.11.203.203",
             "server_port": 443,
@@ -781,7 +783,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔓 TROJAN | @hope_net [17]",
+            "tag": "🇳🇱 NL | 🔓 TROJAN | @hope_net [15]",
             "type": "trojan",
             "server": "45.131.208.126",
             "server_port": 443,
@@ -800,6 +802,22 @@
                 "path": "/",
                 "headers": {
                     "Host": "za.ylks.xyz"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [19]",
+            "type": "trojan",
+            "server": "141.101.121.30",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "141.101.121.30",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -2146,7 +2164,7 @@
             }
         },
         {
-            "tag": "🇮🇹 IT | 🔓 TROJAN | @tgvpn6 [9]",
+            "tag": "❔ XX | 🔓 TROJAN | @tgvpn6 [9]",
             "type": "trojan",
             "server": "oss-cn-shanghai.westdatacloud.top",
             "server_port": 20048,
