@@ -90,7 +90,6 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [2]",
-                "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
@@ -108,7 +107,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🚩 CF | 🔒 VLESS | @proxie [3]",
-                "🚩 CF | 🔒 VLESS | @proxie [4]",
+                "🚩 CF | 🔒 VLESS | @proxie [5]",
                 "🇬🇧 GB | 🔒 VLESS | @proxygodratmand [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇩🇪 DE | 🔓 VLESS | @prrofile_purple [131]",
@@ -159,7 +158,6 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [2]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [2]",
-                "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
@@ -177,7 +175,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🚩 CF | 🔒 VLESS | @proxie [3]",
-                "🚩 CF | 🔒 VLESS | @proxie [4]",
+                "🚩 CF | 🔒 VLESS | @proxie [5]",
                 "🇬🇧 GB | 🔒 VLESS | @proxygodratmand [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇩🇪 DE | 🔓 VLESS | @prrofile_purple [131]",
@@ -430,24 +428,6 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @fastfreeconfig [57]",
-            "type": "vless",
-            "server": "104.21.62.144",
-            "server_port": 443,
-            "uuid": "36711ced-f518-4187-9507-de8eb35c7afa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sauron2.melkore.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
             "tag": "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
             "type": "vless",
             "server": "151.101.67.8",
@@ -651,7 +631,7 @@
             "type": "vless",
             "server": "104.21.62.144",
             "server_port": 443,
-            "uuid": "f624d719-b18b-4e9b-8d32-0c987b3348b4",
+            "uuid": "c1c6f7b2-0a36-43cf-a309-66fea055cafe",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
@@ -665,16 +645,16 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @proxie [4]",
+            "tag": "🚩 CF | 🔒 VLESS | @proxie [5]",
             "type": "vless",
             "server": "104.21.62.144",
             "server_port": 443,
-            "uuid": "c1c6f7b2-0a36-43cf-a309-66fea055cafe",
+            "uuid": "36711ced-f518-4187-9507-de8eb35c7afa",
             "flow": "",
             "packet_encoding": "xudp",
             "tls": {
                 "enabled": true,
-                "server_name": "varda2.manwe.ir",
+                "server_name": "sauron2.melkore.ir",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
