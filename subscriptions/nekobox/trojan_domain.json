@@ -86,7 +86,6 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔓 TROJAN | @fastfreeconfig [47]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "🇺🇸 US | 🔒 TROJAN | @hopev2ray [1]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
@@ -104,6 +103,7 @@
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [2]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
+                "❔ XX | 🔓 TROJAN | @tgvpn6 [9]",
                 "❔ XX | 🔓 TROJAN | @tgvpn6 [10]",
                 "🇭🇰 HK | 🔓 TROJAN | @tgvpn6 [13]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
@@ -134,7 +134,6 @@
                 "❔ XX | 🔒 TROJAN | @armodchannel [58]",
                 "❔ XX | 🔒 TROJAN | @armodchannel [60]",
                 "❔ XX | 🔓 TROJAN | @armodchannel [61]",
-                "❔ XX | 🔓 TROJAN | @fastfreeconfig [47]",
                 "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
                 "🇺🇸 US | 🔒 TROJAN | @hopev2ray [1]",
                 "❔ XX | 🔓 TROJAN | @ip_cf_config [8]",
@@ -152,6 +151,7 @@
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [2]",
                 "🚩 CF | 🔒 TROJAN | @teamvpnpro [4]",
                 "🇩🇪 DE | 🔓 TROJAN | @teamvpnpro [7]",
+                "❔ XX | 🔓 TROJAN | @tgvpn6 [9]",
                 "❔ XX | 🔓 TROJAN | @tgvpn6 [10]",
                 "🇭🇰 HK | 🔓 TROJAN | @tgvpn6 [13]",
                 "🇺🇸 US | 🔒 TROJAN | @v2rayngconfig [32]",
@@ -360,13 +360,6 @@
                     "Host": "asia.artunnel57.host"
                 }
             }
-        },
-        {
-            "tag": "❔ XX | 🔓 TROJAN | @fastfreeconfig [47]",
-            "type": "trojan",
-            "server": "oss-cn-shanghai.westdatacloud.top",
-            "server_port": 20048,
-            "password": "626351FA-3CA6-8118-FADF-CCDBCD620871"
         },
         {
             "tag": "❔ XX | 🔒 TROJAN | @goldenshiinevpn [3]",
@@ -688,6 +681,13 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "❔ XX | 🔓 TROJAN | @tgvpn6 [9]",
+            "type": "trojan",
+            "server": "oss-cn-shanghai.westdatacloud.top",
+            "server_port": 20048,
+            "password": "626351FA-3CA6-8118-FADF-CCDBCD620871"
         },
         {
             "tag": "❔ XX | 🔓 TROJAN | @tgvpn6 [10]",
