@@ -95,14 +95,14 @@
                 "❔ XX | 🔓 VLESS | @freakconfig [14]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [26]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
-                "❔ XX | 🔓 VLESS | @proxy_v2box [9]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
-                "❔ XX | 🔒 VLESS | @proxygodratmand [4]",
+                "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
-                "❔ XX | 🔓 VLESS | @proxystore11 [12]",
+                "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
                 "❔ XX | 🔓 VLESS | @v2graphy [11]",
-                "❔ XX | 🔓 VLESS | @v2ray_vmes [17]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
+                "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
+                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -128,14 +128,14 @@
                 "❔ XX | 🔓 VLESS | @freakconfig [14]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [26]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
-                "❔ XX | 🔓 VLESS | @proxy_v2box [9]",
+                "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
-                "❔ XX | 🔒 VLESS | @proxygodratmand [4]",
+                "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
-                "❔ XX | 🔓 VLESS | @proxystore11 [12]",
+                "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
                 "❔ XX | 🔓 VLESS | @v2graphy [11]",
-                "❔ XX | 🔓 VLESS | @v2ray_vmes [17]",
-                "❔ XX | 🔓 VLESS | @xsv2ray [5]"
+                "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
+                "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -384,7 +384,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @proxy_v2box [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
             "type": "vless",
             "server": "server581122609014369419.tas-bazi.com",
             "server_port": 443,
@@ -420,7 +420,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔒 VLESS | @proxygodratmand [4]",
+            "tag": "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
             "type": "vless",
             "server": "dl-04.saitsazs.ir",
             "server_port": 12107,
@@ -466,7 +466,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @proxystore11 [12]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
             "type": "vless",
             "server": "soren1.mahmouditravelers.top",
             "server_port": 26779,
@@ -493,7 +493,7 @@
             }
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @v2ray_vmes [17]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
             "type": "vless",
             "server": "viop.fast.hosting-ip.com",
             "server_port": 80,
@@ -502,7 +502,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "❔ XX | 🔓 VLESS | @xsv2ray [5]",
+            "tag": "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]",
             "type": "vless",
             "server": "fast-01.saitsazs.ir",
             "server_port": 80,
