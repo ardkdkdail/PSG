@@ -149,6 +149,7 @@
                 "🚩 CF | 🔒 VMESS | @mi_pn_official [2]",
                 "🚩 CF | 🔒 VMESS | @mi_pn_official [3]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [2]",
                 "❔ XX | 🔓 VMESS | @napsterntvtm [1]",
                 "❔ XX | 🔓 VMESS | @net_azad_1 [11]",
                 "🇺🇸 US | 🔓 VMESS | @netmellianti [13]",
@@ -178,7 +179,6 @@
                 "🚩 CF | 🔒 VMESS | @v2ray4win [6]",
                 "❔ XX | 🔒 VMESS | @v2ray4win [7]",
                 "🇩🇪 DE | 🔓 VMESS | @v2ray4win [8]",
-                "🇩🇪 DE | 🔓 VMESS | @v2ray_free_conf [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
@@ -191,9 +191,9 @@
                 "❔ XX | 🔓 VMESS | @v2rayvmess [16]",
                 "🇳🇱 NL | 🔓 VMESS | @vipv2rayvip [1]",
                 "❔ XX | 🔓 VMESS | @vpn_proxy_v2ry [4]",
-                "🇺🇸 US | 🔓 VMESS | @vpnfail_v2ray [16]",
                 "🇨🇦 CA | 🔓 VMESS | @vpnfail_v2ray [17]",
                 "🇩🇪 DE | 🔓 VMESS | @vpnfail_v2ray [18]",
+                "🇻🇳 VN | 🔓 VMESS | @vpnfail_v2ray [19]",
                 "❔ XX | 🔒 VMESS | @vpngate_config [17]",
                 "🇺🇸 US | 🔓 VMESS | @vpngate_config [19]",
                 "🚩 CF | 🔒 VMESS | @vpnv2rayonline [11]",
@@ -269,6 +269,7 @@
                 "🚩 CF | 🔒 VMESS | @mi_pn_official [2]",
                 "🚩 CF | 🔒 VMESS | @mi_pn_official [3]",
                 "❔ XX | 🔓 VMESS | @migping [1]",
+                "🚩 CF | 🔒 VMESS | @mowjproxy [2]",
                 "❔ XX | 🔓 VMESS | @napsterntvtm [1]",
                 "❔ XX | 🔓 VMESS | @net_azad_1 [11]",
                 "🇺🇸 US | 🔓 VMESS | @netmellianti [13]",
@@ -298,7 +299,6 @@
                 "🚩 CF | 🔒 VMESS | @v2ray4win [6]",
                 "❔ XX | 🔒 VMESS | @v2ray4win [7]",
                 "🇩🇪 DE | 🔓 VMESS | @v2ray4win [8]",
-                "🇩🇪 DE | 🔓 VMESS | @v2ray_free_conf [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [18]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [19]",
                 "❔ XX | 🔓 VMESS | @v2ray_n [20]",
@@ -311,9 +311,9 @@
                 "❔ XX | 🔓 VMESS | @v2rayvmess [16]",
                 "🇳🇱 NL | 🔓 VMESS | @vipv2rayvip [1]",
                 "❔ XX | 🔓 VMESS | @vpn_proxy_v2ry [4]",
-                "🇺🇸 US | 🔓 VMESS | @vpnfail_v2ray [16]",
                 "🇨🇦 CA | 🔓 VMESS | @vpnfail_v2ray [17]",
                 "🇩🇪 DE | 🔓 VMESS | @vpnfail_v2ray [18]",
+                "🇻🇳 VN | 🔓 VMESS | @vpnfail_v2ray [19]",
                 "❔ XX | 🔒 VMESS | @vpngate_config [17]",
                 "🇺🇸 US | 🔓 VMESS | @vpngate_config [19]",
                 "🚩 CF | 🔒 VMESS | @vpnv2rayonline [11]",
@@ -1297,6 +1297,31 @@
             "alter_id": 0
         },
         {
+            "tag": "🚩 CF | 🔒 VMESS | @mowjproxy [2]",
+            "type": "vmess",
+            "server": "104.17.148.22",
+            "server_port": 2083,
+            "uuid": "8ae65664-84e8-40e1-9708-9236f0808dfd",
+            "security": "auto",
+            "alter_id": 0,
+            "tls": {
+                "enabled": true,
+                "server_name": "api3.waltonweb.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/panel?ed=2560",
+                "headers": {
+                    "Host": "api3.waltonweb.ir"
+                }
+            }
+        },
+        {
             "tag": "❔ XX | 🔓 VMESS | @napsterntvtm [1]",
             "type": "vmess",
             "server": "ime4.istorevpn.tk",
@@ -1752,15 +1777,6 @@
             "alter_id": 0
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VMESS | @v2ray_free_conf [19]",
-            "type": "vmess",
-            "server": "91.99.209.224",
-            "server_port": 32821,
-            "uuid": "94440946-20d3-48e3-9acc-bca519c6791f",
-            "security": "auto",
-            "alter_id": 0
-        },
-        {
             "tag": "❔ XX | 🔓 VMESS | @v2ray_n [18]",
             "type": "vmess",
             "server": "ii.USA02.ml",
@@ -1934,22 +1950,6 @@
             "alter_id": 0
         },
         {
-            "tag": "🇺🇸 US | 🔓 VMESS | @vpnfail_v2ray [16]",
-            "type": "vmess",
-            "server": "82.29.132.9",
-            "server_port": 20086,
-            "uuid": "b2c61f53-a359-429c-900e-255f02def6be",
-            "security": "auto",
-            "alter_id": 0,
-            "transport": {
-                "type": "ws",
-                "path": "/",
-                "headers": {
-                    "Host": ""
-                }
-            }
-        },
-        {
             "tag": "🇨🇦 CA | 🔓 VMESS | @vpnfail_v2ray [17]",
             "type": "vmess",
             "server": "51.79.86.182",
@@ -1966,6 +1966,22 @@
             "uuid": "81852771-76fb-4e94-e4f1-4e37a698a49a",
             "security": "auto",
             "alter_id": 0
+        },
+        {
+            "tag": "🇻🇳 VN | 🔓 VMESS | @vpnfail_v2ray [19]",
+            "type": "vmess",
+            "server": "161.248.30.3",
+            "server_port": 20086,
+            "uuid": "1006a928-2021-4a3b-beb5-d5853c6281c5",
+            "security": "auto",
+            "alter_id": 0,
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": ""
+                }
+            }
         },
         {
             "tag": "❔ XX | 🔒 VMESS | @vpngate_config [17]",
