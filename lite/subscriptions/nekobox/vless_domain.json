@@ -127,7 +127,6 @@
                 "🇩🇪 DE | 🔓 VLESS | @ehsawn8 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @ehsawn8 [8]",
                 "❔ XX | 🔒 VLESS | @eleutheriavpn [2]",
-                "🚩 CF | 🔓 VLESS | @elfv2ray [1]",
                 "🚩 CF | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [10]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
@@ -309,7 +308,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
-                "🚩 CF | 🔓 VLESS | @prrofile_purple [128]",
+                "🚩 CF | 🔓 VLESS | @prrofile_purple [134]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
@@ -376,7 +375,7 @@
                 "🚩 CF | 🔒 VLESS | @v2rayy_vpn13 [12]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
                 "❔ XX | 🔒 VLESS | @v2rayza [20]",
-                "🇮🇪 IE | 🔒 VLESS | @v2trayproxy [11]",
+                "🇺🇸 US | 🔒 VLESS | @v2trayproxy [9]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [5]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [6]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [7]",
@@ -385,7 +384,8 @@
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
                 "🇮🇷 IR | 🔓 VLESS | @vip_vpn_2022 [6]",
                 "❔ XX | 🔒 VLESS | @vipnetmeli [1]",
-                "🇮🇷 IR | 🔓 VLESS | @vmesc [19]",
+                "🇮🇷 IR | 🔓 VLESS | @vmesc [18]",
+                "🚩 CF | 🔓 VLESS | @vmesc [19]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [13]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [14]",
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
@@ -471,7 +471,6 @@
                 "🇩🇪 DE | 🔓 VLESS | @ehsawn8 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @ehsawn8 [8]",
                 "❔ XX | 🔒 VLESS | @eleutheriavpn [2]",
-                "🚩 CF | 🔓 VLESS | @elfv2ray [1]",
                 "🚩 CF | 🔓 VLESS | @eliteproxyv2 [8]",
                 "🇺🇸 US | 🔓 VLESS | @eliteproxyv2 [10]",
                 "🇫🇮 FI | 🔒 VLESS | @evay_vpn [17]",
@@ -653,7 +652,7 @@
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
-                "🚩 CF | 🔓 VLESS | @prrofile_purple [128]",
+                "🚩 CF | 🔓 VLESS | @prrofile_purple [134]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "❔ XX | 🔓 VLESS | @pusyvpn [9]",
@@ -720,7 +719,7 @@
                 "🚩 CF | 🔒 VLESS | @v2rayy_vpn13 [12]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
                 "❔ XX | 🔒 VLESS | @v2rayza [20]",
-                "🇮🇪 IE | 🔒 VLESS | @v2trayproxy [11]",
+                "🇺🇸 US | 🔒 VLESS | @v2trayproxy [9]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [5]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [6]",
                 "🚩 CF | 🔓 VLESS | @v_2rayngvpn [7]",
@@ -729,7 +728,8 @@
                 "🚩 CF | 🔒 VLESS | @vboxpanel [7]",
                 "🇮🇷 IR | 🔓 VLESS | @vip_vpn_2022 [6]",
                 "❔ XX | 🔒 VLESS | @vipnetmeli [1]",
-                "🇮🇷 IR | 🔓 VLESS | @vmesc [19]",
+                "🇮🇷 IR | 🔓 VLESS | @vmesc [18]",
+                "🚩 CF | 🔓 VLESS | @vmesc [19]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [13]",
                 "🚩 CF | 🔓 VLESS | @vmessorg [14]",
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
@@ -1630,22 +1630,6 @@
                 "path": "/class",
                 "headers": {
                     "Host": "learntocode.college"
-                }
-            }
-        },
-        {
-            "tag": "🚩 CF | 🔓 VLESS | @elfv2ray [1]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 80,
-            "uuid": "d626ea85-ab8b-410f-9d9b-6cc3a03a7c28",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "transport": {
-                "type": "ws",
-                "path": "/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080",
-                "headers": {
-                    "Host": "www.speedtest.net"
                 }
             }
         },
@@ -4786,7 +4770,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @prrofile_purple [128]",
+            "tag": "🚩 CF | 🔓 VLESS | @prrofile_purple [134]",
             "type": "vless",
             "server": "ac.storelit.ir",
             "server_port": 8880,
@@ -5979,7 +5963,7 @@
             }
         },
         {
-            "tag": "🇮🇪 IE | 🔒 VLESS | @v2trayproxy [11]",
+            "tag": "🇺🇸 US | 🔒 VLESS | @v2trayproxy [9]",
             "type": "vless",
             "server": "amazon-17.cristiano.name.ng",
             "server_port": 443,
@@ -6107,13 +6091,29 @@
             }
         },
         {
-            "tag": "🇮🇷 IR | 🔓 VLESS | @vmesc [19]",
+            "tag": "🇮🇷 IR | 🔓 VLESS | @vmesc [18]",
             "type": "vless",
             "server": "cb6.connectbaash.info",
             "server_port": 4406,
             "uuid": "0fc95877-cdc3-458f-8b00-d554c99ecbfb",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🚩 CF | 🔓 VLESS | @vmesc [19]",
+            "type": "vless",
+            "server": "grumpy-building.seotoolsforyou.co.uk",
+            "server_port": 80,
+            "uuid": "935c990a-9bcc-484b-86a2-2a402f9ad1d4",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "grumpy-building.seotoolsforyou.co.uk"
+                }
+            }
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @vmessorg [13]",

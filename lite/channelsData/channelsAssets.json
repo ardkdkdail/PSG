@@ -603,7 +603,8 @@
     },
     "free1ss": {
         "types": [
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "🍊Aperto Shadowsocks Outline Vless VPN 🍊",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1ss.jpg"
@@ -894,9 +895,9 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "vless",
             "trojan",
+            "vmess",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1500,8 +1501,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2329,7 +2330,8 @@
         "types": [
             "ss",
             "vmess",
-            "vless"
+            "vless",
+            "trojan"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2747,8 +2749,8 @@
     },
     "vmesc": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"

@@ -134,7 +134,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [9]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
-                "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [118]",
+                "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [124]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [4]",
@@ -142,8 +142,7 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [5]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇺🇸 US | 🔓 VLESS | @v2ry_proxy [11]",
-                "🚩 CF | 🔒 VLESS | @v2trayproxy [1]",
-                "🇺🇸 US | 🔓 VLESS | @v2trayproxy [7]",
+                "🇺🇸 US | 🔓 VLESS | @v2trayproxy [5]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -211,7 +210,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [9]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
-                "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [118]",
+                "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [124]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [4]",
@@ -219,8 +218,7 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [5]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇺🇸 US | 🔓 VLESS | @v2ry_proxy [11]",
-                "🚩 CF | 🔒 VLESS | @v2trayproxy [1]",
-                "🇺🇸 US | 🔓 VLESS | @v2trayproxy [7]",
+                "🇺🇸 US | 🔓 VLESS | @v2trayproxy [5]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -990,7 +988,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [118]",
+            "tag": "🇳🇱 NL | 🔒 VLESS | @prrofile_purple [124]",
             "type": "vless",
             "server": "nl.2.tryfreenet24.xyz",
             "server_port": 8023,
@@ -1085,25 +1083,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔒 VLESS | @v2trayproxy [1]",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 2096,
-            "uuid": "f3c2dacb-fd09-4e08-b9fc-45ed09b987b5",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "pars.stepson.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2trayproxy [7]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @v2trayproxy [5]",
             "type": "vless",
             "server": "DailyConfigs.fast.hosting-ip.com",
             "server_port": 80,
