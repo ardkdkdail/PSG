@@ -101,16 +101,16 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
+                "❔ XX | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [9]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
-                "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]"
+                "❔ XX | 🔒 VLESS | @v2rayexpress [10]",
+                "❔ XX | 🔒 VLESS | @v2rayexpress [11]",
+                "❔ XX | 🔒 VLESS | @v2rayexpress [12]",
+                "❔ XX | 🔒 VLESS | @v2raymelliii [9]",
+                "❔ XX | 🔓 VLESS | @v2rayngfreee [4]",
+                "❔ XX | 🔓 VLESS | @v2rayngfreee [5]",
+                "❔ XX | 🔒 VLESS | @v2rayngninja [10]",
+                "❔ XX | 🔓 VLESS | @vmesskhodam [6]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -130,16 +130,16 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
-                "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
+                "❔ XX | 🔒 VLESS | @proxygrizzly [1]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
-                "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
-                "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [9]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
-                "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
-                "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]"
+                "❔ XX | 🔒 VLESS | @v2rayexpress [10]",
+                "❔ XX | 🔒 VLESS | @v2rayexpress [11]",
+                "❔ XX | 🔒 VLESS | @v2rayexpress [12]",
+                "❔ XX | 🔒 VLESS | @v2raymelliii [9]",
+                "❔ XX | 🔓 VLESS | @v2rayngfreee [4]",
+                "❔ XX | 🔓 VLESS | @v2rayngfreee [5]",
+                "❔ XX | 🔒 VLESS | @v2rayngninja [10]",
+                "❔ XX | 🔓 VLESS | @vmesskhodam [6]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -400,7 +400,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
+            "tag": "❔ XX | 🔒 VLESS | @proxygrizzly [1]",
             "type": "vless",
             "server": "147.182.183.207",
             "server_port": 443,
@@ -432,7 +432,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
+            "tag": "❔ XX | 🔒 VLESS | @v2rayexpress [10]",
             "type": "vless",
             "server": "199.247.28.17",
             "server_port": 44914,
@@ -455,7 +455,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
+            "tag": "❔ XX | 🔒 VLESS | @v2rayexpress [11]",
             "type": "vless",
             "server": "199.247.28.17",
             "server_port": 44914,
@@ -478,7 +478,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
+            "tag": "❔ XX | 🔒 VLESS | @v2rayexpress [12]",
             "type": "vless",
             "server": "80.240.23.101",
             "server_port": 47567,
@@ -501,7 +501,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [9]",
+            "tag": "❔ XX | 🔒 VLESS | @v2raymelliii [9]",
             "type": "vless",
             "server": "212.95.41.20",
             "server_port": 900,
@@ -524,7 +524,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
+            "tag": "❔ XX | 🔓 VLESS | @v2rayngfreee [4]",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -533,7 +533,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
+            "tag": "❔ XX | 🔓 VLESS | @v2rayngfreee [5]",
             "type": "vless",
             "server": "65.108.247.56",
             "server_port": 80,
@@ -542,7 +542,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
+            "tag": "❔ XX | 🔒 VLESS | @v2rayngninja [10]",
             "type": "vless",
             "server": "80.240.23.101",
             "server_port": 443,
@@ -565,7 +565,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
+            "tag": "❔ XX | 🔓 VLESS | @vmesskhodam [6]",
             "type": "vless",
             "server": "91.99.219.10",
             "server_port": 443,

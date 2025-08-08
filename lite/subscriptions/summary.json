@@ -1,6 +1,6 @@
 {
     "meta": {
-        "last_updated": "2025-08-08T21:22:06+00:00"
+        "last_updated": "2025-08-08T22:24:18+00:00"
     },
     "sources": {
         "total_from_assets": 393,
@@ -9,58 +9,51 @@
         "removed_in_cleanup": 0
     },
     "configs": {
-        "total_valid": 992,
+        "total_valid": 993,
         "breakdown_by_protocol": {
             "vless": 746,
-            "ss": 108,
-            "trojan": 21,
+            "ss": 105,
+            "trojan": 25,
             "vmess": 115,
             "tuic": 2
         }
     },
     "outputs": {
-        "location_files_created": 40,
+        "location_files_created": 33,
         "country_distribution": {
+            "XX": 366,
             "CF": 273,
-            "XX": 186,
-            "DE": 127,
-            "IR": 88,
-            "US": 88,
-            "NL": 41,
-            "FR": 34,
-            "FI": 28,
-            "GB": 22,
-            "SE": 19,
-            "RU": 13,
-            "SG": 9,
-            "TR": 9,
-            "CA": 8,
-            "AT": 6,
-            "PL": 5,
-            "AE": 4,
+            "DE": 79,
+            "IR": 64,
+            "US": 55,
+            "FR": 23,
+            "NL": 22,
+            "GB": 19,
+            "SE": 17,
+            "FI": 14,
+            "SG": 10,
+            "RU": 8,
+            "TR": 4,
+            "CA": 4,
+            "PL": 4,
+            "LT": 4,
             "IN": 3,
-            "AM": 2,
-            "TW": 2,
-            "LV": 2,
+            "AE": 3,
+            "ES": 2,
+            "AT": 2,
+            "CZ": 2,
+            "RO": 2,
             "CH": 2,
             "CN": 2,
-            "JP": 2,
-            "IT": 2,
-            "ES": 1,
+            "TW": 1,
             "UA": 1,
-            "CZ": 1,
             "PT": 1,
             "HK": 1,
-            "AU": 1,
-            "CW": 1,
+            "LV": 1,
+            "JO": 1,
             "KR": 1,
             "DO": 1,
-            "LT": 1,
-            "AL": 1,
-            "LU": 1,
-            "IE": 1,
-            "VN": 1,
-            "NO": 1
+            "JP": 1
         }
     }
 }
