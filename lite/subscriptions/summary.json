@@ -1,52 +1,50 @@
 {
     "meta": {
-        "last_updated": "2025-08-08T01:24:55+00:00"
+        "last_updated": "2025-08-08T03:46:45+00:00"
     },
     "sources": {
         "total_from_assets": 403,
-        "had_configs_extracted": 403,
-        "had_valid_configs": 403,
-        "removed_in_cleanup": 0
+        "had_configs_extracted": 401,
+        "had_valid_configs": 401,
+        "removed_in_cleanup": 2
     },
     "configs": {
-        "total_valid": 1016,
+        "total_valid": 1013,
         "breakdown_by_protocol": {
-            "vless": 762,
-            "ss": 112,
-            "trojan": 21,
-            "vmess": 119,
+            "vless": 761,
+            "ss": 110,
+            "trojan": 22,
+            "vmess": 118,
             "tuic": 2
         }
     },
     "outputs": {
-        "location_files_created": 38,
+        "location_files_created": 40,
         "country_distribution": {
             "CF": 282,
-            "XX": 185,
-            "DE": 135,
-            "IR": 88,
-            "US": 88,
+            "XX": 187,
+            "DE": 138,
+            "IR": 90,
+            "US": 87,
             "NL": 42,
             "FR": 37,
-            "FI": 25,
-            "GB": 23,
+            "FI": 24,
+            "GB": 21,
             "SE": 20,
             "RU": 11,
-            "CA": 9,
             "TR": 8,
             "SG": 8,
-            "PL": 6,
+            "PL": 7,
+            "CA": 7,
             "AT": 6,
-            "IN": 6,
-            "HK": 5,
+            "HK": 4,
             "TW": 3,
-            "KR": 3,
+            "IN": 3,
             "AE": 3,
             "AM": 2,
             "CH": 2,
             "CN": 2,
             "JP": 2,
-            "LT": 2,
             "IT": 2,
             "ES": 1,
             "UA": 1,
@@ -54,10 +52,14 @@
             "PT": 1,
             "LV": 1,
             "AU": 1,
+            "ID": 1,
             "CW": 1,
+            "KR": 1,
             "DO": 1,
+            "LT": 1,
             "HU": 1,
             "LU": 1,
+            "IE": 1,
             "NO": 1
         }
     }

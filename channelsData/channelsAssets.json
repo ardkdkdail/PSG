@@ -170,9 +170,8 @@
     "config_proxy": {
         "types": [
             "vless",
-            "vmess",
             "ss",
-            "hy2"
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -489,9 +488,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "tuic",
-            "trojan",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -865,8 +863,8 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "vmess",
+            "trojan",
             "vless"
         ],
         "title": "🕊 Hope Net",
@@ -938,7 +936,8 @@
     "ipv2rayng": {
         "types": [
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "ipV2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ipv2rayng.jpg"
@@ -1447,8 +1446,8 @@
     "mowjproxy": {
         "types": [
             "vless",
-            "ss",
-            "vmess"
+            "vmess",
+            "ss"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2298,9 +2297,9 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
-            "trojan",
             "ss",
+            "trojan",
+            "vmess",
             "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
