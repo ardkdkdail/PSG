@@ -24,7 +24,6 @@ dns:
 
 proxies: 
   - {"name":"🚩 CF | 🔒 TROJAN | @appsooner [13]","type":"trojan","server":"172.67.181.173","port":443,"password":"f282b878-8711-45a1-8c69-5564172123c1","skip-cert-verify":false}
-  - {"name":"🇳🇱 NL | 🔓 TROJAN | @configshubplus [14]","type":"trojan","server":"94.242.229.89","port":443,"password":"NISHIKUITAN111","skip-cert-verify":true}
   - {"name":"🇩🇪 DE | 🔒 TROJAN | @directvpn [14]","type":"trojan","server":"63.178.151.21","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @directvpn [15]","type":"trojan","server":"13.39.67.184","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
   - {"name":"🇫🇷 FR | 🔒 TROJAN | @directvpn [16]","type":"trojan","server":"13.36.4.102","port":22223,"password":"telegram-id-directvpn","skip-cert-verify":false}
@@ -53,7 +52,6 @@ proxy-groups:
     interval: 300
     proxies: 
       - '🚩 CF | 🔒 TROJAN | @appsooner [13]'
-      - '🇳🇱 NL | 🔓 TROJAN | @configshubplus [14]'
       - '🇩🇪 DE | 🔒 TROJAN | @directvpn [14]'
       - '🇫🇷 FR | 🔒 TROJAN | @directvpn [15]'
       - '🇫🇷 FR | 🔒 TROJAN | @directvpn [16]'
