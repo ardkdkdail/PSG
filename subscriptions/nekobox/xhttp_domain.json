@@ -91,7 +91,6 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [10]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [14]",
-                "🇩🇪 DE | 🔓 VLESS | @dalton_ping [1]",
                 "❔ XX | 🔓 VLESS | @dgkbza [8]",
                 "❔ XX | 🔓 VLESS | @dgkbza [19]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -121,11 +120,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [1]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🚩 CF | 🔓 VLESS | @kingofilter [2]",
+                "🚩 CF | 🔓 VLESS | @kingofilter [1]",
                 "🇺🇸 US | 🔓 VLESS | @lranonline_new [9]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔒 VLESS | @netmellianti [4]",
-                "🇦🇲 AM | 🔒 VLESS | @orange_vpns [3]",
+                "🇦🇲 AM | 🔒 VLESS | @orange_vpns [2]",
                 "❔ XX | 🔓 VLESS | @proxy_v2box [3]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [11]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -167,7 +166,6 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [10]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [13]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [14]",
-                "🇩🇪 DE | 🔓 VLESS | @dalton_ping [1]",
                 "❔ XX | 🔓 VLESS | @dgkbza [8]",
                 "❔ XX | 🔓 VLESS | @dgkbza [19]",
                 "❔ XX | 🔓 VLESS | @dgkbza [22]",
@@ -197,11 +195,11 @@
                 "🇩🇪 DE | 🔒 VLESS | @grizzlyvpn [1]",
                 "🇵🇱 PL | 🔒 VLESS | @grizzlyvpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @iseqaro [1]",
-                "🚩 CF | 🔓 VLESS | @kingofilter [2]",
+                "🚩 CF | 🔓 VLESS | @kingofilter [1]",
                 "🇺🇸 US | 🔓 VLESS | @lranonline_new [9]",
                 "❔ XX | 🔓 VLESS | @megavpn_link [1]",
                 "🚩 CF | 🔒 VLESS | @netmellianti [4]",
-                "🇦🇲 AM | 🔒 VLESS | @orange_vpns [3]",
+                "🇦🇲 AM | 🔒 VLESS | @orange_vpns [2]",
                 "❔ XX | 🔓 VLESS | @proxy_v2box [3]",
                 "🇩🇪 DE | 🔓 VLESS | @proxycrone [11]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -423,24 +421,6 @@
             "uuid": "3d212218-5ee2-4df8-8bf8-9eaf2474bf6e",
             "flow": "",
             "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @dalton_ping [1]",
-            "type": "vless",
-            "server": "server581122609014369419.tas-bazi.com",
-            "server_port": 443,
-            "uuid": "0077f357-40b8-4496-8ff6-3f012bdb2eaa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "server581122609014369419.tas-bazi.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
         },
         {
             "tag": "❔ XX | 🔓 VLESS | @dgkbza [8]",
@@ -801,7 +781,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🚩 CF | 🔓 VLESS | @kingofilter [2]",
+            "tag": "🚩 CF | 🔓 VLESS | @kingofilter [1]",
             "type": "vless",
             "server": "llc.v2sub.ir",
             "server_port": 2082,
@@ -846,7 +826,7 @@
             }
         },
         {
-            "tag": "🇦🇲 AM | 🔒 VLESS | @orange_vpns [3]",
+            "tag": "🇦🇲 AM | 🔒 VLESS | @orange_vpns [2]",
             "type": "vless",
             "server": "or1.pmme.top",
             "server_port": 443,

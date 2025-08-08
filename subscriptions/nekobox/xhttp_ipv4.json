@@ -89,9 +89,9 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [3]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [6]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
-                "🇩🇪 DE | 🔒 VLESS | @dalton_ping [2]",
+                "🇩🇪 DE | 🔒 VLESS | @dalton_ping [1]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [2]",
-                "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [54]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
                 "🇴🇲 OM | 🔓 VLESS | @freakconfig [6]",
@@ -105,7 +105,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔓 VLESS | @netmellianti [8]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [9]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🚩 CF | 🔒 VLESS | @proxie [3]",
                 "🚩 CF | 🔒 VLESS | @proxie [5]",
@@ -158,9 +158,9 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [3]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [6]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
-                "🇩🇪 DE | 🔒 VLESS | @dalton_ping [2]",
+                "🇩🇪 DE | 🔒 VLESS | @dalton_ping [1]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [2]",
-                "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [54]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
                 "🇴🇲 OM | 🔓 VLESS | @freakconfig [6]",
@@ -174,7 +174,7 @@
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔓 VLESS | @mpproxy [6]",
                 "🇩🇪 DE | 🔓 VLESS | @netmellianti [8]",
-                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
+                "🇩🇪 DE | 🔓 VLESS | @orange_vpns [9]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [8]",
                 "🚩 CF | 🔒 VLESS | @proxie [3]",
                 "🚩 CF | 🔒 VLESS | @proxie [5]",
@@ -407,7 +407,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @dalton_ping [2]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @dalton_ping [1]",
             "type": "vless",
             "server": "212.95.41.20",
             "server_port": 900,
@@ -453,7 +453,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [54]",
             "type": "vless",
             "server": "151.101.67.8",
             "server_port": 80,
@@ -620,7 +620,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [10]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @orange_vpns [9]",
             "type": "vless",
             "server": "91.99.85.185",
             "server_port": 8443,
