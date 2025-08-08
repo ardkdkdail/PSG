@@ -92,7 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @bored_vpn [3]",
+                "🇺🇸 US | 🔓 VLESS | @bored_vpn [2]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
                 "🇺🇸 US | 🔒 VLESS | @configfa [17]",
                 "🇺🇸 US | 🔓 VLESS | @configms [1]",
@@ -103,13 +103,13 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [1]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [2]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [47]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
                 "🇴🇲 OM | 🔓 VLESS | @freakconfig [5]",
                 "🇸🇦 SA | 🔓 VLESS | @freakconfig [10]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [1]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [3]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [4]",
@@ -161,7 +161,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
-                "🇺🇸 US | 🔓 VLESS | @bored_vpn [3]",
+                "🇺🇸 US | 🔓 VLESS | @bored_vpn [2]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
                 "🇺🇸 US | 🔒 VLESS | @configfa [17]",
                 "🇺🇸 US | 🔓 VLESS | @configms [1]",
@@ -172,13 +172,13 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
                 "🇩🇪 DE | 🔒 VLESS | @dalton_ping [1]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [2]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [47]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
                 "🇴🇲 OM | 🔓 VLESS | @freakconfig [5]",
                 "🇸🇦 SA | 🔓 VLESS | @freakconfig [10]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
+                "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [1]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [3]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [4]",
@@ -306,7 +306,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @bored_vpn [3]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @bored_vpn [2]",
             "type": "vless",
             "server": "151.101.3.8",
             "server_port": 80,
@@ -461,15 +461,6 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [47]",
-            "type": "vless",
-            "server": "151.101.67.8",
-            "server_port": 80,
-            "uuid": "8088c605-e0c2-4774-9ee4-7fa7e47b6112",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
             "type": "vless",
             "server": "151.101.67.8",
@@ -563,6 +554,15 @@
                     "short_id": "dc5db021ae2038a9"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
+            "type": "vless",
+            "server": "151.101.67.8",
+            "server_port": 80,
+            "uuid": "8088c605-e0c2-4774-9ee4-7fa7e47b6112",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [1]",

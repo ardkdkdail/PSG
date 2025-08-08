@@ -108,7 +108,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇸🇮 SI | 🔒 VLESS | @config_proxy [62]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @configfa [4]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [19]",
@@ -151,7 +150,7 @@
                 "❔ XX | 🔒 VLESS | @kkkkkoabvbbvbvv [10]",
                 "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [8]",
-                "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [15]",
+                "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [14]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @mtpv2ray [2]",
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [7]",
@@ -224,7 +223,7 @@
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
                 "❔ XX | 🔒 VLESS | @vp22ray [10]",
                 "❔ XX | 🔒 VLESS | @vp22ray [11]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [1]",
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [3]",
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [5]",
@@ -262,7 +261,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇸🇮 SI | 🔒 VLESS | @config_proxy [62]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "❔ XX | 🔒 VLESS | @configfa [4]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [19]",
@@ -305,7 +303,7 @@
                 "❔ XX | 🔒 VLESS | @kkkkkoabvbbvbvv [10]",
                 "🇷🇺 RU | 🔒 VLESS | @kurdistan_vpn_perfectt [1]",
                 "🇩🇪 DE | 🔒 VLESS | @lexernet [8]",
-                "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [15]",
+                "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [14]",
                 "🇩🇪 DE | 🔒 VLESS | @megavpn_link [6]",
                 "❔ XX | 🔒 VLESS | @mtpv2ray [2]",
                 "🇩🇪 DE | 🔒 VLESS | @netmellianti [7]",
@@ -378,7 +376,7 @@
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
                 "❔ XX | 🔒 VLESS | @vp22ray [10]",
                 "❔ XX | 🔒 VLESS | @vp22ray [11]",
-                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
+                "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [1]",
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [3]",
                 "❔ XX | 🔒 VLESS | @womanlifefreedomvpn [5]",
@@ -873,29 +871,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
-            }
-        },
-        {
-            "tag": "🇸🇮 SI | 🔒 VLESS | @config_proxy [62]",
-            "type": "vless",
-            "server": "tunnyl.ru",
-            "server_port": 443,
-            "uuid": "3df2cc67-1c8e-4778-ad03-f81187809dbd",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "yahoo.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI",
-                    "short_id": "5c0333ed45b1"
-                }
             }
         },
         {
@@ -1960,7 +1935,7 @@
             }
         },
         {
-            "tag": "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [15]",
+            "tag": "🇷🇺 RU | 🔒 VLESS | @manzariyeh_rasht [14]",
             "type": "vless",
             "server": "balancer.russia.purr.bot",
             "server_port": 10443,
@@ -3671,7 +3646,7 @@
             }
         },
         {
-            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [9]",
+            "tag": "🇫🇮 FI | 🔒 VLESS | @vpnplusee_free [6]",
             "type": "vless",
             "server": "zZz.ZzZ.zZz.yasharteam.com",
             "server_port": 443,
