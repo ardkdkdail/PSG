@@ -100,9 +100,10 @@
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇳🇱 NL | 🔓 TROJAN | @hope_net [8]",
-                "🇮🇩 ID | 🔓 TROJAN | @hope_net [15]",
-                "🇨🇾 CY | 🔓 TROJAN | @hope_net [20]",
+                "🇳🇱 NL | 🔓 TROJAN | @hope_net [6]",
+                "🇮🇩 ID | 🔓 TROJAN | @hope_net [13]",
+                "🇨🇾 CY | 🔓 TROJAN | @hope_net [18]",
+                "🇭🇺 HU | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -225,9 +226,10 @@
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [16]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇳🇱 NL | 🔓 TROJAN | @hope_net [8]",
-                "🇮🇩 ID | 🔓 TROJAN | @hope_net [15]",
-                "🇨🇾 CY | 🔓 TROJAN | @hope_net [20]",
+                "🇳🇱 NL | 🔓 TROJAN | @hope_net [6]",
+                "🇮🇩 ID | 🔓 TROJAN | @hope_net [13]",
+                "🇨🇾 CY | 🔓 TROJAN | @hope_net [18]",
+                "🇭🇺 HU | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -728,7 +730,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇳🇱 NL | 🔓 TROJAN | @hope_net [8]",
+            "tag": "🇳🇱 NL | 🔓 TROJAN | @hope_net [6]",
             "type": "trojan",
             "server": "94.242.229.89",
             "server_port": 443,
@@ -744,7 +746,7 @@
             }
         },
         {
-            "tag": "🇮🇩 ID | 🔓 TROJAN | @hope_net [15]",
+            "tag": "🇮🇩 ID | 🔓 TROJAN | @hope_net [13]",
             "type": "trojan",
             "server": "46.254.92.112",
             "server_port": 443,
@@ -767,9 +769,32 @@
             }
         },
         {
-            "tag": "🇨🇾 CY | 🔓 TROJAN | @hope_net [20]",
+            "tag": "🇨🇾 CY | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
             "server": "77.75.199.86",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "za.ylks.xyz",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "/",
+                "headers": {
+                    "Host": "za.ylks.xyz"
+                }
+            }
+        },
+        {
+            "tag": "🇭🇺 HU | 🔓 TROJAN | @hope_net [20]",
+            "type": "trojan",
+            "server": "141.11.203.203",
             "server_port": 443,
             "password": "NISHIKUITAN111",
             "tls": {
