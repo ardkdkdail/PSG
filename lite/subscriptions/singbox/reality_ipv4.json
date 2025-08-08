@@ -92,6 +92,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [142]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇺🇸 US | 🔒 VLESS | @configfa [17]",
                 "🇳🇱 NL | 🔒 VLESS | @configfa [18]",
@@ -157,6 +158,7 @@
                 "همکاری_ملی",
                 "جاویدشاه",
                 "KingRezaPahlavi",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [142]",
                 "🇫🇷 FR | 🔒 VLESS | @configasli [7]",
                 "🇺🇸 US | 🔒 VLESS | @configfa [17]",
                 "🇳🇱 NL | 🔒 VLESS | @configfa [18]",
@@ -294,6 +296,29 @@
                 "path": "/",
                 "headers": {
                     "Host": "127.0.0.1"
+                }
+            }
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [142]",
+            "type": "vless",
+            "server": "165.232.83.84",
+            "server_port": 1500,
+            "uuid": "b20c84f3-988c-489d-a93f-a42c26aa0c59",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "springer-professional.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "r7NlMeNf86iG8M1DF9WnU53xVx35pg1rRhLiEeW-618",
+                    "short_id": "a93110"
                 }
             }
         },

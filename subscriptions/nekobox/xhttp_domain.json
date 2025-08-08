@@ -85,6 +85,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇬🇧 GB | 🔒 VLESS | @config_proxy [141]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -108,6 +109,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [29]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [33]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [15]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [55]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -161,6 +163,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇬🇧 GB | 🔒 VLESS | @config_proxy [141]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -184,6 +187,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [29]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [33]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [15]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [55]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -367,6 +371,29 @@
                     "enabled": true,
                     "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
                     "short_id": "aeba"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @config_proxy [141]",
+            "type": "vless",
+            "server": "hazardbakhtnemide.techforgesec.ir",
+            "server_port": 8569,
+            "uuid": "a728fc32-364a-496d-ba13-1a6c66f20259",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "docker.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "oMYcLicYy824IM6JDKOQ1lhB_9WpQ1R26HIKM5qOVH4",
+                    "short_id": "45c6fb"
                 }
             }
         },
@@ -602,6 +629,15 @@
             "server": "speedtest.net",
             "server_port": 80,
             "uuid": "d6bfe23e-f7a8-4beb-971c-c68ddd8fdd8c",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [55]",
+            "type": "vless",
+            "server": "speedtestcustom.com",
+            "server_port": 80,
+            "uuid": "c95e1271-871f-44ad-bbe9-e05d028d3d40",
             "flow": "",
             "packet_encoding": "xudp"
         },

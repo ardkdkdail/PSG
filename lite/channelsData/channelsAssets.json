@@ -36,13 +36,6 @@
         "title": "💛 Amir inventor 2010 | اَمیـر اینوِنتور ✨",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/amirinventor2010.jpg"
     },
-    "ansel_team": {
-        "types": [
-            "vless"
-        ],
-        "title": "ANSEL",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ansel_team.jpg"
-    },
     "appsooner": {
         "types": [
             "vless",
@@ -169,9 +162,9 @@
     },
     "config_proxy": {
         "types": [
+            "ss",
             "vless",
             "vmess",
-            "ss",
             "trojan"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -2328,8 +2321,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "ss",
             "vmess",
+            "ss",
             "vless",
             "trojan"
         ],
