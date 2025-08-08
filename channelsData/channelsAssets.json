@@ -162,10 +162,9 @@
     },
     "config_proxy": {
         "types": [
-            "vless",
             "ss",
-            "vmess",
-            "trojan"
+            "vless",
+            "vmess"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -475,7 +474,8 @@
     "fastfreeconfig": {
         "types": [
             "vless",
-            "ss"
+            "ss",
+            "trojan"
         ],
         "title": "Free Config | کانفیگ رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/fastfreeconfig.jpg"
@@ -850,9 +850,9 @@
     },
     "hope_net": {
         "types": [
-            "vless",
             "trojan",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1569,8 +1569,8 @@
     },
     "netmellianti": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "VPN | V2rayNG | نت ملی",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/netmellianti.jpg"
@@ -1810,8 +1810,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2353,8 +2353,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2639,7 +2639,6 @@
     },
     "vaynora": {
         "types": [
-            "ss",
             "vless"
         ],
         "title": "VayNora",
@@ -2748,8 +2747,8 @@
     },
     "vpn451": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "451°F VPN || НОВОСТИ",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpn451.jpg"

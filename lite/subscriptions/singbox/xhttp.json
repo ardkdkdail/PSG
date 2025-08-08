@@ -96,12 +96,13 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
+                "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
-                "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [133]",
+                "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [127]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
@@ -126,7 +127,6 @@
                 "❔ XX | 🔓 VLESS | @freakconfig [15]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [26]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
-                "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [25]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -149,12 +149,13 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
+                "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
                 "🇨🇭 CH | 🔓 VLESS | @minovpnch [15]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
-                "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [133]",
+                "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [127]",
                 "🇺🇸 US | 🔓 VLESS | @qeshmserver [13]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [10]",
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
@@ -179,7 +180,6 @@
                 "❔ XX | 🔓 VLESS | @freakconfig [15]",
                 "🇺🇸 US | 🔓 VLESS | @free_serverir [26]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [7]",
-                "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [25]",
                 "🇩🇪 DE | 🔓 VLESS | @proxy_v2box [9]",
                 "🚩 CF | 🔒 VLESS | @proxycrone [18]",
                 "🇵🇱 PL | 🔒 VLESS | @proxygodratmand [4]",
@@ -366,6 +366,24 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @lexernet [11]",
+            "type": "vless",
+            "server": "91.99.219.15",
+            "server_port": 443,
+            "uuid": "0f7e89d6-9f35-4e94-ba4b-509a724dc177",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "91.99.219.15",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
             "type": "vless",
             "server": "49.13.199.174",
@@ -453,7 +471,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [133]",
+            "tag": "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [127]",
             "type": "vless",
             "server": "139.177.199.49",
             "server_port": 443,
@@ -785,15 +803,6 @@
             "server": "ips.rainoteam.store",
             "server_port": 80,
             "uuid": "6a45de8b-46e5-4da4-b242-3e18f3228087",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @manzariyeh_rasht [25]",
-            "type": "vless",
-            "server": "speedtest.net",
-            "server_port": 80,
-            "uuid": "a7343619-6181-4e26-b31b-6bcf21b9e0be",
             "flow": "",
             "packet_encoding": "xudp"
         },
