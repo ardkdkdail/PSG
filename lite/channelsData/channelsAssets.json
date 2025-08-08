@@ -887,9 +887,9 @@
     },
     "hope_net": {
         "types": [
+            "vless",
             "trojan",
             "vmess",
-            "vless",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -2628,8 +2628,8 @@
     },
     "v2ry_proxy": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "V2ry | Proxy | رایگان",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ry_proxy.jpg"
