@@ -850,9 +850,10 @@
     },
     "hope_net": {
         "types": [
-            "ss",
+            "vless",
             "trojan",
-            "vless"
+            "ss",
+            "vmess"
         ],
         "title": "🕊 Hope Net",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/hope_net.jpg"
@@ -2263,8 +2264,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
+            "vmess",
             "ss",
             "vless"
         ],
@@ -2683,8 +2684,8 @@
     },
     "vmesc": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"
@@ -2975,8 +2976,8 @@
     },
     "zerobaipiao": {
         "types": [
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "免费节点 🏆【1小时前更新】",
