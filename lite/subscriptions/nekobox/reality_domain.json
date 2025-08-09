@@ -100,8 +100,7 @@
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇭🇷 HR | 🔒 VLESS | @lexernet [9]",
-                "🇬🇧 GB | 🔒 VLESS | @netmellianti [10]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [11]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [10]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -110,8 +109,6 @@
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
-                "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [130]",
-                "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [131]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
@@ -160,8 +157,7 @@
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
                 "🇭🇷 HR | 🔒 VLESS | @lexernet [9]",
-                "🇬🇧 GB | 🔒 VLESS | @netmellianti [10]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [11]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [10]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -170,8 +166,6 @@
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
-                "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [130]",
-                "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [131]",
                 "❔ XX | 🔒 VLESS | @public504 [10]",
                 "❔ XX | 🔒 VLESS | @public504 [12]",
                 "❔ XX | 🔒 VLESS | @rezaw_server [1]",
@@ -784,30 +778,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @netmellianti [10]",
-            "type": "vless",
-            "server": "panel.dayhostpro.com",
-            "server_port": 20392,
-            "uuid": "062b34e8-7156-41f7-a5b7-9387f80ee05b",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.reiss.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "RX19l5efFYFcVPaYhOnB8jlhfZ1SJNGZzfohQFjWwhE",
-                    "short_id": "cd00e976"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [11]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [10]",
             "type": "vless",
             "server": "myfreexnum01tamiz.bazibazestan.ir",
             "server_port": 443,
@@ -1022,52 +993,6 @@
                     "enabled": true,
                     "public_key": "blF2p2FE_fexB29-tmU9HfVs6TwqsSQVxWAHIiP2KTk",
                     "short_id": "b28a0dd8"
-                }
-            }
-        },
-        {
-            "tag": "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [130]",
-            "type": "vless",
-            "server": "s2.nodu10.ru",
-            "server_port": 443,
-            "uuid": "id8127942053",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.apple.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "edge"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BSLYXa-gOix_3BBelaROYqH4u_kAiyfcN5-VE9qkmHE",
-                    "short_id": "a61d6960f49e"
-                }
-            }
-        },
-        {
-            "tag": "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [131]",
-            "type": "vless",
-            "server": "ca.shatak.store",
-            "server_port": 7020,
-            "uuid": "5a7a7e1e-7e1e-47ea-9e1e-e1e65e1e7e1e",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "journalofbigdata.springeropen.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "TmD2tgPqVKs9s4FiP6qgaRR1vE03_l30_PKlljwkJiQ",
-                    "short_id": "7fec3adb0c3aee58"
                 }
             }
         },
