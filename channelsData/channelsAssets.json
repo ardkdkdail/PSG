@@ -473,8 +473,8 @@
     },
     "fastfreeconfig": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan",
             "tuic"
         ],
@@ -582,8 +582,8 @@
     },
     "free1_vpn": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Free_VPN √ v2ray √ NapsternetV √ custom √ injector √",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/free1_vpn.jpg"
@@ -851,9 +851,9 @@
     },
     "hope_net": {
         "types": [
-            "vmess",
             "vless",
             "trojan",
+            "vmess",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1804,8 +1804,7 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2226,8 +2225,8 @@
     },
     "v2ray1_ng": {
         "types": [
-            "vless",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "V2RayNg &amp; Napsternet V",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray1_ng.jpg"
@@ -2259,8 +2258,8 @@
     "v2ray_free_conf": {
         "types": [
             "trojan",
-            "vmess",
             "vless",
+            "vmess",
             "ss"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
@@ -2337,8 +2336,7 @@
     },
     "v2rayfree": {
         "types": [
-            "vless",
-            "vmess"
+            "vless"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"
@@ -2884,7 +2882,8 @@
     },
     "vpnv2raytop": {
         "types": [
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "فروش عمده فیلترشکن",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vpnv2raytop.jpg"
