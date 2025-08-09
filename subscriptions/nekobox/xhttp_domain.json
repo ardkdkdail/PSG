@@ -85,6 +85,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [38]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -159,6 +160,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [38]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -365,6 +367,15 @@
                     "short_id": "aeba"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [38]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "503b59d2-8d11-4c3d-9e46-391f4b65134c",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",

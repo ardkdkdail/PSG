@@ -110,18 +110,18 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
-                "🇺🇸 US | 🔒 TROJAN | @fastfreeconfig [45]",
+                "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [47]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [8]",
-                "🇺🇸 US | 🔓 TROJAN | @hope_net [10]",
-                "🇳🇱 NL | 🔒 TROJAN | @hope_net [11]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [6]",
+                "🇺🇸 US | 🔓 TROJAN | @hope_net [8]",
+                "🇳🇱 NL | 🔒 TROJAN | @hope_net [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
+                "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
                 "🇨🇳 CN | 🔒 TROJAN | @jiedianssr [4]",
-                "🇫🇷 FR | 🔒 TROJAN | @jiedianssr [9]",
                 "🇳🇱 NL | 🔒 TROJAN | @manstervpn [64]",
                 "🚩 CF | 🔒 TROJAN | @manstervpn [65]",
                 "🚩 CF | 🔒 TROJAN | @manstervpn [67]",
@@ -196,18 +196,18 @@
                 "🇩🇪 DE | 🔒 TROJAN | @directvpn [13]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [14]",
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [15]",
-                "🇺🇸 US | 🔒 TROJAN | @fastfreeconfig [45]",
+                "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [47]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [8]",
-                "🇺🇸 US | 🔓 TROJAN | @hope_net [10]",
-                "🇳🇱 NL | 🔒 TROJAN | @hope_net [11]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [6]",
+                "🇺🇸 US | 🔓 TROJAN | @hope_net [8]",
+                "🇳🇱 NL | 🔒 TROJAN | @hope_net [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
+                "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
                 "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
                 "🚩 CF | 🔓 TROJAN | @jiedianssr [2]",
                 "🇨🇳 CN | 🔒 TROJAN | @jiedianssr [4]",
-                "🇫🇷 FR | 🔒 TROJAN | @jiedianssr [9]",
                 "🇳🇱 NL | 🔒 TROJAN | @manstervpn [64]",
                 "🚩 CF | 🔒 TROJAN | @manstervpn [65]",
                 "🚩 CF | 🔒 TROJAN | @manstervpn [67]",
@@ -635,14 +635,14 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 TROJAN | @fastfreeconfig [45]",
+            "tag": "🇫🇷 FR | 🔒 TROJAN | @fastfreeconfig [47]",
             "type": "trojan",
-            "server": "104.149.155.13",
-            "server_port": 443,
-            "password": "79c935c0-27dc-4383-b307-dcac1b8e5509",
+            "server": "15.236.173.146",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
             "tls": {
                 "enabled": true,
-                "server_name": "vzwzasc.cn",
+                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
@@ -674,7 +674,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [8]",
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [6]",
             "type": "trojan",
             "server": "162.159.82.231",
             "server_port": 443,
@@ -697,7 +697,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔓 TROJAN | @hope_net [10]",
+            "tag": "🇺🇸 US | 🔓 TROJAN | @hope_net [8]",
             "type": "trojan",
             "server": "156.229.48.169",
             "server_port": 443,
@@ -720,7 +720,7 @@
             }
         },
         {
-            "tag": "🇳🇱 NL | 🔒 TROJAN | @hope_net [11]",
+            "tag": "🇳🇱 NL | 🔒 TROJAN | @hope_net [9]",
             "type": "trojan",
             "server": "45.131.209.89",
             "server_port": 443,
@@ -782,6 +782,22 @@
             }
         },
         {
+            "tag": "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
+            "type": "trojan",
+            "server": "104.149.155.13",
+            "server_port": 443,
+            "password": "79c935c0-27dc-4383-b307-dcac1b8e5509",
+            "tls": {
+                "enabled": true,
+                "server_name": "vzwzasc.cn",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
             "tag": "🇷🇺 RU | 🔒 TROJAN | @ip_cf_config [13]",
             "type": "trojan",
             "server": "176.32.39.29",
@@ -829,22 +845,6 @@
             "tls": {
                 "enabled": true,
                 "server_name": "36.151.251.59",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇫🇷 FR | 🔒 TROJAN | @jiedianssr [9]",
-            "type": "trojan",
-            "server": "15.236.173.146",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
                 "insecure": true,
                 "utls": {
                     "enabled": true,
