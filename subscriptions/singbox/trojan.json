@@ -112,9 +112,10 @@
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇷🇺 RU | 🔓 TROJAN | @hope_net [11]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [14]",
-                "🇨🇳 CN | 🔓 TROJAN | @hope_net [20]",
+                "🇷🇺 RU | 🔓 TROJAN | @hope_net [9]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [12]",
+                "🇨🇳 CN | 🔓 TROJAN | @hope_net [18]",
+                "🇳🇱 NL | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -132,6 +133,7 @@
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [2]",
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [3]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
+                "Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🚩 CF | 🔒 TROJAN | @outline_ir [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [3]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [4]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [5]",
@@ -233,9 +235,10 @@
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [17]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇷🇺 RU | 🔓 TROJAN | @hope_net [11]",
-                "🚩 CF | 🔒 TROJAN | @hope_net [14]",
-                "🇨🇳 CN | 🔓 TROJAN | @hope_net [20]",
+                "🇷🇺 RU | 🔓 TROJAN | @hope_net [9]",
+                "🚩 CF | 🔒 TROJAN | @hope_net [12]",
+                "🇨🇳 CN | 🔓 TROJAN | @hope_net [18]",
+                "🇳🇱 NL | 🔓 TROJAN | @hope_net [20]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -253,6 +256,7 @@
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [2]",
                 "🇬🇧 GB | 🔒 TROJAN | @mt_proxy [3]",
                 "🇩🇪 DE | 🔒 TROJAN | @mt_proxy [7]",
+                "Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🚩 CF | 🔒 TROJAN | @outline_ir [18]",
                 "🇩🇪 DE | 🔒 TROJAN | @privatevpns [3]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [4]",
                 "🇫🇷 FR | 🔒 TROJAN | @privatevpns [5]",
@@ -728,7 +732,7 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇷🇺 RU | 🔓 TROJAN | @hope_net [11]",
+            "tag": "🇷🇺 RU | 🔓 TROJAN | @hope_net [9]",
             "type": "trojan",
             "server": "5.182.85.93",
             "server_port": 443,
@@ -744,7 +748,7 @@
             }
         },
         {
-            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [14]",
+            "tag": "🚩 CF | 🔒 TROJAN | @hope_net [12]",
             "type": "trojan",
             "server": "104.18.39.232",
             "server_port": 2083,
@@ -767,11 +771,27 @@
             }
         },
         {
-            "tag": "🇨🇳 CN | 🔓 TROJAN | @hope_net [20]",
+            "tag": "🇨🇳 CN | 🔓 TROJAN | @hope_net [18]",
             "type": "trojan",
             "server": "36.151.192.201",
             "server_port": 51377,
             "password": "DNUMdmnJ"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔓 TROJAN | @hope_net [20]",
+            "type": "trojan",
+            "server": "188.42.88.52",
+            "server_port": 443,
+            "password": "NISHIKUITAN111",
+            "tls": {
+                "enabled": true,
+                "server_name": "188.42.88.52",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
@@ -1091,6 +1111,22 @@
             "tls": {
                 "enabled": true,
                 "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🚩 CF | 🔒 TROJAN | @outline_ir [18]",
+            "type": "trojan",
+            "server": "172.67.181.173",
+            "server_port": 443,
+            "password": "f282b878-8711-45a1-8c69-5564172123c1",
+            "tls": {
+                "enabled": true,
+                "server_name": "172.67.181.173",
                 "insecure": true,
                 "utls": {
                     "enabled": true,

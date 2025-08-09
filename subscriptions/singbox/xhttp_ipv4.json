@@ -93,8 +93,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [31]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [32]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
                 "🇺🇸 US | 🔒 VLESS | @configfa [15]",
                 "🇺🇸 US | 🔓 VLESS | @configms [1]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
@@ -103,6 +102,7 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [6]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [49]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
@@ -118,8 +118,6 @@
                 "🇩🇪 DE | 🔓 VLESS | @netmellianti [7]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [7]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [6]",
-                "🚩 CF | 🔒 VLESS | @proxie [3]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
                 "🇬🇧 GB | 🔒 VLESS | @proxygodratmand [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [122]",
@@ -146,7 +144,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [7]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
-                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]"
+                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -158,8 +157,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [31]",
-                "🇩🇪 DE | 🔓 VLESS | @config_proxy [32]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
                 "🇺🇸 US | 🔒 VLESS | @configfa [15]",
                 "🇺🇸 US | 🔓 VLESS | @configms [1]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
@@ -168,6 +166,7 @@
                 "🇺🇸 US | 🔓 VLESS | @dailytek [6]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [11]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
+                "🚩 CF | 🔒 VLESS | @fastfreeconfig [49]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
@@ -183,8 +182,6 @@
                 "🇩🇪 DE | 🔓 VLESS | @netmellianti [7]",
                 "🇩🇪 DE | 🔓 VLESS | @orange_vpns [7]",
                 "🇩🇪 DE | 🔒 VLESS | @parsashonam [6]",
-                "🚩 CF | 🔒 VLESS | @proxie [3]",
-                "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
                 "🇬🇧 GB | 🔒 VLESS | @proxygodratmand [1]",
                 "🇺🇸 US | 🔒 VLESS | @proxygrizzly [1]",
                 "🇨🇦 CA | 🔓 VLESS | @prrofile_purple [122]",
@@ -211,7 +208,8 @@
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [7]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [9]",
                 "🇳🇱 NL | 🔒 VLESS | @vpncostumer [11]",
-                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]"
+                "🇳🇱 NL | 🔒 VLESS | @vpncostumer [13]",
+                "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [14]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -307,22 +305,22 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [31]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [47]",
             "type": "vless",
-            "server": "91.99.183.30",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "server": "40.160.15.190",
+            "server_port": 443,
+            "uuid": "f6f442e3-69d1-4a83-bb78-241152eed859",
             "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @config_proxy [32]",
-            "type": "vless",
-            "server": "91.99.85.185",
-            "server_port": 8443,
-            "uuid": "e66beedb-dd44-47f0-baf8-7ba947d919d0",
-            "flow": "",
-            "packet_encoding": "xudp"
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "40.160.15.190",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔒 VLESS | @configfa [15]",
@@ -435,6 +433,24 @@
                     "enabled": true,
                     "public_key": "sa5RHNjAAD3hYv4OU_YYU08gRUsmPs5JdZES5Xy3pn8",
                     "short_id": "61e683d41fdb"
+                }
+            }
+        },
+        {
+            "tag": "🚩 CF | 🔒 VLESS | @fastfreeconfig [49]",
+            "type": "vless",
+            "server": "104.21.62.144",
+            "server_port": 443,
+            "uuid": "36711ced-f518-4187-9507-de8eb35c7afa",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "sauron2.melkore.ir",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
                 }
             }
         },
@@ -636,33 +652,6 @@
                     "short_id": "61e683d41fdb"
                 }
             }
-        },
-        {
-            "tag": "🚩 CF | 🔒 VLESS | @proxie [3]",
-            "type": "vless",
-            "server": "104.21.62.144",
-            "server_port": 443,
-            "uuid": "36711ced-f518-4187-9507-de8eb35c7afa",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "sauron2.melkore.ir",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @proxy_mtproto_vpns_free [4]",
-            "type": "vless",
-            "server": "91.99.220.150",
-            "server_port": 8443,
-            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇬🇧 GB | 🔒 VLESS | @proxygodratmand [1]",
@@ -1157,6 +1146,15 @@
                     "short_id": "aa60a00122200b76"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpnplusee_free [14]",
+            "type": "vless",
+            "server": "91.99.220.150",
+            "server_port": 8443,
+            "uuid": "bb7b030f-fd37-488a-be1f-1a26d874cb26",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
