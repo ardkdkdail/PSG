@@ -888,7 +888,6 @@
     "hope_net": {
         "types": [
             "trojan",
-            "vmess",
             "vless",
             "ss"
         ],
@@ -2310,8 +2309,8 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vmess",
             "trojan",
+            "vmess",
             "ss",
             "vless"
         ],
