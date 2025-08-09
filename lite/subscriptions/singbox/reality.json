@@ -111,6 +111,7 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
+                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -168,7 +169,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [11]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [10]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [2]",
                 "🇹🇷 TR | 🔒 VLESS | @outline_vpn [21]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [5]",
@@ -227,6 +228,7 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
+                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -284,7 +286,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇩🇪 DE | 🔒 VLESS | @merdesert [4]",
                 "🇺🇸 US | 🔒 VLESS | @mtpv2ray [13]",
-                "🇩🇪 DE | 🔒 VLESS | @netmellianti [11]",
+                "🇩🇪 DE | 🔒 VLESS | @netmellianti [10]",
                 "🇫🇮 FI | 🔒 VLESS | @oonfig [2]",
                 "🇹🇷 TR | 🔒 VLESS | @outline_vpn [21]",
                 "🇩🇪 DE | 🔒 VLESS | @proxy_emperor [5]",
@@ -877,6 +879,29 @@
                     "enabled": true,
                     "public_key": "UgwRcGmt9yqVzDac4KryRxQKvaVDi0eueJPPpmx7pW8",
                     "short_id": "f23d09"
+                }
+            }
+        },
+        {
+            "tag": "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
+            "type": "vless",
+            "server": "panel.dayhostpro.com",
+            "server_port": 20392,
+            "uuid": "062b34e8-7156-41f7-a5b7-9387f80ee05b",
+            "flow": "xtls-rprx-vision",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "www.reiss.com",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                },
+                "reality": {
+                    "enabled": true,
+                    "public_key": "RX19l5efFYFcVPaYhOnB8jlhfZ1SJNGZzfohQFjWwhE",
+                    "short_id": "cd00e976"
                 }
             }
         },
@@ -2244,7 +2269,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [11]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @netmellianti [10]",
             "type": "vless",
             "server": "94.237.24.169",
             "server_port": 40745,

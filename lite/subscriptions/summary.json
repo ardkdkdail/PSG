@@ -1,6 +1,6 @@
 {
     "meta": {
-        "last_updated": "2025-08-09T11:18:53+00:00"
+        "last_updated": "2025-08-09T12:32:47+00:00"
     },
     "sources": {
         "total_from_assets": 391,
@@ -11,31 +11,31 @@
     "configs": {
         "total_valid": 985,
         "breakdown_by_protocol": {
-            "vless": 736,
+            "vless": 737,
             "ss": 105,
-            "trojan": 24,
-            "vmess": 118,
+            "trojan": 22,
+            "vmess": 119,
             "tuic": 2
         }
     },
     "outputs": {
         "location_files_created": 39,
         "country_distribution": {
-            "CF": 259,
+            "CF": 268,
             "XX": 182,
-            "DE": 142,
-            "US": 89,
-            "IR": 86,
+            "DE": 135,
+            "US": 87,
+            "IR": 85,
             "NL": 42,
             "FR": 31,
             "FI": 27,
-            "GB": 21,
+            "GB": 23,
             "SE": 21,
             "RU": 13,
             "SG": 8,
             "TR": 8,
-            "CA": 7,
             "AT": 6,
+            "CA": 6,
             "PL": 5,
             "ES": 3,
             "HK": 3,
@@ -52,11 +52,11 @@
             "PT": 1,
             "AU": 1,
             "CW": 1,
-            "KR": 1,
             "DO": 1,
             "LT": 1,
             "AL": 1,
             "IT": 1,
+            "CY": 1,
             "LU": 1,
             "HR": 1,
             "NO": 1
