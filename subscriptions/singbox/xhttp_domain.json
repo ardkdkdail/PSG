@@ -97,6 +97,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [41]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -120,10 +121,9 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [15]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [52]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
-                "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
+                "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇩🇪 DE | 🔓 VLESS | @freakconfig [3]",
                 "❔ XX | 🔓 VLESS | @freakconfig [6]",
                 "❔ XX | 🔓 VLESS | @freakconfig [14]",
@@ -144,6 +144,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [9]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
+                "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [4]",
@@ -169,6 +170,7 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
+                "🇺🇸 US | 🔓 VLESS | @config_proxy [41]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -192,10 +194,9 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [15]",
-                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [52]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
-                "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
+                "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
                 "🇩🇪 DE | 🔓 VLESS | @freakconfig [3]",
                 "❔ XX | 🔓 VLESS | @freakconfig [6]",
                 "❔ XX | 🔓 VLESS | @freakconfig [14]",
@@ -216,6 +217,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [9]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
                 "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
+                "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [2]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [4]",
@@ -369,6 +371,15 @@
                     "short_id": "aeba"
                 }
             }
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @config_proxy [41]",
+            "type": "vless",
+            "server": "speedtest.net",
+            "server_port": 80,
+            "uuid": "4801c19d-37aa-4704-921e-9ee9bab80f1d",
+            "flow": "",
+            "packet_encoding": "xudp"
         },
         {
             "tag": "🚩 CF | 🔓 VLESS | @configscenter [2]",
@@ -606,15 +617,6 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [52]",
-            "type": "vless",
-            "server": "server2.ultra-irancell.com",
-            "server_port": 80,
-            "uuid": "turboo-server",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
             "tag": "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
             "type": "vless",
             "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
@@ -633,7 +635,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @fnet00 [5]",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 80,
@@ -952,6 +954,15 @@
             "server": "soren1.mahmouditravelers.top",
             "server_port": 26779,
             "uuid": "2f0f5525-5376-4820-a9b5-90064664a35d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
+            "type": "vless",
+            "server": "server2.ultra-irancell.com",
+            "server_port": 80,
+            "uuid": "turboo-server",
             "flow": "",
             "packet_encoding": "xudp"
         },
