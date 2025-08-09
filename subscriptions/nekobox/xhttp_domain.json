@@ -109,7 +109,6 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [15]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
-                "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @freakconfig [4]",
@@ -182,7 +181,6 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [15]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
-                "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [7]",
                 "🇩🇪 DE | 🔓 VLESS | @freakconfig [4]",
@@ -601,15 +599,6 @@
         },
         {
             "tag": "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
-            "type": "vless",
-            "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "a6b02202-a87a-4a79-b186-a7f59b989556",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
             "type": "vless",
             "server": "FASTSHOVPNTELEGRAM.fast.hosting-ip.com",
             "server_port": 80,
