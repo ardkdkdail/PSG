@@ -162,8 +162,8 @@
     },
     "config_proxy": {
         "types": [
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
@@ -595,7 +595,6 @@
     },
     "free1ss": {
         "types": [
-            "vless",
             "ss"
         ],
         "title": "🍊Aperto Shadowsocks Outline Vless VPN 🍊",
@@ -620,8 +619,8 @@
     },
     "free_serverir": {
         "types": [
-            "ss",
             "vless",
+            "ss",
             "trojan"
         ],
         "title": "Free SerVer",
@@ -887,8 +886,8 @@
     },
     "hope_net": {
         "types": [
-            "trojan",
             "vless",
+            "trojan",
             "ss",
             "vmess"
         ],
@@ -2313,8 +2312,8 @@
         "types": [
             "ss",
             "trojan",
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2731,16 +2730,16 @@
     },
     "vmesc": {
         "types": [
-            "ss",
-            "vless"
+            "vless",
+            "ss"
         ],
         "title": "Free V2ray",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/vmesc.jpg"
     },
     "vmess_ir": {
         "types": [
-            "vless",
             "ss",
+            "vless",
             "trojan"
         ],
         "title": "🚀سرور رایگان و اختصاصی vmess_ir🚀",
