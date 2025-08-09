@@ -886,7 +886,6 @@
     },
     "hope_net": {
         "types": [
-            "ss",
             "vless",
             "vmess",
             "trojan"
@@ -969,8 +968,7 @@
     "ipv2rayng": {
         "types": [
             "vmess",
-            "ss",
-            "vless"
+            "ss"
         ],
         "title": "ipV2rayNG",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/ipv2rayng.jpg"
@@ -1888,8 +1886,8 @@
     },
     "proxy_mtproto_vpns_free": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/proxy_mtproto_vpns_free.jpg"
@@ -2312,10 +2310,10 @@
     },
     "v2ray_free_conf": {
         "types": [
-            "vless",
-            "trojan",
             "vmess",
-            "ss"
+            "trojan",
+            "ss",
+            "vless"
         ],
         "title": "🌍 V2Ray Free Config 🇮🇷",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2ray_free_conf.jpg"
@@ -2413,8 +2411,8 @@
     },
     "v2rayfree": {
         "types": [
-            "vmess",
-            "vless"
+            "vless",
+            "vmess"
         ],
         "title": "VPNs Proxy Mtproto",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/v2rayfree.jpg"

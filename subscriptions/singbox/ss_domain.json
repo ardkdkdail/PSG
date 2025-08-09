@@ -94,7 +94,7 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [8]",
                 "🇺🇸 US | 🔒 SS | @canfing_vpn [6]",
-                "🇸🇪 SE | 🔒 SS | @dalton_ping [7]",
+                "🇸🇪 SE | 🔒 SS | @dalton_ping [4]",
                 "❔ XX | 🔒 SS | @darkma3ter24 [1]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [2]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [3]",
@@ -113,7 +113,7 @@
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [14]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
                 "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
-                "🇺🇸 US | 🔒 SS | @outline_vpn [10]",
+                "🇺🇸 US | 🔒 SS | @outline_vpn [8]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇩🇪 DE | 🔒 SS | @prrofile_purple [119]",
                 "❔ XX | 🔒 SS | @public504 [8]",
@@ -123,7 +123,6 @@
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [14]",
                 "🇦🇪 AE | 🔒 SS | @shadowsockskeys [4]",
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [16]",
-                "🇩🇪 DE | 🔒 SS | @v2ray_free_conf [6]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [9]",
                 "🇷🇺 RU | 🔒 SS | @v2rayopen [11]",
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
@@ -148,7 +147,7 @@
                 "KingRezaPahlavi",
                 "❔ XX | 🔒 SS | @ai_duet [8]",
                 "🇺🇸 US | 🔒 SS | @canfing_vpn [6]",
-                "🇸🇪 SE | 🔒 SS | @dalton_ping [7]",
+                "🇸🇪 SE | 🔒 SS | @dalton_ping [4]",
                 "❔ XX | 🔒 SS | @darkma3ter24 [1]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [2]",
                 "🇺🇸 US | 🔒 SS | @fastkanfig [3]",
@@ -167,7 +166,7 @@
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [14]",
                 "🇺🇸 US | 🔒 SS | @nepo_v2ray [19]",
                 "🇺🇸 US | 🔒 SS | @ntgreenplus [1]",
-                "🇺🇸 US | 🔒 SS | @outline_vpn [10]",
+                "🇺🇸 US | 🔒 SS | @outline_vpn [8]",
                 "❔ XX | 🔒 SS | @proxy_confiingir [2]",
                 "🇩🇪 DE | 🔒 SS | @prrofile_purple [119]",
                 "❔ XX | 🔒 SS | @public504 [8]",
@@ -177,7 +176,6 @@
                 "🇺🇸 US | 🔒 SS | @serverv2ray00 [14]",
                 "🇦🇪 AE | 🔒 SS | @shadowsockskeys [4]",
                 "🇷🇺 RU | 🔒 SS | @shadowsockskeys [16]",
-                "🇩🇪 DE | 🔒 SS | @v2ray_free_conf [6]",
                 "🇳🇱 NL | 🔒 SS | @v2rayngrit [9]",
                 "🇷🇺 RU | 🔒 SS | @v2rayopen [11]",
                 "❔ XX | 🔒 SS | @v2ryngfree [2]",
@@ -292,7 +290,7 @@
             "password": "u17T3BvpYaaiuW2c"
         },
         {
-            "tag": "🇸🇪 SE | 🔒 SS | @dalton_ping [7]",
+            "tag": "🇸🇪 SE | 🔒 SS | @dalton_ping [4]",
             "type": "shadowsocks",
             "server": "promo9v.bystrivpn.ru",
             "server_port": 443,
@@ -444,7 +442,7 @@
             "password": "WstuSnlu4ieA9M0L"
         },
         {
-            "tag": "🇺🇸 US | 🔒 SS | @outline_vpn [10]",
+            "tag": "🇺🇸 US | 🔒 SS | @outline_vpn [8]",
             "type": "shadowsocks",
             "server": "series-a2-me.varzesh360.co",
             "server_port": 443,
@@ -522,14 +520,6 @@
             "server_port": 2222,
             "method": "chacha20-ietf-poly1305",
             "password": "trErto8XzLALaQEslTp_jw"
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 SS | @v2ray_free_conf [6]",
-            "type": "shadowsocks",
-            "server": "h110vpnde2.outlinekeys.net",
-            "server_port": 53122,
-            "method": "chacha20-ietf-poly1305",
-            "password": "3EIXUBB9D8lSTn1C4RE9M1"
         },
         {
             "tag": "🇳🇱 NL | 🔒 SS | @v2rayngrit [9]",
