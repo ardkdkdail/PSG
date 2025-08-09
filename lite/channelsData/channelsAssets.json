@@ -162,9 +162,9 @@
     },
     "config_proxy": {
         "types": [
-            "vless",
             "vmess",
-            "ss"
+            "ss",
+            "vless"
         ],
         "title": "Proxy | V2ray | Config | Vpn | Hiddify | Nekobox | Segaro | پروکسی | فیلترشکن | ایرانسل | همراه اول | رایتل | سامانتل | مخابرات|",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/config_proxy.jpg"
@@ -888,8 +888,8 @@
     "hope_net": {
         "types": [
             "trojan",
-            "vless",
             "vmess",
+            "vless",
             "ss"
         ],
         "title": "🕊 Hope Net",
@@ -1493,8 +1493,8 @@
     },
     "mowjproxy": {
         "types": [
-            "vless",
-            "vmess"
+            "vmess",
+            "vless"
         ],
         "title": "Mowj Proxy",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/mowjproxy.jpg"
@@ -2204,16 +2204,6 @@
         ],
         "title": "TehranFreeVPN",
         "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/tehranfreevpn.jpg"
-    },
-    "tgvpn6": {
-        "types": [
-            "vmess",
-            "ss",
-            "trojan",
-            "vless"
-        ],
-        "title": "VPN 节点 回国IP tg直连",
-        "logo": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/channelsData/logos/tgvpn6.jpg"
     },
     "tiny_vpn_official": {
         "types": [

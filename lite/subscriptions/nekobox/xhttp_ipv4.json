@@ -94,7 +94,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [8]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]"
@@ -122,7 +121,6 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2rayexpress [11]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayexpress [12]",
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [8]",
-                "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
                 "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]"
@@ -489,15 +487,6 @@
                     "short_id": "2cc45a0088671249"
                 }
             }
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2rayngfreee [4]",
-            "type": "vless",
-            "server": "151.101.67.8",
-            "server_port": 80,
-            "uuid": "joinshotoV2rayNGFreee",
-            "flow": "",
-            "packet_encoding": "xudp"
         },
         {
             "tag": "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",

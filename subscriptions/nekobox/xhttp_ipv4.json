@@ -81,6 +81,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [42]",
                 "🇺🇸 US | 🔒 VLESS | @configfa [15]",
                 "🇺🇸 US | 🔓 VLESS | @configms [1]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
@@ -93,8 +94,8 @@
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
-                "🇴🇲 OM | 🔓 VLESS | @freakconfig [4]",
-                "🇸🇦 SA | 🔓 VLESS | @freakconfig [9]",
+                "🇴🇲 OM | 🔓 VLESS | @freakconfig [5]",
+                "🇸🇦 SA | 🔓 VLESS | @freakconfig [10]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [1]",
@@ -147,6 +148,7 @@
                 "جاویدشاه",
                 "KingRezaPahlavi",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [13]",
+                "🇳🇱 NL | 🔒 VLESS | @config_proxy [42]",
                 "🇺🇸 US | 🔒 VLESS | @configfa [15]",
                 "🇺🇸 US | 🔓 VLESS | @configms [1]",
                 "🇺🇸 US | 🔓 VLESS | @configtrapi [20]",
@@ -159,8 +161,8 @@
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [4]",
                 "🇺🇸 US | 🔓 VLESS | @fastkanfig [8]",
                 "🇺🇸 US | 🔓 VLESS | @fnet00 [1]",
-                "🇴🇲 OM | 🔓 VLESS | @freakconfig [4]",
-                "🇸🇦 SA | 🔓 VLESS | @freakconfig [9]",
+                "🇴🇲 OM | 🔓 VLESS | @freakconfig [5]",
+                "🇸🇦 SA | 🔓 VLESS | @freakconfig [10]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [10]",
                 "🇺🇸 US | 🔓 VLESS | @gh_v2rayng [10]",
                 "🇺🇸 US | 🔓 VLESS | @ghotb_scarf [1]",
@@ -299,6 +301,24 @@
             "uuid": "724383d8-33c6-4e8d-9db4-0184a89efa33",
             "flow": "",
             "packet_encoding": "xudp"
+        },
+        {
+            "tag": "🇳🇱 NL | 🔒 VLESS | @config_proxy [42]",
+            "type": "vless",
+            "server": "206.71.158.10",
+            "server_port": 443,
+            "uuid": "7c63f43f-f526-49bb-b5c8-2be26e11ef00",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "tls": {
+                "enabled": true,
+                "server_name": "statue.lnmarketplace.net",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
         },
         {
             "tag": "🇺🇸 US | 🔒 VLESS | @configfa [15]",
@@ -474,7 +494,7 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇴🇲 OM | 🔓 VLESS | @freakconfig [4]",
+            "tag": "🇴🇲 OM | 🔓 VLESS | @freakconfig [5]",
             "type": "vless",
             "server": "38.54.116.73",
             "server_port": 443,
@@ -492,7 +512,7 @@
             }
         },
         {
-            "tag": "🇸🇦 SA | 🔓 VLESS | @freakconfig [9]",
+            "tag": "🇸🇦 SA | 🔓 VLESS | @freakconfig [10]",
             "type": "vless",
             "server": "38.54.61.25",
             "server_port": 443,
