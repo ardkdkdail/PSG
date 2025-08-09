@@ -83,7 +83,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [9]",
-                "🇩🇪 DE | 🔓 VLESS | @lexernet [9]",
+                "🇩🇪 DE | 🔓 VLESS | @lexernet [8]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -96,7 +96,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [8]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]"
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
+                "🇩🇪 DE | 🔓 VLESS | @vpn_ioss [17]"
             ],
             "tag": "proxy",
             "type": "selector"
@@ -110,7 +111,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @customvpnserver [9]",
                 "🇩🇪 DE | 🔒 VLESS | @elfv2ray [1]",
                 "🇺🇸 US | 🔒 VLESS | @game_file2020 [9]",
-                "🇩🇪 DE | 🔓 VLESS | @lexernet [9]",
+                "🇩🇪 DE | 🔓 VLESS | @lexernet [8]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [1]",
                 "🇩🇪 DE | 🔒 VLESS | @mehduox_vpn [3]",
                 "🇳🇱 NL | 🔓 VLESS | @minovpnch [14]",
@@ -123,7 +124,8 @@
                 "🇩🇪 DE | 🔒 VLESS | @v2raymelliii [8]",
                 "🇫🇮 FI | 🔓 VLESS | @v2rayngfreee [5]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayngninja [10]",
-                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]"
+                "🇩🇪 DE | 🔓 VLESS | @vmesskhodam [6]",
+                "🇩🇪 DE | 🔓 VLESS | @vpn_ioss [17]"
             ],
             "tag": "auto",
             "tolerance": 50,
@@ -283,7 +285,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @lexernet [9]",
+            "tag": "🇩🇪 DE | 🔓 VLESS | @lexernet [8]",
             "type": "vless",
             "server": "91.99.219.15",
             "server_port": 443,
@@ -537,6 +539,15 @@
                     "fingerprint": "chrome"
                 }
             }
+        },
+        {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @vpn_ioss [17]",
+            "type": "vless",
+            "server": "91.99.85.185",
+            "server_port": 8443,
+            "uuid": "e66beedb-dd44-47f0-baf8-7ba947d919d0",
+            "flow": "",
+            "packet_encoding": "xudp"
         }
     ],
     "route": {
