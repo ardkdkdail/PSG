@@ -111,8 +111,8 @@
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [14]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇨🇳 CN | 🔓 TROJAN | @hope_net [8]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [15]",
+                "🇨🇳 CN | 🔓 TROJAN | @hope_net [6]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [13]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -231,8 +231,8 @@
                 "🇫🇷 FR | 🔒 TROJAN | @directvpn [14]",
                 "🇺🇸 US | 🔒 TROJAN | @freeconfigsplus [11]",
                 "🇩🇪 DE | 🔓 TROJAN | @freev2raym [8]",
-                "🇨🇳 CN | 🔓 TROJAN | @hope_net [8]",
-                "🚩 CF | 🔓 TROJAN | @hope_net [15]",
+                "🇨🇳 CN | 🔓 TROJAN | @hope_net [6]",
+                "🚩 CF | 🔓 TROJAN | @hope_net [13]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [5]",
                 "🚩 CF | 🔒 TROJAN | @ip_cf_config [9]",
                 "🇺🇸 US | 🔒 TROJAN | @ip_cf_config [11]",
@@ -710,14 +710,14 @@
             "password": "ziIjOlyGbM"
         },
         {
-            "tag": "🇨🇳 CN | 🔓 TROJAN | @hope_net [8]",
+            "tag": "🇨🇳 CN | 🔓 TROJAN | @hope_net [6]",
             "type": "trojan",
             "server": "36.151.192.239",
             "server_port": 42395,
             "password": "QwwHvrnN"
         },
         {
-            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [15]",
+            "tag": "🚩 CF | 🔓 TROJAN | @hope_net [13]",
             "type": "trojan",
             "server": "104.16.208.241",
             "server_port": 443,

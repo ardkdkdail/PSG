@@ -50,14 +50,14 @@ proxies:
   - {"name":"🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]","type":"ss","server":"4.223.106.151","port":48172,"password":"51yloQC8D9w1Wae7FHtI65","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]","type":"ss","server":"185.231.233.173","port":990,"password":"f8f7aCzcPKbsF8p3","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇸🇬 SG | 🔒 SS | @freakconfig [15]","type":"ss","server":"68.183.226.95","port":52042,"password":"xMUVeKCBmgwJOjGtsbQ2JF","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇫🇷 FR | 🔒 SS | @free1ss [13]","type":"ss","server":"62.210.88.22","port":443,"password":"e42kcOnb7qOIHF5AZQ1dvC","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇷🇺 RU | 🔒 SS | @free1ss [14]","type":"ss","server":"194.87.118.34","port":2222,"password":"trErto8XzLALaQEslTp_jw","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇫🇮 FI | 🔒 SS | @free1ss [15]","type":"ss","server":"83.147.216.70","port":64519,"password":"rOQrWhz7otxOrPBC6uHd3F","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇫🇷 FR | 🔒 SS | @free1ss [12]","type":"ss","server":"62.210.88.22","port":443,"password":"e42kcOnb7qOIHF5AZQ1dvC","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇷🇺 RU | 🔒 SS | @free1ss [13]","type":"ss","server":"194.87.118.34","port":2222,"password":"trErto8XzLALaQEslTp_jw","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇫🇮 FI | 🔒 SS | @free1ss [14]","type":"ss","server":"83.147.216.70","port":64519,"password":"rOQrWhz7otxOrPBC6uHd3F","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @freev2raym [9]","type":"ss","server":"91.107.141.0","port":43486,"password":"7vlJpFVhEpKh/VTTCvOab8eEoJo+MeXJpj9CDxLYm9o=","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]","type":"ss","server":"89.23.103.21","port":51584,"password":"oYQ8JwEldYn4KT2gfZ6eNl","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]","type":"ss","server":"86.104.74.243","port":14255,"password":"fDDmH4QefmWqMJ8UURZrGh","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇹🇷 TR | 🔒 SS | @gh_v2rayng [17]","type":"ss","server":"193.46.56.185","port":6683,"password":"iw8GoN42dciNxDBd0RwAdL","cipher":"chacha20-ietf-poly1305"}
-  - {"name":"🇸🇬 SG | 🔒 SS | @gh_v2rayng [19]","type":"ss","server":"188.166.220.70","port":37708,"password":"24Wk2NSszrfHn22zem1lYV","cipher":"chacha20-ietf-poly1305"}
+  - {"name":"🇸🇬 SG | 🔒 SS | @gh_v2rayng [18]","type":"ss","server":"188.166.220.70","port":37708,"password":"24Wk2NSszrfHn22zem1lYV","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @injectormconf [40]","type":"ss","server":"51.142.171.150","port":49499,"password":"kTjlLxrncKx4i2HIjxfA3M","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇬🇧 GB | 🔒 SS | @ir_netproxy [13]","type":"ss","server":"51.105.36.101","port":13928,"password":"2gxDsKmZRuz4wRCKyXJdJl","cipher":"chacha20-ietf-poly1305"}
   - {"name":"🇩🇪 DE | 🔒 SS | @jiedianf [5]","type":"ss","server":"138.124.115.157","port":1080,"password":"M-nffO40KlclwbCX9CV1DQ","cipher":"chacha20-ietf-poly1305"}
@@ -134,14 +134,14 @@ proxy-groups:
       - '🇸🇪 SE | 🔒 SS | @filtershekan_channel [12]'
       - '🇵🇹 PT | 🔒 SS | @filtershekan_channel [13]'
       - '🇸🇬 SG | 🔒 SS | @freakconfig [15]'
-      - '🇫🇷 FR | 🔒 SS | @free1ss [13]'
-      - '🇷🇺 RU | 🔒 SS | @free1ss [14]'
-      - '🇫🇮 FI | 🔒 SS | @free1ss [15]'
+      - '🇫🇷 FR | 🔒 SS | @free1ss [12]'
+      - '🇷🇺 RU | 🔒 SS | @free1ss [13]'
+      - '🇫🇮 FI | 🔒 SS | @free1ss [14]'
       - '🇩🇪 DE | 🔒 SS | @freev2raym [9]'
       - '🇳🇱 NL | 🔒 SS | @freevirgoolnet [7]'
       - '🇫🇷 FR | 🔒 SS | @freevirgoolnet [8]'
       - '🇹🇷 TR | 🔒 SS | @gh_v2rayng [17]'
-      - '🇸🇬 SG | 🔒 SS | @gh_v2rayng [19]'
+      - '🇸🇬 SG | 🔒 SS | @gh_v2rayng [18]'
       - '🇬🇧 GB | 🔒 SS | @injectormconf [40]'
       - '🇬🇧 GB | 🔒 SS | @ir_netproxy [13]'
       - '🇩🇪 DE | 🔒 SS | @jiedianf [5]'
