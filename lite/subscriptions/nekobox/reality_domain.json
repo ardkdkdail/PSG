@@ -99,7 +99,7 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
-                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
+                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -122,8 +122,8 @@
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
                 "🇺🇸 US | 🔒 VLESS | @v2trayproxy [8]",
-                "🇭🇷 HR | 🔒 VLESS | @vistav2ray [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vistav2ray [15]",
+                "🇭🇷 HR | 🔒 VLESS | @vistav2ray [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vistav2ray [14]",
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
                 "❔ XX | 🔒 VLESS | @vp22ray [10]",
                 "❔ XX | 🔒 VLESS | @vp22ray [11]",
@@ -158,7 +158,7 @@
                 "❔ XX | 🔒 VLESS | @itv2ray [30]",
                 "❔ XX | 🔒 VLESS | @jedal_vpn [4]",
                 "❔ XX | 🔒 VLESS | @kesslervpn [3]",
-                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
+                "🇬🇧 GB | 🔒 VLESS | @mowjproxy [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [3]",
                 "🇳🇱 NL | 🔒 VLESS | @nn_vpn [4]",
                 "❔ XX | 🔒 VLESS | @persian_proxy6 [4]",
@@ -181,8 +181,8 @@
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
                 "❔ XX | 🔒 VLESS | @v2rayza [19]",
                 "🇺🇸 US | 🔒 VLESS | @v2trayproxy [8]",
-                "🇭🇷 HR | 🔒 VLESS | @vistav2ray [14]",
-                "🇩🇪 DE | 🔒 VLESS | @vistav2ray [15]",
+                "🇭🇷 HR | 🔒 VLESS | @vistav2ray [13]",
+                "🇩🇪 DE | 🔒 VLESS | @vistav2ray [14]",
                 "❔ XX | 🔒 VLESS | @vp22ray [9]",
                 "❔ XX | 🔒 VLESS | @vp22ray [10]",
                 "❔ XX | 🔒 VLESS | @vp22ray [11]",
@@ -759,7 +759,7 @@
             }
         },
         {
-            "tag": "🇬🇧 GB | 🔒 VLESS | @mowjproxy [4]",
+            "tag": "🇬🇧 GB | 🔒 VLESS | @mowjproxy [3]",
             "type": "vless",
             "server": "panel.dayhostpro.com",
             "server_port": 20392,
@@ -1308,7 +1308,7 @@
             }
         },
         {
-            "tag": "🇭🇷 HR | 🔒 VLESS | @vistav2ray [14]",
+            "tag": "🇭🇷 HR | 🔒 VLESS | @vistav2ray [13]",
             "type": "vless",
             "server": "deu246.bypassall.org",
             "server_port": 443,
@@ -1331,7 +1331,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @vistav2ray [15]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @vistav2ray [14]",
             "type": "vless",
             "server": "graygoat.fonixapp.org",
             "server_port": 45846,

@@ -97,7 +97,6 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [31]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -121,7 +120,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [15]",
-                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [59]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [56]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -145,6 +144,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [1]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [9]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
+                "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [2]",
@@ -152,7 +152,6 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [5]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇺🇸 US | 🔓 VLESS | @v2ry_proxy [6]",
-                "🇺🇸 US | 🔓 VLESS | @v2trayproxy [4]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -171,7 +170,6 @@
                 "🇺🇸 US | 🔓 VLESS | @appsooner [6]",
                 "🇺🇸 US | 🔓 VLESS | @canfing_vpn [8]",
                 "❔ XX | 🔒 VLESS | @canfing_vpn [16]",
-                "🇩🇪 DE | 🔒 VLESS | @config_proxy [31]",
                 "🚩 CF | 🔓 VLESS | @configscenter [2]",
                 "❔ XX | 🔓 VLESS | @configtrapi [15]",
                 "🇺🇸 US | 🔓 VLESS | @dailytek [7]",
@@ -195,7 +193,7 @@
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [28]",
                 "🇺🇸 US | 🔓 VLESS | @expressvpn_420 [32]",
                 "🇺🇸 US | 🔓 VLESS | @farahvpn [15]",
-                "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [59]",
+                "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [56]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [1]",
                 "🇺🇸 US | 🔓 VLESS | @fastshovpn [2]",
                 "🇩🇪 DE | 🔓 VLESS | @fastvpnorummobile [4]",
@@ -219,6 +217,7 @@
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [1]",
                 "🇩🇪 DE | 🔒 VLESS | @proxystore11 [9]",
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
+                "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
                 "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
                 "🚩 CF | 🔒 VLESS | @v2aryng_vpn [3]",
                 "🇺🇸 US | 🔓 VLESS | @v2graphy [2]",
@@ -226,7 +225,6 @@
                 "🇺🇸 US | 🔓 VLESS | @v2ray_sub [5]",
                 "🇺🇸 US | 🔓 VLESS | @v2ray_vmes [17]",
                 "🇺🇸 US | 🔓 VLESS | @v2ry_proxy [6]",
-                "🇺🇸 US | 🔓 VLESS | @v2trayproxy [4]",
                 "❔ XX | 🔓 VLESS | @vpnfree_irann [1]",
                 "🇺🇸 US | 🔓 VLESS | @vpnfree_irann [3]",
                 "🇮🇹 IT | 🔓 VLESS | @xsv2ray [5]"
@@ -371,29 +369,6 @@
                     "enabled": true,
                     "public_key": "53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk",
                     "short_id": "aeba"
-                }
-            }
-        },
-        {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @config_proxy [31]",
-            "type": "vless",
-            "server": "sjdnsjs.varzesh3.com.tr",
-            "server_port": 1002,
-            "uuid": "8f912dcc-3c65-4003-bfeb-fd8f8d1b38a4",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "cdn.jsdelivr.net",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "firefox"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "ZR-m-ptbkHU71ZoH-jRM8L1NqSN1rzW738PsSHFwkik",
-                    "short_id": ""
                 }
             }
         },
@@ -633,11 +608,11 @@
             "packet_encoding": "xudp"
         },
         {
-            "tag": "🇩🇪 DE | 🔓 VLESS | @fastfreeconfig [59]",
+            "tag": "🇺🇸 US | 🔓 VLESS | @fastfreeconfig [56]",
             "type": "vless",
-            "server": "soren1.mahmouditravelers.top",
-            "server_port": 26779,
-            "uuid": "2f0f5525-5376-4820-a9b5-90064664a35d",
+            "server": "DailyConfigs.fast.hosting-ip.com",
+            "server_port": 80,
+            "uuid": "378b8e58-6a23-4fc6-b227-67665a78033d",
             "flow": "",
             "packet_encoding": "xudp"
         },
@@ -983,6 +958,15 @@
             }
         },
         {
+            "tag": "🇩🇪 DE | 🔓 VLESS | @proxystore11 [12]",
+            "type": "vless",
+            "server": "soren1.mahmouditravelers.top",
+            "server_port": 26779,
+            "uuid": "2f0f5525-5376-4820-a9b5-90064664a35d",
+            "flow": "",
+            "packet_encoding": "xudp"
+        },
+        {
             "tag": "🇺🇸 US | 🔓 VLESS | @turboo_server [10]",
             "type": "vless",
             "server": "server2.ultra-irancell.com",
@@ -1051,15 +1035,6 @@
             "server": "configline.fast.hosting-ip.com",
             "server_port": 80,
             "uuid": "TELEGRAM-CONFiGLiNE",
-            "flow": "",
-            "packet_encoding": "xudp"
-        },
-        {
-            "tag": "🇺🇸 US | 🔓 VLESS | @v2trayproxy [4]",
-            "type": "vless",
-            "server": "DailyConfigs.fast.hosting-ip.com",
-            "server_port": 80,
-            "uuid": "378b8e58-6a23-4fc6-b227-67665a78033d",
             "flow": "",
             "packet_encoding": "xudp"
         },
