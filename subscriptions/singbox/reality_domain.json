@@ -108,7 +108,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇭🇷 HR | 🔒 VLESS | @config_proxy [31]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
@@ -169,11 +168,11 @@
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
-                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [123]",
-                "🇭🇷 HR | 🔒 VLESS | @prrofile_purple [131]",
-                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [133]",
-                "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [135]",
-                "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [136]",
+                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [118]",
+                "🇭🇷 HR | 🔒 VLESS | @prrofile_purple [126]",
+                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [128]",
+                "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [130]",
+                "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [131]",
                 "❔ XX | 🔒 VLESS | @public504 [2]",
                 "🇨🇦 CA | 🔒 VLESS | @public504 [3]",
                 "❔ XX | 🔒 VLESS | @public504 [5]",
@@ -199,7 +198,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2raymelliii [7]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [6]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
-                "🇺🇸 US | 🔒 VLESS | @v2rayngrit [13]",
+                "🇮🇪 IE | 🔒 VLESS | @v2rayngrit [13]",
                 "❔ XX | 🔒 VLESS | @v2rayngrit [15]",
                 "🇺🇸 US | 🔒 VLESS | @v2rayngseven [3]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayprotocol [2]",
@@ -260,7 +259,6 @@
                 "❔ XX | 🔒 VLESS | @catvpns [6]",
                 "❔ XX | 🔒 VLESS | @catvpns [7]",
                 "❔ XX | 🔒 VLESS | @catvpns [11]",
-                "🇭🇷 HR | 🔒 VLESS | @config_proxy [31]",
                 "🇩🇪 DE | 🔒 VLESS | @configasli [8]",
                 "🇫🇮 FI | 🔒 VLESS | @configfa [17]",
                 "🇩🇪 DE | 🔒 VLESS | @configtrapi [21]",
@@ -321,11 +319,11 @@
                 "❔ XX | 🔒 VLESS | @proxystore11 [11]",
                 "❔ XX | 🔒 VLESS | @proxysudo [2]",
                 "❔ XX | 🔒 VLESS | @proxysudo [3]",
-                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [123]",
-                "🇭🇷 HR | 🔒 VLESS | @prrofile_purple [131]",
-                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [133]",
-                "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [135]",
-                "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [136]",
+                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [118]",
+                "🇭🇷 HR | 🔒 VLESS | @prrofile_purple [126]",
+                "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [128]",
+                "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [130]",
+                "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [131]",
                 "❔ XX | 🔒 VLESS | @public504 [2]",
                 "🇨🇦 CA | 🔒 VLESS | @public504 [3]",
                 "❔ XX | 🔒 VLESS | @public504 [5]",
@@ -351,7 +349,7 @@
                 "🇳🇱 NL | 🔒 VLESS | @v2raymelliii [7]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [6]",
                 "❔ XX | 🔒 VLESS | @v2rayngconfings [18]",
-                "🇺🇸 US | 🔒 VLESS | @v2rayngrit [13]",
+                "🇮🇪 IE | 🔒 VLESS | @v2rayngrit [13]",
                 "❔ XX | 🔒 VLESS | @v2rayngrit [15]",
                 "🇺🇸 US | 🔒 VLESS | @v2rayngseven [3]",
                 "🇩🇪 DE | 🔒 VLESS | @v2rayprotocol [2]",
@@ -869,29 +867,6 @@
             "transport": {
                 "type": "grpc",
                 "service_name": "@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns@CatVpns"
-            }
-        },
-        {
-            "tag": "🇭🇷 HR | 🔒 VLESS | @config_proxy [31]",
-            "type": "vless",
-            "server": "deu246.bypassall.org",
-            "server_port": 443,
-            "uuid": "b4b8aa1f-77d2-4851-a5a4-f78886f3e997",
-            "flow": "xtls-rprx-vision",
-            "packet_encoding": "xudp",
-            "tls": {
-                "enabled": true,
-                "server_name": "www.bing.com",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                },
-                "reality": {
-                    "enabled": true,
-                    "public_key": "BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs",
-                    "short_id": ""
-                }
             }
         },
         {
@@ -2378,7 +2353,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [123]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [118]",
             "type": "vless",
             "server": "ab.iranlit.ir",
             "server_port": 1611,
@@ -2401,7 +2376,7 @@
             }
         },
         {
-            "tag": "🇭🇷 HR | 🔒 VLESS | @prrofile_purple [131]",
+            "tag": "🇭🇷 HR | 🔒 VLESS | @prrofile_purple [126]",
             "type": "vless",
             "server": "deu246.bypassall.org",
             "server_port": 443,
@@ -2424,7 +2399,7 @@
             }
         },
         {
-            "tag": "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [133]",
+            "tag": "🇩🇪 DE | 🔒 VLESS | @prrofile_purple [128]",
             "type": "vless",
             "server": "graygoat.fonixapp.org",
             "server_port": 45846,
@@ -2447,7 +2422,7 @@
             }
         },
         {
-            "tag": "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [135]",
+            "tag": "🇱🇻 LV | 🔒 VLESS | @prrofile_purple [130]",
             "type": "vless",
             "server": "s2.nodu10.ru",
             "server_port": 443,
@@ -2470,7 +2445,7 @@
             }
         },
         {
-            "tag": "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [136]",
+            "tag": "🇨🇦 CA | 🔒 VLESS | @prrofile_purple [131]",
             "type": "vless",
             "server": "ca.shatak.store",
             "server_port": 7020,
@@ -3084,7 +3059,7 @@
             }
         },
         {
-            "tag": "🇺🇸 US | 🔒 VLESS | @v2rayngrit [13]",
+            "tag": "🇮🇪 IE | 🔒 VLESS | @v2rayngrit [13]",
             "type": "vless",
             "server": "amazon-4.cristiano.name.ng",
             "server_port": 443,
